@@ -1,0 +1,131 @@
+{
+  "hero": {
+    "heading1": "Redefine Your",
+    "heading2": "Natural Beauty",
+    "description": "We specialize in enhancing your natural beauty, creating timeless radiance with a harmony of science & artistry.",
+    "cta1": "Arrange Schedule",
+    "cta2": "View Your Treatment",
+    "scanFace": "Scan Your Face",
+    "skinTreatment": "Natural Skin Treatment",
+    "viewRecommendations": "View Recommendations",
+    "stat1Value": "35",
+    "stat1Label1": "Traditional & Modern",
+    "stat1Label2": "Beauty Treatments",
+    "stat2Value": "50+",
+    "stat2Label1": "Professional Expert",
+    "stat2Label2": "Beauticians",
+    "customersVisited": "Customers Visited Us",
+    "scroll": "SCROLL"
+  },
+  "beforeAfter": {
+    "badge": "Real Results",
+    "title1": "Before &",
+    "title2": "After",
+    "desc": "Slide to see the incredible transformations achieved by our clients with GLP-1 treatment",
+    "before": "Before",
+    "after": "After",
+    "dragToCompare": "Drag to compare",
+    "failedToLoad": "Failed to load images",
+    "disclaimer": "Results may vary. Individual results depend on various factors.",
+    "cta": "Start Your Transformation"
+  },
+  "services": {
+    "subtitle": "Our Expertise",
+    "title": "Specialized",
+    "titleHighlight": "Treatments",
+    "description": "Discover our comprehensive range of medical aesthetic services, each tailored to your unique needs.",
+    "explore": "Explore",
+    "items": {
+      "facial": {
+        "title": "Facial Rejuvenation",
+        "subtitle": "Anti-Aging & Contouring",
+        "description": "Botox, fillers, and advanced lifting treatments"
+      },
+      "weightLoss": {
+        "title": "Medical Weight Loss",
+        "subtitle": "Science-Based Programs",
+        "description": "Ozempic, Mounjaro & body contouring"
+      },
+      "skin": {
+        "title": "Skin Treatments",
+        "subtitle": "Acne & Pigmentation",
+        "description": "Laser therapy & chemical peels"
+      },
+      "hair": {
+        "title": "Hair Restoration",
+        "subtitle": "PRP & Mesotherapy",
+        "description": "Advanced hair loss solutions"
+      }
+    }
+  },
+  "whyChoose": {
+    "subtitle": "Why Nexus Clinic",
+    "title": "Where Science Meets",
+    "titleHighlight": "Artistry",
+    "description": "At Nexus Clinic, we believe in enhancing your natural beauty through evidence-based treatments. Our doctor-led approach ensures safety, efficacy, and results you'll love.",
+    "yearsValue": "15+",
+    "yearsLabel1": "Years of",
+    "yearsLabel2": "Excellence",
+    "features": {
+      "moh": {
+        "title": "MOH Registered",
+        "desc": "Fully compliant with medical standards"
+      },
+      "doctor": {
+        "title": "Doctor-Led Care",
+        "desc": "Licensed medical professionals"
+      },
+      "personalized": {
+        "title": "Personalized Plans",
+        "desc": "Tailored to your unique needs"
+      },
+      "premium": {
+        "title": "Premium Products",
+        "desc": "FDA approved treatments"
+      }
+    }
+  },
+  "testimonials": {
+    "subtitle": "Testimonials",
+    "title": "What Our",
+    "titleHighlight": "Patients",
+    "titleEnd": "Say",
+    "reviews": "(500+ Reviews)",
+    "items": [
+      {
+        "quote": "Nexus Clinic transformed not just my appearance, but my confidence. The doctors truly listen and create personalized solutions.",
+        "author": "Sarah Chen",
+        "role": "Business Executive"
+      },
+      {
+        "quote": "I was impressed by their transparent approach. They never push unnecessary treatments. A clinic you can truly trust.",
+        "author": "Michael Tan",
+        "role": "Entrepreneur"
+      },
+      {
+        "quote": "The weight loss program changed my life. With proper medical guidance, I achieved my goals safely and sustainably.",
+        "author": "Emily Wong",
+        "role": "Creative Director"
+      }
+    ]
+  },
+  "contact": {
+    "subtitle": "Get in Touch",
+    "title": "Visit",
+    "titleHighlight": "Nexus Clinic",
+    "address": "LG 10, Wisma UOA II, Jalan Pinang, KL",
+    "phone": "016-702 5699 / 03-2163 5699",
+    "hours": "Mon - Sat: 9:00 AM - 6:00 PM",
+    "formTitle": "Book Your Consultation",
+    "placeholderName": "Your Name",
+    "placeholderEmail": "Email Address",
+    "placeholderPhone": "Phone Number",
+    "selectTreatment": "Select Treatment Interest",
+    "optionFacial": "Facial & Anti-Aging",
+    "optionWeightLoss": "Weight Loss Program",
+    "optionSkin": "Skin Treatments",
+    "optionHair": "Hair Restoration",
+    "placeholderMessage": "Your Message",
+    "submitButton": "Submit Enquiry"
+  }
+}

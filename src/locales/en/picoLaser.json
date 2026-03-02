@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "Nexus Clinic Kuala Lumpur",
+    "title1": "Your",
+    "title2": "\"clear skin\"",
+    "title3": "moment starts here",
+    "desc": "Not in perfect lighting, but in real life. Gentle, precise, and thoughtfully planned for Malaysian skin.",
+    "btn1": "Start Your Clear Skin Journey",
+    "btn2": "Book Assessment",
+    "trust1": "MOH Registered",
+    "trust2": "Doctor Led",
+    "trust3": "Evidence Based"
+  },
+  "realityCheck": {
+    "badge": "Quick reality check",
+    "title": "Because your skin is not a filter",
+    "desc": "If you're dealing with pigment that keeps coming back, acne marks that refuse to fade, or a \"why do I look tired\" tone even after skincare, Pico Laser can be a smart next step.",
+    "highlight": "It's not magic. It's medical precision."
+  },
+  "whatIs": {
+    "badge": "In simple words",
+    "title": "What is Pico Laser?",
+    "desc": "Pico Laser delivers energy in ultra short bursts—faster than a snap of your fingers. It breaks pigment into tiny particles and stimulates skin remodeling while limiting excess heat spread.",
+    "point1": "Ultrashort picosecond pulses for precision",
+    "point2": "Minimizes heat damage to surrounding skin",
+    "point3": "Safe for Malaysian skin tones when done correctly",
+    "target1": "Sunspots & Freckles",
+    "target2": "Post Acne Marks",
+    "target3": "Enlarged Pores",
+    "target4": "Uneven Tone"
+  },
+  "whyMalaysian": {
+    "badge": "Why it works",
+    "title": "For Malaysian skin tones",
+    "desc": "Many Malaysians sit in medium to deeper skin tone ranges. Heat-based treatments can trigger pigmentation issues—Pico Laser's ultra short pulses minimize this risk.",
+    "safeBadge": "Recognized safe for darker skin tones",
+    "quote": "\"Picosecond lasers minimize unwanted heat damage while maintaining efficacy\"",
+    "quoteSource": "— Clinical Review on Treating PIH in Skin of Colour"
+  },
+  "approach": {
+    "badge": "The Nexus Clinic approach",
+    "title": "How we keep it safe and worth it",
+    "step1Title": "1. Skin Assessment First",
+    "step1Desc": "We analyze your pigment type, inflammation level, and past reactions",
+    "step2Title": "2. Patch Testing",
+    "step2Desc": "Essential for reactive skin or history of PIH",
+    "step3Title": "3. Skin + Sun Strategy",
+    "step3Desc": "Laser without aftercare is like gym without protein"
+  },
+  "areas": {
+    "title": "Areas we treat",
+    "desc": "Full face to targeted concerns",
+    "area1": "Full Face",
+    "area2": "Cheeks",
+    "area3": "Upper Lip",
+    "area4": "Neck & Chest",
+    "area5": "Hands",
+    "area6": "Back & Shoulders",
+    "area7": "Tattoo Areas",
+    "area8": "Custom Spots"
+  },
+  "sessions": {
+    "badge": "Practical guide",
+    "title": "How many sessions?",
+    "desc": "Based on your concern and how your skin responds:",
+    "concern1": "Surface pigment & glow",
+    "sessions1": "3-5 sessions",
+    "concern2": "Post acne marks",
+    "sessions2": "3-6 sessions",
+    "concern3": "Melasma",
+    "sessions3": "Results vary, maintenance common",
+    "concern4": "Tattoos",
+    "sessions4": "Depends on ink colour and depth",
+    "downtimeTitle": "Downtime?",
+    "downtimeDesc": "Most people don't need to hide at home. Mild redness for a few hours—that's it.",
+    "downtimeNote": "Back to normal same day"
+  },
+  "prosCons": {
+    "title": "Honest pros & cons",
+    "prosTitle": "Pros",
+    "pro1": "Targets pigment with less heat spread",
+    "pro2": "Quick sessions, minimal disruption",
+    "pro3": "Improves tone and texture over time",
+    "consTitle": "Cons",
+    "con1": "Not a one-session miracle",
+    "con2": "Melasma can recur",
+    "con3": "Wrong settings can trigger PIH",
+    "con4": "Deep scars may need combination treatments"
+  },
+  "faq": {
+    "q1": "Is Pico Laser painful?",
+    "a1": "Most people feel quick snaps or mild tingling—very tolerable.",
+    "q2": "Does your face peel after?",
+    "a2": "Mild peeling can happen, especially when targeting pigmentation.",
+    "q3": "Can I wash my face after?",
+    "a3": "Yes, gently with lukewarm water and mild cleanser.",
+    "q4": "Is it safe for darker skin?",
+    "a4": "Yes, when performed correctly with proper settings.",
+    "q5": "Can it remove melasma permanently?",
+    "a5": "Melasma can improve but recurrence is common—we plan long-term."
+  },
+  "cta": {
+    "title": "Start with a proper diagnosis",
+    "desc": "Book an assessment at Nexus Clinic Kuala Lumpur. Choose the right settings and schedule for your skin.",
+    "bookBtn": "Book Your Assessment",
+    "address": "LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "hero": {
+    "badge": "Nexus Clinic Kuala Lumpur",
+    "title1": "Meredakan eksim",
+    "title2": "yang benar-benar terasa.",
+    "desc": "Tenangkan kulit Anda, tidur lebih nyenyak, dan hentikan siklus kambuh di Kuala Lumpur.",
+    "sleepTitle": "Tidur lebih nyenyak",
+    "sleepDesc": "Saat eksim kambuh, ia merenggut tidur, kepercayaan diri, dan kenyamanan Anda.",
+    "doctorTitle": "Pendekatan dipimpin dokter",
+    "doctorDesc": "Klinik berdaftar MOH dengan pendekatan diagnosis utama di KLCC.",
+    "btn": "Mulai perjalanan tenang Anda",
+    "floatingLabel": "Dampak Iklim KL",
+    "floatingValue": "Pemicu Panas + Keringat"
+  },
+  "trust": {
+    "t1Title": "Berdaftar MOH",
+    "t1Desc": "Dipimpin dokter dengan pendekatan diagnosis utama",
+    "t2Title": "Dekat KLCC",
+    "t2Desc": "LG 10, Wisma UOA II, Jalan Pinang",
+    "t3Title": "Pemetaan Pemicu",
+    "t3Desc": "Penilaian sebelum perawatan"
+  },
+  "whyKL": {
+    "title1": "Mengapa eksim terasa lebih parah di",
+    "title2": "Kuala Lumpur",
+    "desc": "Iklim dan gaya hidup Malaysia menciptakan kombinasi sempurna untuk eksim",
+    "trigger1Title": "Panas + Keringat",
+    "trigger1Desc": "Keringat dapat menyengat kulit pecah-pecah dan memicu rasa gatal",
+    "trigger2Title": "Pendingin Udara",
+    "trigger2Desc": "Perubahan suhu yang drastis memberi tekanan pada pelindung kulit Anda",
+    "trigger3Title": "Mandi Terlalu Sering",
+    "trigger3Desc": "Air panas melucuti minyak pelindung alami kulit",
+    "trigger4Title": "Stres & Polusi",
+    "trigger4Desc": "Keduanya meningkatkan peradangan dan keinginan menggaruk"
+  },
+  "symptoms": {
+    "title1": "Gejala eksim",
+    "title2": "yang umum",
+    "s1": "Rasa gatal hebat, sering kali muncul sebelum ruam terlihat",
+    "s2": "Kulit kering, kasar, dan bersisik",
+    "s3": "Bercak merah atau lebih gelap (cokelat, ungu, atau abu-abu)",
+    "s4": "Benjolan kecil, berair, atau berkerak saat kambuh",
+    "area1": "Lipatan kulit",
+    "area2": "Belakang lutut",
+    "area3": "Leher",
+    "area4": "Pergelangan tangan"
+  },
+  "treatments": {
+    "title1": "Pilihan perawatan yang",
+    "title2": "benar-benar efektif",
+    "desc": "Perawatan berbasis bukti yang disesuaikan dengan kebutuhan kulit Anda",
+    "t1Title": "Pelembap & Perbaikan Pelindung Kulit",
+    "t1Desc": "Fondasi perawatan eksim. Gunakan pelembap setiap hari, bahkan saat kulit terlihat tenang.",
+    "t1Note": "Bebas pewangi, rutinitas harian",
+    "t2Title": "Krim Anti-Peradangan",
+    "t2Desc": "Untuk kambuh aktif. Kortikosteroid topikal dan penghambat kalsineurin saat diperlukan.",
+    "t2Note": "Kekuatan dan durasi dipandu dokter",
+    "t3Title": "Kontrol Gatal & Dukungan Tidur",
+    "t3Desc": "Kompres dingin, penyesuaian rutinitas malam, dan strategi kebiasaan.",
+    "t3Note": "Tidur lebih baik, kulit lebih tenang"
+  },
+  "routine": {
+    "title1": "Rutinitas praktis untuk",
+    "title2": "kehidupan di KL",
+    "desc": "Langkah sederhana dan berkelanjutan yang cocok dengan ritme harian Anda",
+    "morningTitle": "Pagi",
+    "morning1": "Bilas cepat atau pembersihan lembut",
+    "morning2": "Pelembap",
+    "morning3": "Tabir surya untuk kulit sensitif",
+    "middayTitle": "Siang",
+    "midday1": "Bilas keringat jika memungkinkan",
+    "midday2": "Oleskan kembali pelembap jika kulit terasa kencang",
+    "midday3": "Hindari tisu berpewangi",
+    "nightTitle": "Malam",
+    "night1": "Mandi air suam-suam kuku",
+    "night2": "Tepuk-tepuk hingga kering, lalu gunakan pelembap",
+    "night3": "Krim obat sesuai anjuran dokter"
+  },
+  "faq": {
+    "q1": "Apakah eksim bisa sembuh tanpa perawatan?",
+    "a1": "Beberapa kasus ringan membaik, tetapi eksim sering kambuh dan kembali. Pengelolaan dan pencegahan adalah kuncinya.",
+    "q2": "Apakah eksim menular?",
+    "a2": "Tidak. Dermatitis atopik tidak menular. Anda tidak dapat menyebarkannya melalui sentuhan.",
+    "q3": "Mengapa eksim lebih parah di malam hari?",
+    "a3": "Banyak orang merasakan gatal lebih hebat di malam hari karena perubahan rutinitas, pergeseran suhu tubuh, dan garukan tanpa sadar.",
+    "q4": "Apakah krim steroid aman untuk eksim?",
+    "a4": "Krim steroid banyak digunakan dan aman jika digunakan dengan benar di bawah panduan medis yang tepat mengenai kekuatan, area, dan durasi."
+  },
+  "cta": {
+    "title": "Berhenti menebak-nebak dengan krim sembarangan",
+    "desc": "Kunjungi Nexus Clinic Kuala Lumpur untuk penilaian kulit oleh dokter dan rencana yang sesuai dengan kehidupan nyata di KL",
+    "bookBtn": "Wisma UOA II, Jalan Pinang, dekat KLCC",
+    "note": "Berdaftar MOH • Dipimpin Dokter • Pendekatan diagnosis utama"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "hero": {
+    "badge": "Solusi Penurunan Berat Badan Medis",
+    "title1": "Transformasi Hidup Anda dengan",
+    "title2": "Ozempic",
+    "description": "Rasakan manajemen berat badan yang terbukti secara klinis di Nexus Clinic Kuala Lumpur. Perawatan GLP-1 Liraglutide kami membantu Anda mencapai penurunan berat badan yang berkelanjutan tanpa merasa tersiksa.",
+    "bookConsultation": "Jadwalkan Konsultasi",
+    "chatWithUs": "Hubungi Kami",
+    "satisfiedPatients": "500+ pasien puas",
+    "averageResult": "-15kg",
+    "averageResultLabel": "Hasil Rata-rata",
+    "fdaApproved": "Disetujui FDA",
+    "safeEffective": "Aman & Efektif",
+    "weightLossAlt": "Perawatan Penurunan Berat Badan"
+  },
+  "treatments": {
+    "treatedArea": "Area Perawatan",
+    "treatedAreaValue": "Perut, paha, atau lengan atas",
+    "duration": "Durasi",
+    "durationValue": "Beberapa menit",
+    "frequency": "Frekuensi",
+    "frequencyValue": "1 suntikan per hari",
+    "downtime": "Waktu Pemulihan",
+    "downtimeValue": "Minimal"
+  },
+  "about": {
+    "badge": "Tentang Perawatan",
+    "title1": "Apa itu",
+    "title2": "GLP-1 Liraglutide?",
+    "description": "Awalnya dikembangkan untuk mengelola diabetes, GLP-1 Liraglutide telah terbukti sangat efektif untuk manajemen berat badan. Obat ini meniru hormon yang membantu mengatur nafsu makan dan rasa kenyang, sehingga memudahkan penurunan berat badan tanpa merasa tersiksa atau terus-menerus lapar.",
+    "benefit1Title": "Mengurangi Rasa Lapar",
+    "benefit1Desc": "Menekan nafsu makan secara alami, memudahkan Anda menahan keinginan makan berlebih",
+    "benefit2Title": "Meningkatkan Rasa Kenyang",
+    "benefit2Desc": "Merasa kenyang lebih lama, menjadikan pola makan sehat lebih mudah dijalani",
+    "benefit3Title": "Hasil Berkelanjutan",
+    "benefit3Desc": "Penurunan berat badan bertahap tanpa risiko kenaikan berat badan kembali"
+  },
+  "howItWorks": {
+    "badge": "Proses Kami",
+    "title": "Cara Kerja Perawatan",
+    "step1": "01",
+    "step1Title": "Konsultasi",
+    "step1Desc": "Penilaian menyeluruh terhadap riwayat kesehatan, tujuan, dan tantangan Anda untuk menyusun rencana perawatan yang dipersonalisasi.",
+    "step2": "02",
+    "step2Title": "Perawatan Khusus",
+    "step2Desc": "Suntikan GLP-1 harian yang dikombinasikan dengan rekomendasi pola makan dan gaya hidup yang disesuaikan untuk Anda.",
+    "step3": "03",
+    "step3Title": "Dukungan Berkelanjutan",
+    "step3Desc": "Pemantauan dan penyesuaian berkala untuk memastikan hasil optimal sepanjang perjalanan Anda."
+  },
+  "benefits": {
+    "badge": "Mengapa Memilih Kami",
+    "title1": "Apa yang Dapat",
+    "title2": "Anda Harapkan",
+    "item1Title": "Penurunan Berat Badan Bertahap",
+    "item1Desc": "Hasil yang stabil dan tahan lama tanpa perubahan gaya hidup yang drastis",
+    "item2Title": "Kontrol Nafsu Makan",
+    "item2Desc": "Kelola rasa lapar dan keinginan makan berlebih dengan mudah",
+    "item3Title": "Kesehatan yang Lebih Baik",
+    "item3Desc": "Lebih berenergi dan risiko kesehatan terkait berat badan berkurang",
+    "item4Title": "Terbukti Secara Klinis",
+    "item4Desc": "Aman dan efektif dengan pengawasan medis"
+  },
+  "doctors": {
+    "badge": "Tenaga Ahli Kami",
+    "title1": "Kenali",
+    "title2": "Dokter Kami",
+    "dr1Name": "Dr. Aris",
+    "dr1Specialty": "Ahli Kesehatan Metabolik",
+    "dr2Name": "Dr. Preetha",
+    "dr2Specialty": "Kesehatan Holistik",
+    "dr3Name": "Dr. Ashvinia",
+    "dr3Specialty": "Solusi Berbasis Bukti Ilmiah",
+    "dr4Name": "Dr. Charmaine",
+    "dr4Specialty": "Manajemen Estetika & Berat Badan"
+  },
+  "testimonials": {
+    "badge": "Kisah Sukses",
+    "title1": "Ulasan",
+    "title2": "Klien",
+    "review1Name": "Hana Aisya",
+    "review1Text": "Saya berhasil menurunkan 15 pon dengan sangat cepat. Ini adalah perawatan terbaik untuk penurunan berat badan dengan hasil yang terlihat dalam hitungan minggu!",
+    "review2Name": "Liya Lee",
+    "review2Text": "Saya berhasil menurunkan 25 kg, yang tidak mungkin tercapai tanpa suntikan GLP-1. Cepat dan non-invasif!",
+    "review3Name": "Nina Patel",
+    "review3Text": "Pengalaman saya secara keseluruhan melebihi ekspektasi. Perawatannya lancar dan tanpa rasa sakit."
+  },
+  "faq": {
+    "badge": "Ada Pertanyaan?",
+    "title1": "Pertanyaan yang",
+    "title2": "Sering Diajukan",
+    "q1": "Apa suntikan terbaik untuk penurunan berat badan?",
+    "a1": "Suntikan agonis reseptor GLP-1 termasuk pilihan yang paling efektif, mendukung penurunan berat badan yang signifikan dan manajemen jangka panjang.",
+    "q2": "Apakah ada efek samping?",
+    "a2": "Efek samping yang mungkin terjadi meliputi mual, muntah, diare, dan nyeri perut. Selalu konsultasikan dengan tenaga kesehatan Anda sebelum memulai perawatan.",
+    "q3": "Berapa lama waktu yang dibutuhkan untuk melihat hasil?",
+    "a3": "Biasanya diperlukan waktu 4 hingga 6 minggu untuk mulai melihat hasil yang tampak dari perawatan agonis reseptor GLP-1.",
+    "q4": "Siapa yang tidak cocok untuk perawatan ini?",
+    "a4": "Agonis reseptor GLP-1 tidak direkomendasikan untuk anak di bawah 18 tahun, wanita hamil, atau individu dengan gangguan makan."
+  },
+  "cta": {
+    "title1": "Siap Memulai",
+    "title2": "Transformasi Anda?",
+    "description": "Ambil langkah pertama menuju diri Anda yang lebih sehat. Jadwalkan konsultasi hari ini dan temukan bagaimana perawatan GLP-1 dapat membantu Anda mencapai tujuan penurunan berat badan.",
+    "bookAppointment": "Buat Janji Temu",
+    "callUsNow": "Hubungi Kami Sekarang",
+    "address": "Wisma UOA II, Kuala Lumpur",
+    "phone": "+60 16-702 5699"
+  }
+}

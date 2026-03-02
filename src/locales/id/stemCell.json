@@ -1,0 +1,141 @@
+{
+  "hero": {
+    "badge": "Keunggulan Kedokteran Regeneratif di KLCC",
+    "title1": "Ketika tubuh Anda terasa \"mandek,\"",
+    "title2": "perawatan regeneratif",
+    "title3": "bisa terasa seperti harapan.",
+    "subtitle": "Dan seharusnya juga terasa aman.",
+    "cta1": "Jadwalkan Konsultasi Pribadi",
+    "cta2": "Pahami Pilihan Anda",
+    "clinicLabel": "Nexus Clinic Kuala Lumpur",
+    "clinicAddress": "— LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur",
+    "clinicPhone": "016-7025699 / 03-21635699"
+  },
+  "trust": {
+    "title": "Mengutamakan Pasien, Berfokus pada Keselamatan",
+    "desc": "Di mana pedoman MOH Malaysia bertemu dengan standar perawatan internasional",
+    "imageTitle": "Tim Ahli",
+    "imageDesc": "Spesialis dalam kedokteran regeneratif",
+    "t1Title": "Lokasi Pusat KL",
+    "t1Desc": "Area KLCC — Wisma UOA II, Jalan Pinang",
+    "t2Title": "Konsultasi Pribadi",
+    "t2Desc": "Pendekatan mengutamakan pasien dengan privasi penuh",
+    "t3Title": "Sesuai MOH",
+    "t3Desc": "Mengikuti pedoman Malaysia untuk terapi sel punca",
+    "mohQuote": "Pedoman MOH Malaysia menyatakan bahwa transplantasi sel punca hematopoietik dan darah tali pusat adalah bentuk terapi sel punca yang paling mapan, sementara banyak aplikasi sel punca lainnya dianggap eksperimental dan memerlukan pengawasan yang tepat."
+  },
+  "whatIs": {
+    "badge": "Pengetahuan Dasar",
+    "title": "Apa Itu Terapi Sel Punca?",
+    "desc": "Sel punca adalah sel khusus yang dapat memperbarui diri dan dapat berkembang menjadi jenis sel lain. Terapi sel punca adalah perawatan apa pun yang menggunakan sel punca, atau sel yang berasal darinya, untuk memperbaiki atau menggantikan sel atau jaringan yang rusak.",
+    "note": "Kedengarannya hebat, dan memang bisa demikian. Tetapi itulah mengapa perawatan sel punca memerlukan aturan yang lebih ketat dibandingkan kebanyakan layanan \"kebugaran\".",
+    "truthTitle": "Kebenaran Paling Penting",
+    "truthDesc": "Tidak semua \"terapi sel punca\" itu sama.",
+    "truth1": "Transplantasi HSC adalah yang paling mapan",
+    "truth2": "Penggunaan lainnya masih eksperimental",
+    "truth3": "Xenotransplantasi dilarang"
+  },
+  "types": {
+    "title": "Jenis-Jenis Sel Punca di Malaysia",
+    "desc": "Memahami terminologi yang digunakan klinik",
+    "hscTitle": "Sel Punca Hematopoietik (HSC)",
+    "hscDesc": "Sel punca \"pembentuk darah\" yang digunakan dalam transplantasi sumsum tulang atau sel punca darah. Ini adalah bentuk yang paling mapan secara global.",
+    "hscBadge": "Ditetapkan oleh ISSCR & pedoman Malaysia",
+    "mscTitle": "Sel Punca Mesenkimal (MSC)",
+    "mscDesc": "Sering dibahas untuk peradangan dan perbaikan jaringan. Banyak penyedia di KL berfokus pada terapi MSC, umumnya dari Wharton's Jelly tali pusat.",
+    "mscBadge": "Bidang yang berkembang — ISSCR memperingatkan penggunaan komersial rutin",
+    "ipsTitle": "Sel Embrionik & iPS",
+    "ipsDesc": "Tersedia dalam penelitian ilmiah dan beberapa uji klinis secara global. Bukan \"layanan klinik rutin.\"",
+    "ipsBadge": "Malaysia memperlakukan terapi sel punca embrionik sebagai eksperimental"
+  },
+  "proven": {
+    "provenTitle": "Apa yang Terbukti Saat Ini",
+    "provenQuote": "Perawatan sel punca yang paling mapan adalah untuk gangguan darah dan imun serta hilangnya fungsi sumsum tulang, yang diobati dengan transplantasi sel punca darah.",
+    "provenNote": "Pedoman Malaysia sejalan: transplantasi sel punca hematopoietik dan darah tali pusat adalah yang paling mapan.",
+    "studiedTitle": "Sedang Diteliti (Bukti Beragam)",
+    "studiedDesc": "Sendi, autoimun, saraf, metabolik — bidang penelitian aktif",
+    "studiedNote": "ISSCR memperingatkan: intervensi yang belum terbukti memerlukan uji klinis yang terregulasi dengan baik"
+  },
+  "approach": {
+    "title": "Pendekatan Nexus Clinic",
+    "desc": "Pola pikir keselamatan pasien, perjalanan terstruktur, prosedur sesuai MOH",
+    "badge": "Pribadi & Rahasia",
+    "step1Title": "Konsultasi & Skrining",
+    "step1Desc": "Kami mulai dari apa yang Anda rasakan, apa yang sudah Anda coba, dan diagnosis Anda yang sebenarnya.",
+    "step2Title": "Klasifikasi yang Jelas",
+    "step2Desc": "Indikasi yang mapan? Investigasional? Atau dialihkan ke perawatan standar.",
+    "step3Title": "Persetujuan Tindakan Medis",
+    "step3Desc": "Menyatakan dengan jelas jika perawatan belum terbukti, menjelaskan risiko dan alternatif.",
+    "step4Title": "Pemberian & Pemantauan",
+    "step4Desc": "Infus IV atau injeksi lokal dengan rencana tindak lanjut yang tepat."
+  },
+  "safety": {
+    "title": "Keselamatan Anda Adalah Prioritas Kami",
+    "desc": "Setiap perjalanan pasien bersifat unik, terstruktur, dan berbasis bukti.",
+    "stat1": "1000+",
+    "stat1Label": "Pasien Ditangani",
+    "stat2": "15+",
+    "stat2Label": "Tahun Pengalaman",
+    "stat3": "100%",
+    "stat3Label": "Sesuai MOH"
+  },
+  "benefits": {
+    "title": "Manfaat yang Diharapkan",
+    "b1": "Nyeri berkurang",
+    "b2": "Pergerakan lebih baik",
+    "b3": "Energi lebih baik",
+    "b4": "Fungsi tubuh membaik",
+    "b5": "Perlambatan perkembangan kondisi kronis",
+    "note": "Cari hasil yang terukur (skor nyeri, jarak berjalan, penanda darah). Tetapkan jadwal yang realistis, rencanakan tindak lanjut, bukan \"satu suntikan dan selesai.\""
+  },
+  "risks": {
+    "title": "Risiko & Mengapa Keselamatan Penting",
+    "intro": "Sel punca bukan vitamin. Mereka adalah material hidup. Itu membawa risiko nyata.",
+    "r1": "Infeksi",
+    "r2": "Reaksi imun",
+    "r3": "Demam dan reaksi peradangan",
+    "r4": "Risiko pembekuan darah",
+    "r5": "Efek jangka panjang yang belum diketahui",
+    "r6": "Kerugian finansial dari sesi berulang yang belum terbukti"
+  },
+  "location": {
+    "title": "Kunjungi Kami di KLCC",
+    "address": "Wisma UOA II, Jalan Pinang",
+    "phone": "016-7025699",
+    "unit": "LG 10"
+  },
+  "faq": {
+    "q1": "Apa itu terapi sel punca?",
+    "a1": "Perawatan yang menggunakan sel punca, atau sel yang berasal darinya, untuk memperbaiki atau menggantikan sel atau jaringan yang rusak.",
+    "q2": "Untuk kondisi apa perawatan sel punca sudah terbukti?",
+    "a2": "Gangguan darah dan imun, hilangnya fungsi sumsum tulang melalui transplantasi sel punca darah (paling mapan).",
+    "q3": "Apakah terapi sel punca disetujui di Malaysia?",
+    "a3": "MOH menyatakan transplantasi sel punca hematopoietik dan darah tali pusat adalah yang paling mapan; penggunaan lainnya masih eksperimental.",
+    "q4": "Mengapa beberapa klinik menawarkan sel punca untuk banyak penyakit?",
+    "a4": "ISSCR memperingatkan bahwa intervensi yang belum terbukti dikomersilkan secara luas tanpa bukti yang memadai.",
+    "q5": "Apakah terapi sel punca aman?",
+    "a5": "Tidak ada perawatan medis yang bebas risiko. Keamanan jangka panjang bisa tidak pasti; tindak lanjut itu penting.",
+    "q6": "Apa saja efek samping atau risikonya?",
+    "a6": "Infeksi, reaksi imun, efek jangka panjang yang belum diketahui. FDA melaporkan dampak serius dari produk yang tidak disetujui.",
+    "q7": "Berapa sesi yang saya butuhkan?",
+    "a7": "Tergantung pada kondisi dan protokol. Berhati-hatilah jika seseorang menjanjikan jumlah sesi yang tetap untuk semua orang.",
+    "q8": "Berapa lama untuk melihat hasilnya?",
+    "a8": "Jadwal bervariasi. Klinik yang baik menetapkan tujuan yang terukur dan titik tindak lanjut.",
+    "q9": "Berapa biaya terapi sel punca di Kuala Lumpur?",
+    "a9": "Beberapa klinik mulai dari sekitar RM6,000+. Harga lebih tinggi untuk kasus yang kompleks. Selalu minta rincian biaya.",
+    "q10": "Dari mana sel punca berasal?",
+    "a10": "Sumber umum: jaringan tali pusat (Wharton's Jelly), jaringan lemak, sumsum tulang.",
+    "q11": "Apa yang harus saya tanyakan ke klinik sebelum mendaftar?",
+    "a11": "Tanyakan bukti ilmiah, pengawasan etika, kepatuhan regulasi. Berhati-hatilah dengan klaim berdasarkan testimoni.",
+    "q12": "Apakah perawatan exosome sama dengan terapi sel punca?",
+    "a12": "Tidak. FDA memasukkan exosome dalam produk regeneratif yang tidak disetujui yang dipasarkan secara luas."
+  },
+  "cta": {
+    "title": "Mulai dengan Kejelasan",
+    "desc": "Jika Anda mencari terapi sel punca di Malaysia atau kedokteran regeneratif di Kuala Lumpur, mulailah dengan konsultasi pribadi yang berfokus pada diagnosis Anda, risiko Anda, dan apa yang secara realistis dapat dicapai.",
+    "clinicName": "Nexus Clinic Kuala Lumpur",
+    "clinicAddress": "LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur",
+    "clinicPhone": "016-7025699 / 03-21635699",
+    "button": "Jadwalkan Konsultasi Pribadi Anda"
+  }
+}

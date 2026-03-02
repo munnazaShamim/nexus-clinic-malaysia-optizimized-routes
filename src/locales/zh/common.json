@@ -1,0 +1,112 @@
+{
+  "nav": {
+    "home": "首页",
+    "weightLoss": "减肥",
+    "aestheticTreatments": "美容治疗",
+    "products": "产品",
+    "blogs": "博客",
+    "bookNow": "立即预订",
+    "bookConsultation": "预约咨询",
+    "selectLanguage": "选择语言"
+  },
+  "search": {
+    "placeholder": "搜索治疗..."
+  },
+  "submenu": {
+    "weightLoss": {
+      "ozempic": "马来西亚奥泽匹克",
+      "wegovy": "马来西亚威戈维",
+      "mounjaro": "马来西亚蒙加罗",
+      "duromine": "马来西亚杜罗明",
+      "doctorMonitored": "马来西亚医生监控",
+      "hcgWeightLoss": "马来西亚HCG减肥",
+      "fatFreezing": "马来西亚冷冻溶脂",
+      "coolSculpting": "马来西亚酷塑",
+      "glp1": "马来西亚GLP-1计划",
+      "zepbound": "马来西亚ZepBound",
+      "semaglutide": "马来西亚司马鲁肽",
+      "tirzepatide": "马来西亚替泽帕肽"
+    },
+    "skin": {
+      "acneTreatment": "吉隆坡痘痘治疗",
+      "acneScar": "吉隆坡痘疤治疗",
+      "pigmentation": "吉隆坡色素治疗",
+      "melasma": "吉隆坡黄褐斑治疗",
+      "moleRemoval": "吉隆坡祛痣",
+      "hydrafacial": "吉隆坡水飞梭",
+      "picoLaser": "吉隆坡皮秒激光",
+      "darkCircle": "吉隆坡黑眼圈治疗",
+      "whitening": "吉隆坡美白治疗",
+      "eczema": "吉隆坡湿疹治疗",
+      "keloid": "马来西亚疤痕疙瘩治疗",
+      "rosacea": "马来西亚红斑痤疮治疗",
+      "stretchMark": "马来西亚妊娠纹去除",
+      "laserHair": "马来西亚激光脱毛",
+      "tattooRemoval": "马来西亚洗纹身"
+    },
+    "face": {
+      "dermalFiller": "真皮填充剂",
+      "lipFiller": "丰唇填充剂",
+      "chinFiller": "下巴填充剂",
+      "jawlineFiller": "下颌线填充剂",
+      "noseThread": "鼻子埋线提升",
+      "masseterBotox": "咬肌肉毒杆菌"
+    },
+    "hair": {
+      "transplant": "植发",
+      "fue": "FUE植发",
+      "prp": "PRP头发治疗",
+      "lossTreatment": "脱发治疗",
+      "beard": "胡须移植",
+      "mesotherapy": "中胚层疗法防脱发",
+      "exosome": "外泌体头发治疗",
+      "minoxidil": "米诺地尔治疗",
+      "finasteride": "非那雄胺"
+    },
+    "regenerative": {
+      "testosterone": "马来西亚睾酮疗法",
+      "ed": "马来西亚ED治疗",
+      "hormoneReplacement": "马来西亚激素替代疗法",
+      "pcos": "马来西亚多囊卵巢综合征治疗",
+      "hypothyroidism": "马来西亚甲状腺功能减退治疗",
+      "stemCell": "马来西亚干细胞疗法",
+      "antiAging": "马来西亚抗衰老疗法",
+      "hormoneTest": "马来西亚激素检测",
+      "menopause": "马来西亚更年期激素替代",
+      "pShot": "马来西亚P shot",
+      "oShot": "马来西亚O shot",
+      "shockwave": "马来西亚冲击波疗法"
+    }
+  },
+  "categories": {
+    "weightLoss": "脂肪与减肥",
+    "skin": "皮肤",
+    "face": "面部",
+    "hair": "头发",
+    "regenerative": "再生医学"
+  },
+  "footer": {
+    "description": "吉隆坡先进的美容和医疗减肥诊所。科学与艺术的结合，为您带来自然之美。",
+    "quickLinks": "快速链接",
+    "aboutUs": "关于我们",
+    "services": "服务",
+    "treatments": "治疗",
+    "blog": "博客",
+    "contact": "联系方式",
+    "contactTitle": "联系我们",
+    "address": "Wisma UOA II, 吉隆坡",
+    "phone": "016-702 5699",
+    "email": "info@nexusclinic.com",
+    "copyright": "© 2026 Nexus Clinic。保留所有权利。",
+    "privacyPolicy": "隐私政策",
+    "termsOfUse": "使用条款"
+  },
+  "common": {
+    "learnMore": "了解更多",
+    "getStarted": "开始",
+    "contactUs": "联系我们",
+    "readMore": "阅读更多",
+    "startTransformation": "开始您的转变",
+    "loading": "加载中..."
+  }
+}

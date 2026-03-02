@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "badge": "Nexus Clinic Kuala Lumpur",
+    "title": "Lift your nose shape",
+    "titleHighlight": "without surgery",
+    "desc": "A higher bridge. A sharper tip. A cleaner side profile. Fast treatment, low downtime, and natural-looking refinement.",
+    "cta1": "Book Consultation",
+    "cta2": "View Gallery",
+    "trust1": "Doctor-led assessment",
+    "trust2": "Asian nose expertise",
+    "trust3": "Central KL location",
+    "priceLabel": "Starting price guidance",
+    "priceFrom": "RM 1,500",
+    "priceTo": "RM 3,000",
+    "floatTitle": "Natural proportions",
+    "floatDesc": "Not \"copy paste\" results"
+  },
+  "what": {
+    "title": "What is a",
+    "titleHighlight": "Nose Thread Lift?",
+    "desc": "A minimally invasive treatment that uses absorbable threads to improve the look of your nose bridge and tip. The threads act like a scaffold under the skin to support the new shape.",
+    "idealTitle": "Ideal for:",
+    "ideal1": "A flatter bridge that looks low in photos",
+    "ideal2": "A tip that looks soft or slightly droopy",
+    "ideal3": "Mild asymmetry",
+    "ideal4": "A profile that needs sharper definition",
+    "stat1Value": "20-30 mins",
+    "stat1Label": "Quick procedure",
+    "stat2Value": "12-18 months",
+    "stat2Label": "Results last",
+    "stat3Value": "4-8 threads",
+    "stat3Label": "Average per session",
+    "stat4Value": "PDO / PCL",
+    "stat4Label": "Thread types"
+  },
+  "results": {
+    "title": "Realistic results,",
+    "titleHighlight": "honest expectations",
+    "desc": "Be honest with yourself here. Nose threads are not magic, but they can create beautiful subtle improvements.",
+    "canTitle": "Can do",
+    "can1": "Create a more defined bridge line",
+    "can2": "Give a slightly higher bridge appearance",
+    "can3": "Help the tip look more lifted and projected",
+    "can4": "Improve contour in side photos",
+    "cannotTitle": "Cannot do",
+    "cannot1": "Make a very wide nose become narrow",
+    "cannot2": "Reduce bone width",
+    "cannot3": "Fix major structural issues",
+    "cannot4": "Replace surgical rhinoplasty results"
+  },
+  "timeline": {
+    "title": "Your journey,",
+    "titleHighlight": "day by day",
+    "desc": "What you see, and when you see it - a calm, real timeline from day 1 to day 14",
+    "day1Label": "Day 1",
+    "day1Title": "Immediate results",
+    "day1Desc": "Bridge looks sharper right away. Some swelling expected.",
+    "day2Label": "Days 3-7",
+    "day2Title": "Settling period",
+    "day2Desc": "Swelling is common. Mild bruising can happen. Most return to daily activities within 1-2 days.",
+    "day3Label": "Weeks 2-4",
+    "day3Title": "Final reveal",
+    "day3Desc": "The nose looks more settled. The result looks more 'yours'."
+  },
+  "faq": {
+    "q1": "What does a nose thread lift do?",
+    "a1": "It enhances the nose bridge and tip using absorbable threads to improve contour without surgery.",
+    "q2": "How long do results last?",
+    "a2": "Many clinics state results usually last between 12 and 18 months, depending on thread type and individual factors.",
+    "q3": "Is it painful?",
+    "a3": "Discomfort is usually minimal because local anaesthesia is used.",
+    "q4": "Can anyone get nose threads?",
+    "a4": "Not always. Some noses cannot safely take many threads, and assessment is important to avoid complications."
+  },
+  "cta": {
+    "title": "Ready for a natural-looking refinement?",
+    "desc": "Book your doctor-led assessment at Nexus Clinic Kuala Lumpur. Let's create a plan that honors your unique facial proportions.",
+    "button1": "Schedule Consultation",
+    "button2": "View Pricing",
+    "quote": "Because this is not a \"trend treatment.\" It is a face-balancing decision."
+  }
+}

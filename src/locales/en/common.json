@@ -1,0 +1,112 @@
+{
+  "nav": {
+    "home": "Home",
+    "weightLoss": "Weight Loss",
+    "aestheticTreatments": "Aesthetic Treatments",
+    "products": "Products",
+    "blogs": "Blogs",
+    "bookNow": "Book Now",
+    "bookConsultation": "Book Your Consultation",
+    "selectLanguage": "Select Language"
+  },
+  "search": {
+    "placeholder": "Search treatments..."
+  },
+  "submenu": {
+    "weightLoss": {
+      "ozempic": "Ozempic Malaysia",
+      "wegovy": "Wegovy Malaysia",
+      "mounjaro": "Mounjaro Malaysia",
+      "duromine": "Duromine Malaysia",
+      "doctorMonitored": "Doctor Monitored Malaysia",
+      "hcgWeightLoss": "HCG Weight Loss Malaysia",
+      "fatFreezing": "Fat Freezing Malaysia",
+      "coolSculpting": "CoolSculpting Malaysia",
+      "glp1": "GLP-1 Programme Malaysia",
+      "zepbound": "ZepBound Malaysia",
+      "semaglutide": "Semaglutide Malaysia",
+      "tirzepatide": "Tirzepatide Malaysia"
+    },
+    "skin": {
+      "acneTreatment": "Acne Treatment KL",
+      "acneScar": "Acne Scar Treatment KL",
+      "pigmentation": "Pigmentation Treatment KL",
+      "melasma": "Melasma Treatment KL",
+      "moleRemoval": "Mole Removal KL",
+      "hydrafacial": "HydraFacial KL",
+      "picoLaser": "Pico Laser KL",
+      "darkCircle": "Dark Eye Circle Treatment KL",
+      "whitening": "Skin Whitening Treatment KL",
+      "eczema": "Eczema Treatment KL",
+      "keloid": "Keloid Treatment Malaysia",
+      "rosacea": "Rosacea Treatment Malaysia",
+      "stretchMark": "Stretch Mark Removal Malaysia",
+      "laserHair": "Laser Hair Removal Malaysia",
+      "tattooRemoval": "Tattoo Removal Malaysia"
+    },
+    "face": {
+      "dermalFiller": "Dermal Filler",
+      "lipFiller": "Lip Filler",
+      "chinFiller": "Chin Filler",
+      "jawlineFiller": "Jawline Filler",
+      "noseThread": "Nose Thread Lift",
+      "masseterBotox": "Masseter Botox"
+    },
+    "hair": {
+      "transplant": "Hair Transplant",
+      "fue": "Fue Hair Transplant",
+      "prp": "PRP Hair Treatment",
+      "lossTreatment": "Hair Loss Treatment",
+      "beard": "Beard Transplant",
+      "mesotherapy": "Mesotherapy Hair Loss",
+      "exosome": "Exosome Hair Treatment",
+      "minoxidil": "Minoxidil Treatment",
+      "finasteride": "Finasteride"
+    },
+    "regenerative": {
+      "testosterone": "Testosterone Therapy Malaysia",
+      "ed": "ED Treatment Malaysia",
+      "hormoneReplacement": "Hormone Replacement Therapy Malaysia",
+      "pcos": "PCOS Treatment Malaysia",
+      "hypothyroidism": "Hypothyroidism Treatment Malaysia",
+      "stemCell": "Stem Cell Therapy Malaysia",
+      "antiAging": "Anti-Aging Therapy Malaysia",
+      "hormoneTest": "Hormone Test Malaysia",
+      "menopause": "Menopause Hormone Replacement Malaysia",
+      "pShot": "P Shot Malaysia",
+      "oShot": "O Shot Malaysia",
+      "shockwave": "Shockwave Therapy Malaysia"
+    }
+  },
+  "categories": {
+    "weightLoss": "Fat & Weight Loss",
+    "skin": "Skin",
+    "face": "Face",
+    "hair": "Hair",
+    "regenerative": "Regenerative"
+  },
+  "footer": {
+    "description": "Advanced aesthetic and medical weight loss clinic in Kuala Lumpur. Where science meets artistry for your natural beauty.",
+    "quickLinks": "Quick Links",
+    "aboutUs": "About Us",
+    "services": "Services",
+    "treatments": "Treatments",
+    "blog": "Blog",
+    "contact": "Contact",
+    "contactTitle": "Contact",
+    "address": "Wisma UOA II, KL",
+    "phone": "016-702 5699",
+    "email": "info@nexusclinic.com",
+    "copyright": "© 2026 Nexus Clinic. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us",
+    "readMore": "Read More",
+    "startTransformation": "Start Your Transformation",
+    "loading": "Loading..."
+  }
+}

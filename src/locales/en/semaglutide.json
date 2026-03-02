@@ -1,0 +1,127 @@
+{
+  "hero": {
+    "badge": "Nexus Clinic Kuala Lumpur",
+    "title1": "Quiet the cravings,",
+    "title2": "not your lifestyle",
+    "description": "Lose weight with doctor-monitored semaglutide in Kuala Lumpur.",
+    "quote": "Feel fuller sooner. Eat with control again. A medical plan that fits real life in Malaysia.",
+    "trust1": "Doctor-monitored",
+    "trust2": "Weekly follow-ups",
+    "trust3": "Safety screened",
+    "trust4": "Real results",
+    "startButton": "Start Your Journey",
+    "learnMore": "Learn More",
+    "safetyTitle": "Medical Safety First",
+    "safetySubtitle": "Right patient, right plan",
+    "safetyItem1": "Doctor-monitored weight loss assessment",
+    "safetyItem2": "Prescription-only with safety screening",
+    "safetyItem3": "Clear expectations, no hype",
+    "safetyItem4": "Lifestyle support for KL routines"
+  },
+  "quickNote": {
+    "title": "A quick note before we start",
+    "description": "Semaglutide is a prescription medicine. It is not for everyone, and it is not a quick fix. You should always use it under medical supervision. This page is for education and to help you make an informed decision."
+  },
+  "whatIs": {
+    "title1": "What is a semaglutide injection",
+    "title2": "for weight loss?",
+    "desc": "Semaglutide is a medicine that works on appetite and fullness signals in your body. For weight management, the well-known brand name is Wegovy.",
+    "quote": "Many people describe the change like this: You still enjoy food, but the 'food noise' becomes quieter. Portions feel easier. Snacking becomes less automatic.",
+    "onceWeekly": "Once-weekly",
+    "subcutaneous": "Subcutaneous injection",
+    "injectionSites": "4 injection sites",
+    "injectionAreas": "Abdomen, thigh, upper arm",
+    "vsTitle": "Wegovy vs Ozempic",
+    "wegovyTitle": "Wegovy",
+    "wegovyDesc": "Made and dosed for chronic weight management",
+    "ozempicTitle": "Ozempic",
+    "ozempicDesc": "Primarily for type 2 diabetes, may be used off-label",
+    "offLabelNote": "Off-label prescribing must be decided by a qualified doctor based on your health profile."
+  },
+  "howItWorks": {
+    "title1": "How semaglutide helps",
+    "title2": "with weight loss",
+    "description": "Semaglutide mimics a hormone called GLP-1 that is involved in hunger, fullness, and digestion.",
+    "step1Title": "Reduce appetite",
+    "step1Desc": "Helps quiet the constant food thoughts",
+    "step2Title": "Feel full longer",
+    "step2Desc": "Extended satisfaction after meals",
+    "step3Title": "Slow digestion",
+    "step3Desc": "Feel satisfied with smaller portions"
+  },
+  "whoFor": {
+    "title1": "Who semaglutide weight loss",
+    "title2": "injections are for",
+    "description": "Generally used for adults with obesity, or overweight with weight-related health risks.",
+    "reason1": "Diet and exercise alone have not worked long-term",
+    "reason2": "Appetite and cravings keep undoing progress",
+    "reason3": "Weight affecting energy, confidence, or health markers",
+    "whoShouldNotTitle": "Who should not use semaglutide",
+    "shouldNot1": "Personal or family history of medullary thyroid carcinoma",
+    "shouldNot2": "History of pancreatitis or gallbladder disease",
+    "shouldNot3": "Kidney problems related to dehydration risk",
+    "shouldNot4": "Pregnancy or planning pregnancy",
+    "extraCareTitle": "Extra care needed if you have:",
+    "extraCareDesc": "Significant gastrointestinal conditions, or if you're breastfeeding. Stop well before planned pregnancy due to long half-life."
+  },
+  "results": {
+    "title1": "What results can you",
+    "title2": "realistically expect?",
+    "subtitle": "Let's keep it honest.",
+    "stat1Value": "68 weeks",
+    "stat1Label": "Clinical trial duration",
+    "stat1Desc": "STEP 1 trial with significant average weight loss",
+    "stat2Value": "4-8 weeks",
+    "stat2Label": "Initial changes",
+    "stat2Desc": "Noticeable appetite changes begin",
+    "stat3Value": "6-12 months",
+    "stat3Label": "Peak results",
+    "stat3Desc": "Strongest weight loss results",
+    "noticeQuote": "Many people notice changes earlier than the \"scale moment\": less urge to snack at night, better control around rice, roti, sweets, and late dinners, fewer cravings between meals."
+  },
+  "stopSection": {
+    "title": "What happens if you stop?",
+    "description": "In the STEP 1 extension, after stopping semaglutide, participants regained a significant portion of weight loss over the following year, even with lifestyle advice.",
+    "note": "This supports the idea that obesity is chronic and maintenance planning is important."
+  },
+  "nexusApproach": {
+    "title": "The Nexus Clinic Kuala Lumpur approach",
+    "subtitle": "Doctor-monitored weight loss, not just \"a jab\"",
+    "step1Title": "Real suitability check",
+    "step1Desc": "Goals, history, current meds, past diet patterns, and risk factors",
+    "step2Title": "Plan for KL life",
+    "step2Desc": "Busy workdays, family dinners, social weekends - real routines",
+    "step3Title": "Follow-up & adjustments",
+    "step3Desc": "Side effects, plateaus, travel weeks, stress eating - we monitor"
+  },
+  "prosCons": {
+    "prosTitle": "Pros",
+    "pro1": "Strong evidence for meaningful weight loss",
+    "pro2": "Helps appetite control without constant willpower",
+    "pro3": "May improve weight-related health markers",
+    "consTitle": "Cons",
+    "con1": "Gastrointestinal side effects possible",
+    "con2": "Results take months, not days",
+    "con3": "Weight regain possible without maintenance",
+    "con4": "Prescription medicine, not for everyone"
+  },
+  "faq": {
+    "q1": "How does semaglutide help with weight loss?",
+    "a1": "It mimics GLP-1, a hormone that helps regulate appetite and fullness, reducing hunger and slowing digestion.",
+    "q2": "How long to see weight loss results?",
+    "a2": "Appetite changes within first month, visible loss around 4-8 weeks, stronger results over 6-12 months.",
+    "q3": "What are common side effects?",
+    "a3": "Digestive issues like nausea, diarrhea, constipation. Most improve over time with gradual dose increase.",
+    "q4": "Is semaglutide same as Wegovy or Ozempic?",
+    "a4": "Same active ingredient but different indications. Wegovy for weight management, Ozempic primarily for diabetes.",
+    "q5": "Will I regain weight if I stop?",
+    "a5": "Weight regain can happen. Maintenance planning and habit support are crucial for long-term success.",
+    "q6": "Do I still need diet and exercise?",
+    "a6": "Yes. Wegovy is indicated with reduced-calorie diet and increased physical activity for best results."
+  },
+  "cta": {
+    "title": "Ready to explore semaglutide in Kuala Lumpur?",
+    "description": "If you want a plan that feels safe, structured, and realistic for life in Malaysia, Nexus Clinic Kuala Lumpur can guide you through every step.",
+    "button": "Schedule Your Consultation"
+  }
+}

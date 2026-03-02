@@ -1,0 +1,112 @@
+{
+  "nav": {
+    "home": "Utama",
+    "weightLoss": "Penurunan Berat Badan",
+    "aestheticTreatments": "Rawatan Estetik",
+    "products": "Produk",
+    "blogs": "Blog",
+    "bookNow": "Tempah Sekarang",
+    "bookConsultation": "Tempah Konsultasi Anda",
+    "selectLanguage": "Pilih Bahasa"
+  },
+  "search": {
+    "placeholder": "Cari rawatan..."
+  },
+  "submenu": {
+    "weightLoss": {
+      "ozempic": "Ozempic Malaysia",
+      "wegovy": "Wegovy Malaysia",
+      "mounjaro": "Mounjaro Malaysia",
+      "duromine": "Duromine Malaysia",
+      "doctorMonitored": "Dipantau Doktor Malaysia",
+      "hcgWeightLoss": "HCG Penurunan Berat Badan Malaysia",
+      "fatFreezing": "Pembekuan Lemak Malaysia",
+      "coolSculpting": "CoolSculpting Malaysia",
+      "glp1": "Program GLP-1 Malaysia",
+      "zepbound": "ZepBound Malaysia",
+      "semaglutide": "Semaglutide Malaysia",
+      "tirzepatide": "Tirzepatide Malaysia"
+    },
+    "skin": {
+      "acneTreatment": "Rawatan Jerawat KL",
+      "acneScar": "Rawatan Parut Jerawat KL",
+      "pigmentation": "Rawatan Pigmentasi KL",
+      "melasma": "Rawatan Melasma KL",
+      "moleRemoval": "Pembuangan Tahi Lalat KL",
+      "hydrafacial": "HydraFacial KL",
+      "picoLaser": "Laser Pico KL",
+      "darkCircle": "Rawatan Lingkaran Gelap Mata KL",
+      "whitening": "Rawatan Pemutih Kulit KL",
+      "eczema": "Rawatan Ekzema KL",
+      "keloid": "Rawatan Keloid Malaysia",
+      "rosacea": "Rawatan Rosacea Malaysia",
+      "stretchMark": "Penghilangan Stretch Mark Malaysia",
+      "laserHair": "Penghilangan Bulu Laser Malaysia",
+      "tattooRemoval": "Penghilangan Tatu Malaysia"
+    },
+    "face": {
+      "dermalFiller": "Filler Dermal",
+      "lipFiller": "Filler Bibir",
+      "chinFiller": "Filler Dagu",
+      "jawlineFiller": "Filler Garis Rahang",
+      "noseThread": "Thread Lift Hidung",
+      "masseterBotox": "Botox Masseter"
+    },
+    "hair": {
+      "transplant": "Transplantasi Rambut",
+      "fue": "Transplantasi Rambut FUE",
+      "prp": "Rawatan Rambut PRP",
+      "lossTreatment": "Rawatan Keguguran Rambut",
+      "beard": "Transplantasi Janggut",
+      "mesotherapy": "Mesoterapi Keguguran Rambut",
+      "exosome": "Rawatan Rambut Exosome",
+      "minoxidil": "Rawatan Minoxidil",
+      "finasteride": "Finasteride"
+    },
+    "regenerative": {
+      "testosterone": "Terapi Testosteron Malaysia",
+      "ed": "Rawatan ED Malaysia",
+      "hormoneReplacement": "Terapi Penggantian Hormon Malaysia",
+      "pcos": "Rawatan PCOS Malaysia",
+      "hypothyroidism": "Rawatan Hipotiroid Malaysia",
+      "stemCell": "Terapi Sel Stem Malaysia",
+      "antiAging": "Terapi Anti-Penuaan Malaysia",
+      "hormoneTest": "Ujian Hormon Malaysia",
+      "menopause": "Penggantian Hormon Menopaus Malaysia",
+      "pShot": "P Shot Malaysia",
+      "oShot": "O Shot Malaysia",
+      "shockwave": "Terapi Shockwave Malaysia"
+    }
+  },
+  "categories": {
+    "weightLoss": "Lemak & Penurunan Berat Badan",
+    "skin": "Kulit",
+    "face": "Wajah",
+    "hair": "Rambut",
+    "regenerative": "Regeneratif"
+  },
+  "footer": {
+    "description": "Klinik estetik lanjutan dan penurunan berat badan perubatan di Kuala Lumpur. Di mana sains bertemu dengan seni untuk kecantikan semula jadi anda.",
+    "quickLinks": "Pautan Pantas",
+    "aboutUs": "Tentang Kami",
+    "services": "Perkhidmatan",
+    "treatments": "Rawatan",
+    "blog": "Blog",
+    "contact": "Hubungi",
+    "contactTitle": "Hubungi",
+    "address": "Wisma UOA II, KL",
+    "phone": "016-702 5699",
+    "email": "info@nexusclinic.com",
+    "copyright": "© 2026 Nexus Clinic. Hak cipta terpelihara.",
+    "privacyPolicy": "Dasar Privasi",
+    "termsOfUse": "Syarat Penggunaan"
+  },
+  "common": {
+    "learnMore": "Ketahui Lebih Lanjut",
+    "getStarted": "Mulakan",
+    "contactUs": "Hubungi Kami",
+    "readMore": "Baca Lagi",
+    "startTransformation": "Mulakan Transformasi Anda",
+    "loading": "Memuatkan..."
+  }
+}

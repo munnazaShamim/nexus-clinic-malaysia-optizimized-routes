@@ -1,0 +1,97 @@
+{
+  "hero": {
+    "badge": "Nexus Clinic Kuala Lumpur",
+    "title1": "Feel like yourself again,",
+    "title2": "without guessing",
+    "title3": "what your hormones are doing.",
+    "desc": "Menopause symptoms, low energy, poor sleep, brain fog, and low libido can make daily life feel heavier than it should.",
+    "highlight": "At Nexus Clinic Kuala Lumpur, we keep HRT simple, medical, and personalised, so you get a plan you can actually trust.",
+    "cta1": "Book Consultation",
+    "cta2": "Learn More",
+    "trustTitle": "15+ Years",
+    "trustDesc": "Of Excellence"
+  },
+  "whatIs": {
+    "badge": "UNDERSTANDING HRT",
+    "title": "What Is Hormone Replacement Therapy (HRT)?",
+    "desc1": "Hormone Replacement Therapy (HRT) is a medical treatment that replaces hormones that have dropped, most commonly during menopause. For many women, that means replacing oestrogen, and in women who still have a uterus, adding progestogen to protect the womb lining.",
+    "desc2": "In Malaysia, some clinics also use the term HRT more broadly to describe hormone balancing for both women and men. Nexus Clinic positions HRT as support for hormonal imbalance in both genders, aimed at improving quality of life.",
+    "statsNumber": "5000+",
+    "statsLabel": "Happy Patients"
+  },
+  "symptoms": {
+    "badge": "RECOGNIZE THE SIGNS",
+    "title": "The Symptoms That Make People Search for HRT in Kuala Lumpur",
+    "s1": "\"I wake up tired even after sleeping.\"",
+    "s2": "\"My mood feels off and I do not know why.\"",
+    "s3": "\"My hot flushes are embarrassing.\"",
+    "s4": "\"I feel dry, irritated, and intimacy hurts.\"",
+    "s5": "\"My libido disappeared.\"",
+    "s6": "\"I keep gaining belly weight.\"",
+    "note": "Hospitals in Malaysia describe common menopause symptoms such as hot flushes, night sweats, sleep disturbance, weight changes, reduced interest in sex or pain during intercourse, and urinary issues.",
+    "floatingCard1": "Hot Flushes",
+    "floatingCard2": "Night Sweats"
+  },
+  "comfort": {
+    "title1": "Your Comfort",
+    "title2": "Is Our Priority",
+    "desc": "A good HRT journey feels calm and structured. At our centrally located clinic near KLCC, we've created an environment where you can feel at ease discussing your health concerns.",
+    "item1": "Private & Confidential",
+    "item2": "Compassionate Care",
+    "item3": "Flexible Hours",
+    "item4": "Expert Team",
+    "address": "LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur",
+    "phone": "016-7025699 / 03-21635699",
+    "locationTitle": "KLCC Area",
+    "locationDesc": "5 min walk"
+  },
+  "consultation": {
+    "title1": "What to Expect",
+    "title2": "at Your Consultation",
+    "desc": "A typical plan looks like:",
+    "step1Title": "Private consultation",
+    "step1Desc": "symptoms, goals, medical history, family history",
+    "step2Title": "Baseline checks",
+    "step2Desc": "if needed, especially when risk screening is important",
+    "step3Title": "A personalised recommendation",
+    "step3Desc": "type of HRT, route, and a realistic timeline",
+    "step4Title": "Follow-up and monitoring",
+    "step4Desc": "how you feel, side effects, and whether adjustments are needed"
+  },
+  "benefits": {
+    "title1": "Benefits of HRT",
+    "title2": "(What It Can Actually Help With)",
+    "desc": "Major menopause societies and clinical resources consistently state that hormone therapy is the most effective option for:",
+    "b1": "Vasomotor symptoms – hot flushes and night sweats",
+    "b2": "Genitourinary syndrome of menopause like vaginal dryness and discomfort",
+    "b3": "It can also help prevent bone loss and fractures in suitable patients.",
+    "stat1Number": "80%",
+    "stat1Label": "Reduction in hot flushes",
+    "stat2Number": "90%",
+    "stat2Label": "Improved sleep quality"
+  },
+  "faq": {
+    "title1": "Frequently Asked",
+    "title2": "Questions",
+    "desc": "Get answers to common questions about HRT and what to expect.",
+    "moreQuestions": "Have more questions? Our doctors are here to help.",
+    "q1": "What is HRT and why is it used?",
+    "a1": "HRT replaces declining hormones, mainly oestrogen and sometimes progestogen, to ease menopause symptoms like hot flushes, night sweats, mood changes, and vaginal dryness.",
+    "q2": "What are the two main types of HRT?",
+    "a2": "Oestrogen-only HRT is usually for women after hysterectomy. Combined HRT is for women with a uterus to protect the womb lining.",
+    "q3": "Is HRT safe?",
+    "a3": "For many women, especially under 60 or within around 10 years of menopause, HRT can be safe when prescribed appropriately and reviewed regularly. Risks vary by type and personal health history.",
+    "q4": "Can HRT cause weight gain?",
+    "a4": "Most evidence and NHS guidance suggest HRT is not strongly linked to weight gain. Menopause itself can affect weight and fat distribution.",
+    "q5": "How soon does HRT start working?",
+    "a5": "Some people feel improvements in weeks, but timing varies depending on symptoms and formulation."
+  },
+  "cta": {
+    "title": "Ready to Start Your Journey?",
+    "desc": "If you're searching for hormone replacement therapy in Kuala Lumpur or HRT in Malaysia, start with a private consultation and a clear plan.",
+    "clinicName": "Nexus Clinic Kuala Lumpur",
+    "address": "LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur",
+    "phone": "016-7025699 / 03-21635699",
+    "button": "Book Your Consultation"
+  }
+}

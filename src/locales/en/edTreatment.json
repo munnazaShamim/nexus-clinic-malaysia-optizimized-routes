@@ -1,0 +1,230 @@
+{
+  "hero": {
+    "badge": "Nexus Clinic Kuala Lumpur",
+    "title1": "It's not \"in your head.\"",
+    "title2": "ED is often a health signal, and it's treatable.",
+    "desc": "If erections feel unpredictable, weaker, or don't last long enough, it can mess with your confidence and your relationship. At Nexus Clinic Kuala Lumpur, we keep it private, medical, and practical, so you can get answers without the awkwardness.",
+    "cta1": "Book Private Consult",
+    "cta2": "Learn More",
+    "trust1": "Confidential, judgement-free consults",
+    "trust2": "Root-cause focused approach",
+    "trust3": "Clear treatment options",
+    "trust4": "Safety checks before you start",
+    "location": "LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur",
+    "realityTitle": "Quick Reality Check: What ED Really Means",
+    "realityDesc": "Erectile dysfunction (ED) means you often struggle to get or keep an erection firm enough for sex. One bad night does not mean you have ED. But if it keeps happening and it causes stress, it is worth checking.",
+    "realityWarning": "Here's the part most men do not hear early enough: ED can be an early sign of other health issues, especially blood flow and heart-related problems. That is why a proper medical review can protect more than your sex life."
+  },
+  "whoFor": {
+    "title": "Who ED Treatment Is For",
+    "item1": "Difficulty getting an erection",
+    "item2": "Losing firmness during sex",
+    "item3": "Lower sexual confidence or avoidance",
+    "item4": "Performance anxiety after repeated 'fails'",
+    "driversNote": "Erectile issues after diabetes, high blood pressure, smoking, stress, or weight gain (these are common drivers)",
+    "ageNote": "ED is not only an \"older man\" thing. It can happen at any age, especially with stress, lifestyle factors, and metabolic health."
+  },
+  "whyHappens": {
+    "title": "Why ED Happens",
+    "titleHighlight": "(In Simple Words)",
+    "desc": "An erection depends on blood flow, nerves, hormones, and your mind working together.",
+    "cause1Title": "1) Blood flow issues (most common)",
+    "cause1Desc": "If blood vessels are not working well, erections become weaker. This is also why ED can show up before bigger heart symptoms.",
+    "cause2Title": "2) Medical conditions and medications",
+    "cause2Desc": "Diabetes, high blood pressure, cholesterol issues, and some medicines can affect erections.",
+    "cause3Title": "3) Hormones (especially low testosterone)",
+    "cause3Desc": "Low testosterone can affect desire and contribute to ED. Guidelines discuss checking hormones where relevant and tailoring care.",
+    "cause4Title": "4) Stress, anxiety, depression, relationship tension",
+    "cause4Desc": "Your brain is the 'starter motor.' If you're stressed or anxious, the body can block arousal even if you want intimacy.",
+    "seeDocTitle": "When You Should See a Doctor (Not Google)",
+    "seeDoc1": "The issue lasts more than a few weeks",
+    "seeDoc2": "It affects your relationship or confidence",
+    "seeDoc3": "You also have chest pain, breathlessness, diabetes, or high blood pressure",
+    "seeDoc4": "You are tempted to buy ED pills online",
+    "onlineWarning": "Why the online warning? Fake ED meds are a real global problem, and they can contain the wrong dose, hidden substances, or no active ingredient at all. Always use a licensed doctor and pharmacy route."
+  },
+  "assessment": {
+    "title": "How ED Is Assessed at a Good Clinic",
+    "desc": "A proper ED work-up usually includes:",
+    "step1": "Your symptoms, timeline, and what situations it happens in",
+    "step2": "Medical history (diabetes, BP, sleep, smoking, meds)",
+    "step3": "Basic physical checks",
+    "step4": "Targeted blood tests (often testosterone and general health markers)",
+    "wholePicture": "This \"whole picture\" approach is recommended in urology guidance and patient education resources.",
+    "nexusGoal": "At Nexus Clinic Kuala Lumpur, the goal is simple: find the cause, then match the treatment to your body and lifestyle, not someone else's plan."
+  },
+  "treatmentOptions": {
+    "title": "ED Treatment Options in Malaysia",
+    "titleHighlight": "(From Simple to Advanced)"
+  },
+  "lifestyle": {
+    "title": "1) Lifestyle Fixes That Actually Work (Especially for Mild ED)",
+    "desc": "This is not a lecture. This is the foundation that makes every other treatment work better.",
+    "item1": "Better sleep (poor sleep can wreck hormones and arousal)",
+    "item2": "Cutting smoking and heavy alcohol",
+    "item3": "Moving your body most days (even brisk walking helps circulation)",
+    "item4": "Weight management and blood sugar control if needed",
+    "note": "If your ED is driven by blood flow and lifestyle factors, these changes can move the needle."
+  },
+  "anxiety": {
+    "title": "2) Performance Anxiety and Relationship Support",
+    "desc": "If ED started after stress, one bad experience, or pressure to \"perform,\" you may be stuck in a loop: Worry → less arousal → weaker erection → more worry. Sometimes the best \"treatment\" is removing shame and building a plan with your partner. A clinic that normalizes the conversation helps."
+  },
+  "tablets": {
+    "title": "3) Prescription ED Tablets (PDE5 Inhibitors)",
+    "desc1": "These are the most common first-line medical treatment for ED, recommended in major guidelines.",
+    "desc2": "Examples include sildenafil and tadalafil (you may know them by brand names like Viagra or Cialis). They help blood flow to the penis, but they still require sexual stimulation. They do not create instant desire.",
+    "useTitle": "How to use them properly (small details matter)",
+    "use1": "Take as directed by your doctor",
+    "use2": "Timing matters",
+    "use3": "High-fat meals can delay the effect of some options (a common reason men think \"it didn't work\")",
+    "sideEffectsTitle": "Common side effects",
+    "sideEffectsDesc": "Headache, flushing, blocked nose, indigestion. These are widely listed in prescribing guidance.",
+    "contraTitle": "Who should NOT take them",
+    "contraDesc": "If you take nitrates for chest pain (angina), you must not use sildenafil or similar ED meds because it can cause dangerous drops in blood pressure."
+  },
+  "testosterone": {
+    "title": "4) Testosterone Support (Only If You're Truly Low)",
+    "desc": "If blood tests show low testosterone and symptoms match, hormone treatment may be considered as part of a broader plan, especially if pills are not working well and hypogonadism is present. This is not for everyone. Done right, it is careful medicine, not a \"quick boost.\""
+  },
+  "vacuum": {
+    "title": "5) Vacuum Erection Devices (Penis Pumps)",
+    "desc": "A penis pump draws blood into the penis and a ring helps maintain the erection. It is a non-drug option and can be useful when tablets are not suitable.",
+    "bestForTitle": "Best for:",
+    "bestFor1": "Men who cannot take ED tablets",
+    "bestFor2": "Men who want a non-medication approach",
+    "bestFor3": "Some post-surgery situations (doctor guidance matters)"
+  },
+  "injections": {
+    "title": "6) Penile Injections or Urethral Medication (Alprostadil)",
+    "desc": "If tablets fail or are not safe for you, doctors may offer alprostadil options. Mayo Clinic outlines intraurethral medication and notes possible side effects like burning and minor bleeding. Some Malaysia clinics also discuss alprostadil (for example, Caverject) as an ED treatment option."
+  },
+  "shockwave": {
+    "title": "7) Shockwave Therapy (Li-ESWT / ESWT) in Kuala Lumpur",
+    "desc": "Shockwave therapy for ED is widely marketed in Malaysia and KL clinics. Competitor pages commonly position it as non-invasive and drug-free.",
+    "note": "What matters is who it is for and what results are realistic.",
+    "point1": "It is often discussed for men with mild to moderate vasculogenic ED, where blood flow is the main issue.",
+    "point2": "Evidence exists, but outcomes vary, and it is not a magic switch.",
+    "questionsTitle": "If you are considering shockwave therapy in Kuala Lumpur, ask these questions:",
+    "q1": "\"What type of ED do you think I have and why?\"",
+    "q2": "\"How many sessions do you recommend and what is the plan if it doesn't work?\"",
+    "q3": "\"Will you still check heart risk and metabolic health?\"",
+    "questionsNote": "A clinic should guide you through suitability instead of pushing packages."
+  },
+  "prp": {
+    "title": "8) PRP (P-Shot) at Nexus Clinic Kuala Lumpur",
+    "desc": "Nexus Clinic offers a P-Shot page describing it as PRP derived from your own blood, injected with the goal of supporting blood flow and sensitivity, while noting results can vary.",
+    "thinkingTitle": "If you are thinking about PRP:",
+    "think1": "Treat it as an option to discuss, not a guaranteed cure",
+    "think2": "Ask about expected outcomes for your ED type",
+    "think3": "Ask what evidence the clinic relies on for your case"
+  },
+  "stemCell": {
+    "title": "9) Stem Cell Based Approaches (Emerging)",
+    "desc": "Nexus Clinic also describes stem cell therapy for ED as an emerging area and notes results can vary.",
+    "protectionTitle": "Because this space can be heavily marketed, your best protection is:",
+    "protect1": "Clear explanation of what is proven vs what is still developing",
+    "protect2": "Transparent risks, costs, and realistic expectations",
+    "protect3": "A medical plan that starts with diagnosis first"
+  },
+  "surgery": {
+    "title": "10) Surgery (Penile Implants)",
+    "desc": "For severe ED that does not respond to other treatments, penile implants are a recognized option. Mayo Clinic lists implants as a treatment route when other methods fail. This is typically managed by a urologist, and a clinic can refer if needed."
+  },
+  "locationBanner": {
+    "text": "Nexus Clinic Kuala Lumpur — LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang"
+  },
+  "proscons": {
+    "title": "Pros and Cons",
+    "titleHighlight": "(Simple Comparison)",
+    "tabletsTitle": "Tablets (sildenafil, tadalafil)",
+    "tabletsPros": "Pros: convenient, proven first-line, fast acting for many men",
+    "tabletsCons": "Cons: not safe with nitrates, may cause side effects, may not help severe cases",
+    "shockwaveTitle": "Shockwave therapy",
+    "shockwavePros": "Pros: non-invasive, no daily meds, popular in KL clinics",
+    "shockwaveCons": "Cons: not for everyone, needs sessions, results vary",
+    "vacuumTitle": "Vacuum device",
+    "vacuumPros": "Pros: drug-free option, useful when meds are contraindicated",
+    "vacuumCons": "Cons: some men find it awkward; learning curve",
+    "injectionsTitle": "Injections / intraurethral medicine",
+    "injectionsPros": "Pros: works when tablets fail, targeted action",
+    "injectionsCons": "Cons: discomfort, technique matters, side effects possible",
+    "prpStemTitle": "PRP (P-Shot) and stem cell approaches",
+    "prpStemPros": "Pros: regenerative intent; some men explore it when standard options are limited",
+    "prpStemCons": "Cons: evidence and outcomes vary; needs careful medical discussion"
+  },
+  "cost": {
+    "title": "ED Treatment Cost in Malaysia",
+    "titleHighlight": "(Kuala Lumpur)",
+    "desc": "Costs vary based on the cause, tests needed, and treatment choice.",
+    "consultTitle": "Consultation",
+    "consultPrice": "RM 150-300",
+    "sildenafTitle": "Sildenafil tablets",
+    "sildenafPrice": "RM 30-50 per pill",
+    "sildenafNote": "brand, cheaper for generics",
+    "shockwaveTitle": "Shockwave therapy",
+    "shockwavePrice": "RM 1,000-3,000",
+    "shockwaveNote": "per session",
+    "implantsTitle": "Penile implants",
+    "implantsPrice": "RM 30,000-60,000",
+    "implantsNote": "surgical route",
+    "disclaimer": "Use these as rough references, not a guaranteed price list. Your real cost depends on your plan and how many sessions or follow-ups you need."
+  },
+  "process": {
+    "title": "Your Journey at Nexus Clinic",
+    "step1Title": "Private consult",
+    "step1Desc": "symptom review",
+    "step2Title": "Quick risk screening",
+    "step2Desc": "blood pressure, lifestyle, medical conditions",
+    "step3Title": "Tests if needed",
+    "step3Desc": "hormones, diabetes, cardiovascular risk",
+    "step4Title": "Step-by-step plan",
+    "step4Desc": "options and timelines",
+    "step5Title": "Follow-up",
+    "step5Desc": "to adjust treatment",
+    "privacyNote": "And yes, privacy matters. Nexus Clinic Kuala Lumpur location and contact details are listed on their KL pages."
+  },
+  "competitor": {
+    "title": "Competitor Snapshot: What Top Clinics in Malaysia Emphasize",
+    "titleHighlight": "(and How to Beat Them)",
+    "desc": "When you look at common ranking pages for \"ED treatment Malaysia\" and \"erectile dysfunction treatment Kuala Lumpur,\" you will see patterns:",
+    "item1": "Discreet ED testing and treatment pages (PULSE Clinic)",
+    "item2": "\"Men's health doctor\" positioning plus injection and shockwave packages (Universal Clinic, Alpha Clinic)",
+    "item3": "Strong push on shockwave as a non-invasive solution (Alpha, HE Medical, Universal)"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "What is the best treatment for ED in Malaysia?",
+    "a1": "There is no single best option. Guidelines commonly start with lifestyle improvements and prescription tablets (PDE5 inhibitors) when safe, then move to devices, injections, shockwave therapy, or surgery depending on the cause and severity.",
+    "q2": "Can ED be cured permanently?",
+    "a2": "Sometimes ED improves a lot when the root cause is treated, like better blood sugar control, weight loss, stopping smoking, or fixing medication issues. Other cases need ongoing support. Many hospital pages note ED can signal underlying conditions, so treating those matters.",
+    "q3": "Is ED a normal part of ageing?",
+    "a3": "ED becomes more common with age, but it is often linked to health factors like blood flow and heart health. It is worth checking instead of assuming it is 'normal.'",
+    "q4": "How do I know if my ED is physical or psychological?",
+    "a4": "If it happens in every situation and morning erections are gone, physical causes are more likely. If it happens mainly in high-pressure situations, anxiety can play a big role. Many men have a mix of both, which is why proper assessment helps.",
+    "q5": "Are sildenafil or tadalafil safe?",
+    "a5": "They can be safe for many men when prescribed properly. But they are not safe with nitrate heart medications because of dangerous blood pressure drops. Always speak to a doctor first.",
+    "q6": "How fast do ED pills work?",
+    "a6": "Timing depends on the medication and how you take it. Mayo Clinic notes oral ED medicine increases blood flow and effect can start within minutes for some, but correct use matters.",
+    "q7": "What if ED pills do not work?",
+    "a7": "Next steps can include checking correct usage, adjusting dose, treating underlying causes, then considering vacuum devices, alprostadil injections or urethral options, or shockwave therapy depending on suitability.",
+    "q8": "Is shockwave therapy effective for ED?",
+    "a8": "It may help some men, especially when blood flow is the main issue, and many KL clinics offer it. Results vary, so suitability screening is key.",
+    "q9": "How much does ED treatment cost in Kuala Lumpur?",
+    "a9": "Costs vary. Some private clinic estimates include consults around RM 150-300 and shockwave sessions around RM 1,000-3,000 per session, with medication costs depending on brand and dose.",
+    "q10": "Can ED be a sign of heart disease?",
+    "a10": "Yes, ED is often connected to blood flow problems and can be linked with cardiovascular disease risk. This is why a medical review is important.",
+    "q11": "Should I buy ED medication online?",
+    "a11": "Be careful. Counterfeit ED pills are widely seized internationally and can be unsafe. Use a licensed doctor and pharmacy route.",
+    "q12": "Does PRP (P-Shot) help ED?",
+    "a12": "Nexus Clinic describes P-Shot as PRP from your own blood that may support blood flow and sensitivity, and notes results can vary. It is best discussed after diagnosis so you understand if it fits your ED type."
+  },
+  "cta": {
+    "title": "Start with a Private Consult and a Real Diagnosis",
+    "desc": "If you are searching for ED treatment in Kuala Lumpur or erectile dysfunction treatment in Malaysia, start with a private consult and a real diagnosis.",
+    "button": "Book Your Private Consult",
+    "phone1": "016-7025699",
+    "phone2": "03-21635699",
+    "address": "LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur"
+  }
+}

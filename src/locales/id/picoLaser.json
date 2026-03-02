@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "Nexus Clinic Kuala Lumpur",
+    "title1": "Momen",
+    "title2": "\"kulit cerah\"",
+    "title3": "Anda bermula di sini",
+    "desc": "Bukan dalam pencahayaan sempurna, tapi dalam kehidupan nyata. Lembut, tepat, dan dirancang khusus untuk kulit orang Malaysia.",
+    "btn1": "Mulakan Perjalanan Kulit Cerah Anda",
+    "btn2": "Tempah Konsultasi",
+    "trust1": "Berdaftar KKM",
+    "trust2": "Dipimpin Doktor",
+    "trust3": "Berasaskan Bukti"
+  },
+  "realityCheck": {
+    "badge": "Semakan realiti",
+    "title": "Kerana kulit anda bukan filter",
+    "desc": "Jika anda bermasalah dengan pigmen yang terus kembali, bekas jerawat yang enggan pudar, atau tona kulit yang kelihatan lesu walaupun sudah menjaga kulit, Pico Laser boleh menjadi langkah bijak seterusnya.",
+    "highlight": "Ini bukan sihir. Ini ketepatan perubatan."
+  },
+  "whatIs": {
+    "badge": "Dalam kata mudah",
+    "title": "Apa itu Pico Laser?",
+    "desc": "Pico Laser menghantar tenaga dalam denyutan ultra pendek—lebih pantas daripada sekelip mata. Ia memecahkan pigmen kepada zarah-zarah kecil dan merangsang pembaharuan kulit sambil mengehadkan penyebaran haba berlebihan.",
+    "point1": "Denyutan pikosaat ultra pendek untuk ketepatan",
+    "point2": "Mengurangkan kerosakan haba pada kulit sekeliling",
+    "point3": "Selamat untuk tona kulit orang Malaysia apabila dilakukan dengan betul",
+    "target1": "Tompok Matahari & Jeragat",
+    "target2": "Bekas Jerawat",
+    "target3": "Liang Pori Besar",
+    "target4": "Tona Tidak Sekata"
+  },
+  "whyMalaysian": {
+    "badge": "Mengapa ia berkesan",
+    "title": "Untuk tona kulit orang Malaysia",
+    "desc": "Ramai rakyat Malaysia mempunyai tona kulit sederhana hingga gelap. Rawatan berasaskan haba boleh mencetuskan masalah pigmentasi—denyutan ultra pendek Pico Laser mengurangkan risiko ini.",
+    "safeBadge": "Diiktiraf selamat untuk tona kulit lebih gelap",
+    "quote": "\"Laser pikosaat mengurangkan kerosakan haba yang tidak diingini sambil mengekalkan keberkesanan\"",
+    "quoteSource": "— Ulasan Klinikal Mengenai Rawatan PIH pada Kulit Berwarna"
+  },
+  "approach": {
+    "badge": "Pendekatan Nexus Clinic",
+    "title": "Bagaimana kami memastikan ia selamat dan berbaloi",
+    "step1Title": "1. Penilaian Kulit Terlebih Dahulu",
+    "step1Desc": "Kami menganalisis jenis pigmen, tahap keradangan, dan reaksi lampau anda",
+    "step2Title": "2. Ujian Tampalan",
+    "step2Desc": "Penting untuk kulit reaktif atau mereka yang mempunyai sejarah PIH",
+    "step3Title": "3. Strategi Kulit + Matahari",
+    "step3Desc": "Laser tanpa penjagaan selepas rawatan umpama bersenam tanpa protein"
+  },
+  "areas": {
+    "title": "Kawasan yang kami rawat",
+    "desc": "Seluruh muka hingga masalah khusus",
+    "area1": "Seluruh Muka",
+    "area2": "Pipi",
+    "area3": "Bibir Atas",
+    "area4": "Leher & Dada",
+    "area5": "Tangan",
+    "area6": "Belakang & Bahu",
+    "area7": "Kawasan Tatu",
+    "area8": "Tompok Tertentu"
+  },
+  "sessions": {
+    "badge": "Panduan praktikal",
+    "title": "Berapa banyak sesi?",
+    "desc": "Berdasarkan masalah anda dan cara kulit anda bertindak balas:",
+    "concern1": "Pigmen permukaan & seri",
+    "sessions1": "3-5 sesi",
+    "concern2": "Bekas jerawat",
+    "sessions2": "3-6 sesi",
+    "concern3": "Melasma",
+    "sessions3": "Keputusan berbeza, rawatan penyelenggaraan biasa diperlukan",
+    "concern4": "Tatu",
+    "sessions4": "Bergantung pada warna dan kedalaman dakwat",
+    "downtimeTitle": "Masa pemulihan?",
+    "downtimeDesc": "Kebanyakan orang tidak perlu bersembunyi di rumah. Kemerahan ringan selama beberapa jam—itu sahaja.",
+    "downtimeNote": "Kembali normal pada hari yang sama"
+  },
+  "prosCons": {
+    "title": "Kelebihan & kekurangan secara jujur",
+    "prosTitle": "Kelebihan",
+    "pro1": "Menyasarkan pigmen dengan penyebaran haba yang kurang",
+    "pro2": "Sesi pantas, gangguan minimum",
+    "pro3": "Memperbaiki tona dan tekstur dari masa ke masa",
+    "consTitle": "Kekurangan",
+    "con1": "Bukan keajaiban satu sesi",
+    "con2": "Melasma boleh berulang",
+    "con3": "Tetapan yang salah boleh mencetuskan PIH",
+    "con4": "Parut dalam mungkin memerlukan rawatan gabungan"
+  },
+  "faq": {
+    "q1": "Adakah Pico Laser menyakitkan?",
+    "a1": "Kebanyakan orang merasakan sentakan pantas atau kesemutan ringan—sangat boleh ditahan.",
+    "q2": "Adakah muka akan mengelupas selepas itu?",
+    "a2": "Pengelupasan ringan boleh berlaku, terutamanya apabila menyasarkan pigmentasi.",
+    "q3": "Bolehkah saya basuh muka selepas rawatan?",
+    "a3": "Ya, basuh dengan lembut menggunakan air suam dan pencuci muka yang lembut.",
+    "q4": "Adakah ia selamat untuk kulit gelap?",
+    "a4": "Ya, apabila dilakukan dengan betul menggunakan tetapan yang sesuai.",
+    "q5": "Bolehkah ia menghilangkan melasma secara kekal?",
+    "a5": "Melasma boleh bertambah baik tetapi pengulangan adalah biasa—kami merancang untuk jangka panjang."
+  },
+  "cta": {
+    "title": "Mulakan dengan diagnosis yang betul",
+    "desc": "Tempah konsultasi di Nexus Clinic Kuala Lumpur. Pilih tetapan dan jadual yang sesuai untuk kulit anda.",
+    "bookBtn": "Tempah Konsultasi Anda",
+    "address": "LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur"
+  }
+}

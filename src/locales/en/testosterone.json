@@ -1,0 +1,187 @@
+{
+  "hero": {
+    "title1": "You're not \"just getting older.\"",
+    "title2": "You might be running low on testosterone.",
+    "desc": "If you feel tired all the time, your drive is gone, and your workouts do not hit the same, it can be frustrating and confusing. At Nexus Clinic Kuala Lumpur, we help you check what's really happening, then build a safe plan that fits your body and your life.",
+    "cta1": "Book Your Consultation",
+    "cta2": "Learn More"
+  },
+  "trust": {
+    "trust1": "Doctor-led assessment and clear next steps (no guessing, no hype)",
+    "trust2": "Full hormone and health screening before treatment, with follow-up monitoring (this matters for safety)",
+    "trust3": "Central Kuala Lumpur location: LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur",
+    "trust4": "Private, discreet care, because men's health is personal",
+    "quickNote": "Quick note: Testosterone therapy is a medical treatment, not a \"performance upgrade.\" Good care starts with proper diagnosis and repeat testing."
+  },
+  "whatIs": {
+    "title": "What is Testosterone Therapy (TRT)?",
+    "desc": "Testosterone therapy, often called TRT (Testosterone Replacement Therapy), is treatment that raises testosterone to a healthy range for men who have:",
+    "criteria1": "symptoms, and",
+    "criteria2": "consistently low testosterone confirmed on blood tests (usually morning tests, repeated)",
+    "explanation": "Testosterone is linked to energy, sex drive, erections, mood, sleep quality, muscle mass, fat distribution, and bone strength. When it drops too low, you can feel like your \"engine\" is always running on empty.",
+    "imageCaption": "Expert medical consultation at Nexus Clinic KL"
+  },
+  "symptoms": {
+    "title": "Signs You Might Have Low Testosterone",
+    "quote": "\"I'm functioning... but I'm not myself.\"",
+    "s1": "Low energy and constant tiredness",
+    "s2": "Lower sex drive, fewer morning erections",
+    "s3": "Erectile issues (sometimes)",
+    "s4": "Low mood, irritability, anxiety, loss of confidence",
+    "s5": "Brain fog, poor focus",
+    "s6": "More belly fat, less muscle",
+    "s7": "Poor recovery after workouts",
+    "s8": "Sleep problems",
+    "importantNote": "Important: these symptoms can also come from stress, poor sleep, obesity, thyroid issues, diabetes, depression, or sleep apnea. That's why testing and a proper medical review matter."
+  },
+  "diagnosis": {
+    "title": "How Diagnosis Works",
+    "subtitle": "(What Good Clinics Do)",
+    "desc": "Medical guidelines recommend diagnosing low testosterone only when symptoms and repeated lab results match.",
+    "step1": "Morning blood tests, sometimes fasting",
+    "step2": "Repeat confirmation (because testosterone can fluctuate)",
+    "step3": "A broader panel to understand why it's low and to set safe baselines (often includes blood count, lipids, liver markers, and sometimes PSA depending on age and risk)",
+    "imageCaption": "State-of-the-art diagnostic equipment"
+  },
+  "treatment": {
+    "title": "Testosterone Therapy Options in Malaysia",
+    "subtitle": "(What You Can Choose)",
+    "opt1Title": "Injections",
+    "opt1Desc": "Simple schedule, strong results, no daily application. Trade-offs: peaks and dips can happen.",
+    "opt1Price": "RM 800-2,500/session",
+    "opt2Title": "Gels",
+    "opt2Desc": "No needles, easy dose adjustment, steady daily rhythm. Must apply daily, risk of transfer.",
+    "opt2Price": "RM 300-700/month",
+    "opt3Title": "Patches",
+    "opt3Desc": "Less common than gels and injections, but still an option in some settings.",
+    "opt3Price": "Varies",
+    "opt4Title": "Pellets",
+    "opt4Desc": "Rare in Malaysia, require minor procedure.",
+    "opt4Price": "Contact for pricing"
+  },
+  "patientCare": {
+    "title": "Private, Discreet, Professional Care",
+    "desc": "At Nexus Clinic Kuala Lumpur, we understand that men's health is personal. Our approach combines medical expertise with complete privacy and discretion.",
+    "item1": "One-on-one consultations in private rooms",
+    "item2": "Confidential medical records and testing",
+    "item3": "Flexible appointment scheduling",
+    "item4": "Continuity of care with the same doctor"
+  },
+  "timeline": {
+    "title": "What Results to Expect (and When)",
+    "desc": "TRT is not instant. A realistic timeline helps you stay patient and safe.",
+    "time1": "Weeks",
+    "time1Desc": "Many men notice mood and body changes after a few weeks, and clinicians often re-check levels around the first month.",
+    "time2": "Months",
+    "time2Desc": "Sexual interest can improve within weeks, while erections and ejaculation changes may take longer, sometimes months.",
+    "time3": "3-6 Months",
+    "time3Desc": "If you have been on TRT for 3-6 months and nothing improves, your clinician may reassess whether testosterone was really the cause."
+  },
+  "benefits": {
+    "title": "Benefits Men Commonly Want From TRT",
+    "b1": "Better energy and stamina",
+    "b2": "Improved libido and sexual function",
+    "b3": "Better mood and mental clarity",
+    "b4": "Stronger workouts and recovery",
+    "b5": "Improved body composition (with training and diet)",
+    "b6": "Follow-up monitoring ensures safety"
+  },
+  "risks": {
+    "title": "Risks and Side Effects",
+    "subtitle": "(Real Talk)",
+    "desc": "TRT can be life-changing for the right person. It can also cause problems if used casually.",
+    "r1": "Acne or oily skin",
+    "r2": "Fluid retention",
+    "r3": "Breast tenderness or gynecomastia",
+    "r4": "Worsening sleep apnea in some men",
+    "r5": "Increased red blood cell count (hematocrit), which needs monitoring",
+    "r6": "Blood pressure and heart risk",
+    "fdaNote": "In 2025, the FDA announced class-wide labeling changes after reviewing the TRAVERSE trial and blood pressure monitoring studies. The FDA noted TRAVERSE showed no increased risk of major cardiovascular outcomes for the studied group, while blood pressure increases were confirmed across testosterone products, leading to blood pressure warnings.",
+    "bottomLine": "Bottom line: you want TRT managed medically, with follow-ups, not guessed."
+  },
+  "fertility": {
+    "title": "TRT and Fertility",
+    "subtitle": "(Most Men Are Not Told This Early Enough)",
+    "intro": "If you want children, this part matters.",
+    "desc": "TRT can lower sperm count significantly and may cause fertility issues. Some fertility education resources note sperm can return after stopping testosterone, often around a few months, but the timeline varies and it is not something to gamble with.",
+    "warning": "If you are trying to conceive soon (or even \"maybe this year\"), tell the doctor before starting.",
+    "preserving": "There are fertility-preserving approaches in specialist care, but the right choice depends on your case."
+  },
+  "trtVs": {
+    "card1Title": "TRT vs \"Testosterone Boosters\" (Supplements)",
+    "card1P1": "A lot of men in Malaysia try supplements first because it feels easier.",
+    "card1P2": "But many over-the-counter \"boosters\" are not regulated like prescription medicine, and effectiveness is often questionable.",
+    "card1P3": "If you want to raise testosterone naturally, basics like sleep, resistance training, weight management, and stress reduction can help, even before you consider TRT.",
+    "card2Title": "TRT vs ED Medications (They Are Not the Same)",
+    "card2P1": "ED medications (like PDE5 inhibitors) help blood flow and erections. TRT supports hormone balance.",
+    "card2P2": "Some men need one, some need the other, some need both. A proper assessment avoids wasting money and time."
+  },
+  "cost": {
+    "title": "Cost of Testosterone Therapy in Malaysia (Kuala Lumpur)",
+    "desc": "Prices vary a lot depending on your baseline tests, your treatment type, and how often you need follow-ups.",
+    "injectionsTitle": "Injections",
+    "injectionsPrice": "RM 800-2,500",
+    "injectionsNote": "per session (depends on type)",
+    "gelsTitle": "Gels/Patches",
+    "gelsPrice": "RM 300-700",
+    "gelsNote": "per month",
+    "tip": "Simple tip: when you compare clinics, do not compare only the injection price. Compare the full plan:",
+    "tipItem1": "baseline lab panel",
+    "tipItem2": "follow-up labs schedule",
+    "tipItem3": "doctor review frequency",
+    "tipItem4": "safety monitoring"
+  },
+  "competitor": {
+    "title": "What We Noticed From Top-Ranking Competitors",
+    "card1Title": "Common patterns on competitor pages:",
+    "card1Item1": "Strong focus on benefits and symptom lists",
+    "card1Item2": "Social proof and privacy messaging (example: 'served more than 46,000 international patients')",
+    "card1Item3": "Many pages mention 'assessment + monitoring,' but often keep the actual step-by-step process brief",
+    "card2Title": "How Nexus Clinic KL content should win:",
+    "card2Item1": "Make diagnosis standards clear (symptoms + repeat morning labs)",
+    "card2Item2": "Explain monitoring and safety in plain language (hematocrit, BP, prostate checks when appropriate)",
+    "card2Item3": "Give honest cost ranges and what drives price",
+    "card2Item4": "Address fertility clearly, early, and directly"
+  },
+  "whyNexus": {
+    "title": "Why Nexus Clinic Kuala Lumpur",
+    "desc": "If you're considering testosterone therapy in Kuala Lumpur, you want a clinic that treats this like healthcare, not like a trend.",
+    "clinicName": "Nexus Clinic Kuala Lumpur",
+    "address": "LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur",
+    "phone1": "016-7025699",
+    "phone2": "03-21635699"
+  },
+  "faq": {
+    "q1": "How do I know if I need testosterone therapy?",
+    "a1": "If you have symptoms like low energy, low libido, brain fog, or reduced strength, the next step is a medical review and blood tests. Diagnosis usually requires symptoms plus consistently low results on repeat morning tests.",
+    "q2": "Is testosterone therapy safe?",
+    "a2": "It can be safe when prescribed for true deficiency and monitored. You need follow-ups because side effects like increased red blood cells and blood pressure changes can occur.",
+    "q3": "How long does it take for TRT to work?",
+    "a3": "Many men notice changes within weeks, but full benefits can take months. Clinicians often check levels around 30 days after starting, and sexual function changes may take longer.",
+    "q4": "What are the side effects of TRT?",
+    "a4": "Possible side effects include acne, fluid retention, breast tenderness, increased red blood cell count, and possible worsening of sleep apnea. Monitoring is part of safe care.",
+    "q5": "Can TRT cause infertility?",
+    "a5": "Yes. TRT can reduce sperm count and fertility. If you want children, talk to your doctor before starting, because alternatives may be considered in specialist care.",
+    "q6": "Can I increase testosterone naturally?",
+    "a6": "Sometimes, yes. Sleep, strength training, healthy weight, and stress reduction can support testosterone. Supplements are a different story and many are not well regulated.",
+    "q7": "How much does testosterone therapy cost in Malaysia?",
+    "a7": "Typical published ranges vary by method. Injections around RM 800-2,500 per session and gels/pouches around RM 300-700 per month, but your total depends on labs and follow-ups.",
+    "q8": "Do I need blood tests before testosterone therapy?",
+    "a8": "Yes. Always. Testing confirms deficiency and rules out other causes. This is non-negotiable for safe care.",
+    "q9": "Will TRT help with erectile dysfunction?",
+    "a9": "TRT can help if ED is related to low testosterone, but ED has many causes. Some men may need separate ED treatment or a combined plan after assessment.",
+    "q10": "Can I stop TRT once I start?",
+    "a10": "Some men stop if symptoms do not improve after a trial period, or if side effects appear. Always stop only with medical guidance.",
+    "q11": "Does TRT increase heart risk?",
+    "a11": "Large trial evidence (TRAVERSE) found testosterone therapy was noninferior to placebo for major cardiovascular events. The FDA updated labeling in 2025 with blood pressure warnings. This is why monitoring matters.",
+    "q12": "Which type of TRT is best: injections or gel?",
+    "a12": "There is no 'best' for everyone. Injections may be convenient for some. Gels avoid needles but need daily use and careful handling to avoid transferring to others."
+  },
+  "cta": {
+    "title": "Start with the step most men skip:",
+    "titleHighlight": "a proper diagnosis.",
+    "desc": "Book a consultation at Nexus Clinic Kuala Lumpur and get a clear plan based on symptoms, repeat blood tests, and safe monitoring.",
+    "button": "Book Your Consultation",
+    "address": "Nexus Clinic Kuala Lumpur, LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur"
+  }
+}

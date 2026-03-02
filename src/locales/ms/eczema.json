@@ -1,0 +1,95 @@
+{
+  "hero": {
+    "badge": "Nexus Clinic Kuala Lumpur",
+    "title1": "Kelegaan ekzema",
+    "title2": "yang benar-benar berkesan.",
+    "desc": "Tenangkan kulit anda, tidur lebih lena, dan hentikan kitaran flare di Kuala Lumpur.",
+    "sleepTitle": "Tidur lebih lena",
+    "sleepDesc": "Apabila ekzema meradang, ia mengganggu tidur, keyakinan, dan keselesaan anda.",
+    "doctorTitle": "Pendekatan dipandu doktor",
+    "doctorDesc": "Klinik berdaftar MOH dengan pendekatan diagnosis-dahulu di KLCC.",
+    "btn": "Mulakan perjalanan ketenangan anda",
+    "floatingLabel": "Kesan Iklim KL",
+    "floatingValue": "Pencetus Panas + Peluh"
+  },
+  "trust": {
+    "t1Title": "Berdaftar MOH",
+    "t1Desc": "Dipandu doktor dengan pendekatan diagnosis-dahulu",
+    "t2Title": "Berhampiran KLCC",
+    "t2Desc": "LG 10, Wisma UOA II, Jalan Pinang",
+    "t3Title": "Pemetaan Pencetus",
+    "t3Desc": "Penilaian sebelum rawatan"
+  },
+  "whyKL": {
+    "title1": "Mengapa ekzema terasa lebih teruk di",
+    "title2": "Kuala Lumpur",
+    "desc": "Iklim dan gaya hidup Malaysia mencipta suasana sempurna untuk ekzema",
+    "trigger1Title": "Panas + Peluh",
+    "trigger1Desc": "Peluh boleh menyengat kulit yang pecah dan mencetuskan kegatalan",
+    "trigger2Title": "Penghawa Dingin",
+    "trigger2Desc": "Perubahan suhu memberi tekanan kepada lapisan pelindung kulit",
+    "trigger3Title": "Mandi Kerap",
+    "trigger3Desc": "Air panas melucutkan minyak pelindung semula jadi kulit",
+    "trigger4Title": "Tekanan & Pencemaran",
+    "trigger4Desc": "Kedua-duanya meningkatkan keradangan dan menggaru"
+  },
+  "symptoms": {
+    "title1": "Gejala ekzema",
+    "title2": "yang biasa",
+    "s1": "Kegatalan yang kuat, selalunya sebelum ruam kelihatan",
+    "s2": "Kulit kering, kasar, dan mengelupas",
+    "s3": "Tompok merah atau lebih gelap (coklat, ungu, atau kelabu)",
+    "s4": "Benjolan kecil, merembes, atau berkerak semasa flare",
+    "area1": "Lipatan kulit",
+    "area2": "Belakang lutut",
+    "area3": "Leher",
+    "area4": "Pergelangan tangan"
+  },
+  "treatments": {
+    "title1": "Pilihan rawatan yang",
+    "title2": "benar-benar berkesan",
+    "desc": "Penjagaan berasaskan bukti yang disesuaikan dengan keperluan kulit anda",
+    "t1Title": "Pelembap & Pembaikan Lapisan Kulit",
+    "t1Desc": "Asas penjagaan ekzema. Sapukan pelembap setiap hari, walaupun kulit kelihatan tenang.",
+    "t1Note": "Bebas pewangi, rutin harian",
+    "t2Title": "Krim Anti-keradangan",
+    "t2Desc": "Untuk flare aktif. Kortikosteroid topikal dan perencat kalsineurin apabila diperlukan.",
+    "t2Note": "Kekuatan dan tempoh dipandu doktor",
+    "t3Title": "Kawalan Kegatalan & Sokongan Tidur",
+    "t3Desc": "Tuam sejuk, penyesuaian rutin malam, dan strategi tabiat.",
+    "t3Note": "Tidur lebih lena, kulit lebih tenang"
+  },
+  "routine": {
+    "title1": "Rutin praktikal untuk",
+    "title2": "kehidupan di KL",
+    "desc": "Langkah mudah dan lestari yang sesuai dengan irama harian anda",
+    "morningTitle": "Pagi",
+    "morning1": "Bilas pantas atau cuci muka lembut",
+    "morning2": "Pelembap",
+    "morning3": "Pelindung matahari mesra kulit sensitif",
+    "middayTitle": "Tengah Hari",
+    "midday1": "Bilas peluh jika boleh",
+    "midday2": "Sapukan semula pelembap jika kulit terasa ketat",
+    "midday3": "Elakkan tisu basah berpewangi",
+    "nightTitle": "Malam",
+    "night1": "Mandi air suam",
+    "night2": "Tepuk kering, sapukan pelembap",
+    "night3": "Krim ubat seperti yang dinasihatkan"
+  },
+  "faq": {
+    "q1": "Adakah ekzema akan hilang tanpa rawatan?",
+    "a1": "Sesetengah kes ringan bertambah baik, tetapi ekzema sering meradang dan berulang. Pengurusan dan pencegahan adalah kunci.",
+    "q2": "Adakah ekzema berjangkit?",
+    "a2": "Tidak. Dermatitis atopik tidak berjangkit. Anda tidak boleh menyebarkannya melalui sentuhan.",
+    "q3": "Mengapa ekzema lebih teruk pada waktu malam?",
+    "a3": "Ramai orang merasakan kegatalan lebih pada waktu malam disebabkan perubahan rutin, perubahan suhu badan, dan menggaru secara tidak sedar.",
+    "q4": "Adakah krim steroid selamat untuk ekzema?",
+    "a4": "Ia digunakan secara meluas dan selamat apabila digunakan dengan betul dengan panduan perubatan yang sesuai mengenai kekuatan, kawasan, dan tempoh."
+  },
+  "cta": {
+    "title": "Berhenti meneka dengan krim yang tidak menentu",
+    "desc": "Lawati Nexus Clinic Kuala Lumpur untuk penilaian kulit dipandu doktor dan pelan yang sesuai dengan kehidupan sebenar di KL",
+    "bookBtn": "Wisma UOA II, Jalan Pinang, berhampiran KLCC",
+    "note": "Berdaftar MOH • Dipandu Doktor • Pendekatan diagnosis-dahulu"
+  }
+}

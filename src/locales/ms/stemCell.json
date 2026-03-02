@@ -1,0 +1,141 @@
+{
+  "hero": {
+    "badge": "Kecemerlangan Perubatan Regeneratif di KLCC",
+    "title1": "Apabila badan anda terasa \"tersekat,\"",
+    "title2": "rawatan regeneratif",
+    "title3": "boleh terasa seperti harapan.",
+    "subtitle": "Ia juga harus terasa selamat.",
+    "cta1": "Jadualkan Konsultasi Peribadi",
+    "cta2": "Fahami Pilihan Anda",
+    "clinicLabel": "Nexus Clinic Kuala Lumpur",
+    "clinicAddress": "— LG 10, Tingkat Bawah, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur",
+    "clinicPhone": "016-7025699 / 03-21635699"
+  },
+  "trust": {
+    "title": "Mengutamakan Pesakit, Berfokus Keselamatan",
+    "desc": "Di mana garis panduan MOH Malaysia bertemu standard penjagaan antarabangsa",
+    "imageTitle": "Pasukan Pakar",
+    "imageDesc": "Pakar dalam perubatan regeneratif",
+    "t1Title": "Lokasi Tengah KL",
+    "t1Desc": "Kawasan KLCC — Wisma UOA II, Jalan Pinang",
+    "t2Title": "Konsultasi Peribadi",
+    "t2Desc": "Pendekatan mengutamakan pesakit dengan privasi sepenuhnya",
+    "t3Title": "Selaras dengan MOH",
+    "t3Desc": "Mengikuti garis panduan Malaysia untuk terapi sel stem",
+    "mohQuote": "Garis panduan MOH Malaysia menyatakan bahawa transplantasi sel stem hematopoietik dan darah tali pusat adalah bentuk terapi sel stem yang paling mantap, manakala banyak aplikasi sel stem lain dianggap eksperimen dan memerlukan pengawasan yang sewajarnya."
+  },
+  "whatIs": {
+    "badge": "Pengetahuan Asas",
+    "title": "Apakah Terapi Sel Stem?",
+    "desc": "Sel stem adalah sel khas yang boleh memperbaharui diri dan boleh matang menjadi jenis sel lain. Terapi sel stem adalah sebarang rawatan yang menggunakan sel stem, atau sel yang diperoleh daripadanya, untuk membaiki atau menggantikan sel atau tisu yang rosak.",
+    "note": "Ia kedengaran berkuasa, dan memang boleh. Tetapi itulah sebabnya rawatan sel stem memerlukan peraturan yang lebih ketat berbanding kebanyakan perkhidmatan \"kesejahteraan\".",
+    "truthTitle": "Kebenaran Paling Penting",
+    "truthDesc": "Tidak semua \"terapi sel stem\" adalah sama.",
+    "truth1": "Transplantasi HSC adalah yang paling mantap",
+    "truth2": "Kegunaan lain masih eksperimen",
+    "truth3": "Xenotransplantasi dilarang"
+  },
+  "types": {
+    "title": "Jenis Sel Stem di Malaysia",
+    "desc": "Memahami istilah yang digunakan oleh klinik",
+    "hscTitle": "Sel Stem Hematopoietik (HSC)",
+    "hscDesc": "Sel stem \"pembentuk darah\" yang digunakan dalam transplantasi sumsum tulang atau sel stem darah. Ini adalah bentuk yang paling mantap di peringkat global.",
+    "hscBadge": "Dimantapkan oleh ISSCR & panduan Malaysia",
+    "mscTitle": "Sel Stem Mesenkima (MSC)",
+    "mscDesc": "Sering dibincangkan untuk keradangan dan pembaikan tisu. Banyak penyedia di KL memberi tumpuan kepada terapi MSC, selalunya daripada Wharton's Jelly tali pusat.",
+    "mscBadge": "Bidang yang berkembang — ISSCR memberi amaran terhadap penggunaan komersial rutin",
+    "ipsTitle": "Sel Embrionik & iPS",
+    "ipsDesc": "Wujud dalam penyelidikan saintifik dan beberapa ujian klinikal di peringkat global. Bukan \"perkhidmatan klinik rutin.\"",
+    "ipsBadge": "Malaysia menganggap terapi sel stem embrionik sebagai eksperimen"
+  },
+  "proven": {
+    "provenTitle": "Apa yang Terbukti Hari Ini",
+    "provenQuote": "Rawatan sel stem yang paling mantap adalah untuk gangguan darah dan imun serta kehilangan fungsi sumsum tulang, yang dirawat dengan transplantasi sel stem darah.",
+    "provenNote": "Garis panduan Malaysia selaras: transplantasi sel stem hematopoietik dan darah tali pusat adalah yang paling mantap.",
+    "studiedTitle": "Sedang Dikaji (Bukti Bercampur)",
+    "studiedDesc": "Sendi, autoimun, neuro, metabolik — bidang penyelidikan aktif",
+    "studiedNote": "ISSCR memberi amaran: intervensi yang belum terbukti memerlukan ujian yang dikawal selia dengan baik"
+  },
+  "approach": {
+    "title": "Pendekatan Nexus Clinic",
+    "desc": "Minda selamat untuk pesakit, perjalanan berstruktur, prosedur selaras MOH",
+    "badge": "Peribadi & Sulit",
+    "step1Title": "Konsultasi & Saringan",
+    "step1Desc": "Kami bermula dengan apa yang anda rasakan, apa yang telah anda cuba, dan diagnosis sebenar anda.",
+    "step2Title": "Klasifikasi Jelas",
+    "step2Desc": "Petunjuk yang mantap? Penyiasatan? Atau pengalihan ke penjagaan standard.",
+    "step3Title": "Persetujuan Termaklum",
+    "step3Desc": "Menyatakan dengan jelas jika rawatan belum terbukti, menerangkan risiko dan alternatif.",
+    "step4Title": "Penyampaian & Pemantauan",
+    "step4Desc": "Infusi IV atau suntikan tempatan dengan pelan susulan yang betul."
+  },
+  "safety": {
+    "title": "Keselamatan Anda Adalah Keutamaan Kami",
+    "desc": "Setiap perjalanan pesakit adalah unik, berstruktur, dan berasaskan bukti.",
+    "stat1": "1000+",
+    "stat1Label": "Pesakit Dirawat",
+    "stat2": "15+",
+    "stat2Label": "Tahun Pengalaman",
+    "stat3": "100%",
+    "stat3Label": "Patuh MOH"
+  },
+  "benefits": {
+    "title": "Manfaat yang Diharapkan",
+    "b1": "Kurang kesakitan",
+    "b2": "Pergerakan lebih baik",
+    "b3": "Tenaga lebih baik",
+    "b4": "Fungsi yang lebih baik",
+    "b5": "Perkembangan keadaan kronik yang lebih perlahan",
+    "note": "Cari hasil yang boleh diukur (skor kesakitan, jarak berjalan, penanda darah). Tetapkan garis masa yang realistik, rancang susulan, bukan \"satu suntikan dan selesai.\""
+  },
+  "risks": {
+    "title": "Risiko & Mengapa Keselamatan Penting",
+    "intro": "Sel stem bukan vitamin. Ia adalah bahan hidup. Itu membawa risiko sebenar.",
+    "r1": "Jangkitan",
+    "r2": "Reaksi imun",
+    "r3": "Demam dan reaksi keradangan",
+    "r4": "Risiko pembekuan darah",
+    "r5": "Kesan jangka panjang yang tidak diketahui",
+    "r6": "Kerugian kewangan daripada sesi berulang yang belum terbukti"
+  },
+  "location": {
+    "title": "Lawati Kami di KLCC",
+    "address": "Wisma UOA II, Jalan Pinang",
+    "phone": "016-7025699",
+    "unit": "LG 10"
+  },
+  "faq": {
+    "q1": "Apakah terapi sel stem?",
+    "a1": "Rawatan yang menggunakan sel stem, atau sel yang diperoleh daripadanya, untuk membaiki atau menggantikan sel atau tisu yang rosak.",
+    "q2": "Apakah keadaan yang terbukti boleh dirawat dengan sel stem?",
+    "a2": "Gangguan darah dan imun, kehilangan fungsi sumsum tulang melalui transplantasi sel stem darah (paling mantap).",
+    "q3": "Adakah terapi sel stem diluluskan di Malaysia?",
+    "a3": "MOH menyatakan transplantasi sel stem hematopoietik dan darah tali pusat adalah yang paling mantap; kegunaan lain adalah eksperimen.",
+    "q4": "Mengapa sesetengah klinik menawarkan sel stem untuk banyak penyakit?",
+    "a4": "ISSCR memberi amaran bahawa intervensi yang belum terbukti dikomersialkan secara meluas tanpa bukti yang mencukupi.",
+    "q5": "Adakah terapi sel stem selamat?",
+    "a5": "Tiada rawatan perubatan yang bebas risiko. Keselamatan jangka panjang boleh tidak menentu; susulan adalah penting.",
+    "q6": "Apakah kesan sampingan atau risiko?",
+    "a6": "Jangkitan, reaksi imun, kesan jangka panjang yang tidak diketahui. FDA melaporkan kemudaratan serius daripada produk yang tidak diluluskan.",
+    "q7": "Berapa banyak sesi yang saya perlukan?",
+    "a7": "Bergantung pada keadaan dan protokol. Berhati-hati jika seseorang menjanjikan bilangan tetap untuk semua orang.",
+    "q8": "Berapa lama untuk melihat keputusan?",
+    "a8": "Garis masa berbeza-beza. Klinik yang baik menetapkan matlamat yang boleh diukur dan titik susulan.",
+    "q9": "Berapakah kos terapi sel stem di Kuala Lumpur?",
+    "a9": "Sesetengah klinik bermula sekitar RM6,000+. Julat lebih tinggi untuk kes kompleks. Sentiasa minta sebut harga terperinci.",
+    "q10": "Dari mana sel stem diperolehi?",
+    "a10": "Sumber biasa: tisu tali pusat (Wharton's Jelly), tisu adiposa, sumsum tulang.",
+    "q11": "Apa yang perlu saya tanya kepada klinik sebelum membuat tempahan?",
+    "a11": "Tanya tentang bukti saintifik, pengawasan etika, pematuhan peraturan. Berhati-hati dengan dakwaan berdasarkan testimoni.",
+    "q12": "Adakah rawatan eksosom sama dengan terapi sel stem?",
+    "a12": "Tidak. FDA memasukkan eksosom antara produk regeneratif yang tidak diluluskan yang dipasarkan secara meluas."
+  },
+  "cta": {
+    "title": "Mulakan dengan Kejelasan",
+    "desc": "Jika anda mencari terapi sel stem di Malaysia atau perubatan regeneratif di Kuala Lumpur, mulakan dengan konsultasi peribadi yang berfokus pada diagnosis anda, risiko anda, dan apa yang boleh dicapai secara realistik.",
+    "clinicName": "Nexus Clinic Kuala Lumpur",
+    "clinicAddress": "LG 10, Tingkat Bawah, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur",
+    "clinicPhone": "016-7025699 / 03-21635699",
+    "button": "Jadualkan Konsultasi Peribadi Anda"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "hero": {
+    "title1": "Anda bukan sekadar \"semakin tua.\"",
+    "title2": "Anda mungkin kekurangan testosteron.",
+    "desc": "Jika anda berasa penat sepanjang masa, semangat semakin pudar, dan senaman tidak lagi memberikan kesan yang sama, ia boleh menjadi sesuatu yang mengecewakan dan mengelirukan. Di Nexus Clinic Kuala Lumpur, kami membantu anda mengenal pasti apa yang sebenarnya berlaku, kemudian membina pelan rawatan yang selamat dan sesuai dengan tubuh serta gaya hidup anda.",
+    "cta1": "Tempah Konsultasi Anda",
+    "cta2": "Ketahui Lebih Lanjut"
+  },
+  "trust": {
+    "trust1": "Penilaian dipandu doktor dan langkah seterusnya yang jelas (tiada tekaan, tiada gembar-gembur)",
+    "trust2": "Saringan hormon dan kesihatan menyeluruh sebelum rawatan, dengan pemantauan susulan (ini penting untuk keselamatan)",
+    "trust3": "Lokasi di pusat Kuala Lumpur: LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur",
+    "trust4": "Penjagaan peribadi dan sulit, kerana kesihatan lelaki adalah sesuatu yang peribadi",
+    "quickNote": "Nota ringkas: Terapi testosteron ialah rawatan perubatan, bukan \"peningkatan prestasi.\" Penjagaan yang baik bermula dengan diagnosis yang betul dan ujian berulang."
+  },
+  "whatIs": {
+    "title": "Apa Itu Terapi Testosteron (TRT)?",
+    "desc": "Terapi testosteron, sering dipanggil TRT (Testosterone Replacement Therapy), ialah rawatan yang meningkatkan tahap testosteron ke julat yang sihat bagi lelaki yang mempunyai:",
+    "criteria1": "simptom, dan",
+    "criteria2": "tahap testosteron rendah secara konsisten yang disahkan melalui ujian darah (biasanya ujian pagi, diulang)",
+    "explanation": "Testosteron berkaitan dengan tenaga, keinginan seksual, ereksi, mood, kualiti tidur, jisim otot, pengagihan lemak, dan kekuatan tulang. Apabila ia jatuh terlalu rendah, anda boleh berasa seperti \"enjin\" anda sentiasa kehabisan tenaga.",
+    "imageCaption": "Konsultasi perubatan pakar di Nexus Clinic KL"
+  },
+  "symptoms": {
+    "title": "Tanda-Tanda Anda Mungkin Mempunyai Testosteron Rendah",
+    "quote": "\"Saya berfungsi... tetapi saya bukan diri saya sendiri.\"",
+    "s1": "Tenaga rendah dan keletihan berterusan",
+    "s2": "Keinginan seksual berkurangan, ereksi pagi yang kurang",
+    "s3": "Masalah ereksi (kadang-kadang)",
+    "s4": "Mood rendah, mudah marah, kebimbangan, hilang keyakinan",
+    "s5": "Kabut otak, kurang tumpuan",
+    "s6": "Lebih banyak lemak perut, kurang otot",
+    "s7": "Pemulihan yang lemah selepas senaman",
+    "s8": "Masalah tidur",
+    "importantNote": "Penting: simptom-simptom ini juga boleh berpunca daripada tekanan, kurang tidur, obesiti, masalah tiroid, diabetes, kemurungan, atau apnea tidur. Itulah sebabnya ujian dan semakan perubatan yang betul amat penting."
+  },
+  "diagnosis": {
+    "title": "Bagaimana Diagnosis Dilakukan",
+    "subtitle": "(Apa yang Klinik yang Baik Lakukan)",
+    "desc": "Garis panduan perubatan mengesyorkan diagnosis testosteron rendah hanya apabila simptom dan keputusan makmal berulang sepadan.",
+    "step1": "Ujian darah pagi, kadang-kadang berpuasa",
+    "step2": "Pengesahan ulang (kerana tahap testosteron boleh berubah-ubah)",
+    "step3": "Panel yang lebih luas untuk memahami mengapa ia rendah dan menetapkan garis dasar yang selamat (selalunya termasuk kiraan darah, lipid, penanda hati, dan kadangkala PSA bergantung pada umur dan risiko)",
+    "imageCaption": "Peralatan diagnostik terkini"
+  },
+  "treatment": {
+    "title": "Pilihan Terapi Testosteron di Malaysia",
+    "subtitle": "(Apa yang Anda Boleh Pilih)",
+    "opt1Title": "Suntikan",
+    "opt1Desc": "Jadual mudah, keputusan yang kuat, tiada penggunaan harian. Kekurangan: turun naik tahap boleh berlaku.",
+    "opt1Price": "RM 800-2,500/sesi",
+    "opt2Title": "Gel",
+    "opt2Desc": "Tiada jarum, pelarasan dos yang mudah, irama harian yang stabil. Perlu digunakan setiap hari, risiko pemindahan kepada orang lain.",
+    "opt2Price": "RM 300-700/bulan",
+    "opt3Title": "Tampalan",
+    "opt3Desc": "Kurang biasa berbanding gel dan suntikan, tetapi masih menjadi pilihan dalam sesetengah keadaan.",
+    "opt3Price": "Berbeza-beza",
+    "opt4Title": "Pelet",
+    "opt4Desc": "Jarang di Malaysia, memerlukan prosedur kecil.",
+    "opt4Price": "Hubungi untuk harga"
+  },
+  "patientCare": {
+    "title": "Penjagaan Peribadi, Sulit dan Profesional",
+    "desc": "Di Nexus Clinic Kuala Lumpur, kami memahami bahawa kesihatan lelaki adalah sesuatu yang peribadi. Pendekatan kami menggabungkan kepakaran perubatan dengan privasi dan kerahsiaan sepenuhnya.",
+    "item1": "Konsultasi satu-dengan-satu di bilik peribadi",
+    "item2": "Rekod perubatan dan ujian yang sulit",
+    "item3": "Penjadualan temu janji yang fleksibel",
+    "item4": "Kesinambungan penjagaan dengan doktor yang sama"
+  },
+  "timeline": {
+    "title": "Keputusan yang Dijangka (dan Bila)",
+    "desc": "TRT tidak memberikan kesan serta-merta. Garis masa yang realistik membantu anda kekal sabar dan selamat.",
+    "time1": "Minggu",
+    "time1Desc": "Ramai lelaki menyedari perubahan mood dan badan selepas beberapa minggu, dan doktor sering menyemak semula tahap sekitar bulan pertama.",
+    "time2": "Bulan",
+    "time2Desc": "Minat seksual boleh bertambah baik dalam beberapa minggu, manakala perubahan ereksi dan ejakulasi mungkin mengambil masa lebih lama, kadangkala berbulan-bulan.",
+    "time3": "3-6 Bulan",
+    "time3Desc": "Jika anda telah menjalani TRT selama 3-6 bulan dan tiada penambahbaikan, doktor anda mungkin menilai semula sama ada testosteron benar-benar puncanya."
+  },
+  "benefits": {
+    "title": "Manfaat yang Biasa Diinginkan Lelaki Daripada TRT",
+    "b1": "Tenaga dan stamina yang lebih baik",
+    "b2": "Libido dan fungsi seksual yang lebih baik",
+    "b3": "Mood dan kejelasan mental yang lebih baik",
+    "b4": "Senaman dan pemulihan yang lebih kuat",
+    "b5": "Komposisi badan yang lebih baik (dengan latihan dan diet)",
+    "b6": "Pemantauan susulan memastikan keselamatan"
+  },
+  "risks": {
+    "title": "Risiko dan Kesan Sampingan",
+    "subtitle": "(Bercakap Terus Terang)",
+    "desc": "TRT boleh mengubah kehidupan bagi orang yang tepat. Ia juga boleh menyebabkan masalah jika digunakan secara sembarangan.",
+    "r1": "Jerawat atau kulit berminyak",
+    "r2": "Pengekalan cecair",
+    "r3": "Kesakitan payudara atau ginekomastia",
+    "r4": "Apnea tidur yang semakin teruk pada sesetengah lelaki",
+    "r5": "Peningkatan kiraan sel darah merah (hematokrit), yang memerlukan pemantauan",
+    "r6": "Tekanan darah dan risiko jantung",
+    "fdaNote": "Pada 2025, FDA mengumumkan perubahan pelabelan seluruh kelas selepas menyemak ujian klinikal TRAVERSE dan kajian pemantauan tekanan darah. FDA menyatakan TRAVERSE tidak menunjukkan peningkatan risiko kejadian kardiovaskular utama bagi kumpulan yang dikaji, manakala peningkatan tekanan darah telah disahkan merentas produk testosteron, yang membawa kepada amaran tekanan darah.",
+    "bottomLine": "Kesimpulannya: anda mahu TRT diuruskan secara perubatan, dengan susulan, bukan secara tekaan."
+  },
+  "fertility": {
+    "title": "TRT dan Kesuburan",
+    "subtitle": "(Kebanyakan Lelaki Tidak Diberitahu Tentang Ini Lebih Awal)",
+    "intro": "Jika anda mahu anak, bahagian ini penting.",
+    "desc": "TRT boleh menurunkan kiraan sperma dengan ketara dan mungkin menyebabkan masalah kesuburan. Sesetengah sumber pendidikan kesuburan menyatakan sperma boleh kembali selepas menghentikan testosteron, biasanya sekitar beberapa bulan, tetapi tempoh masa berbeza dan ia bukan sesuatu yang patut dipertaruhkan.",
+    "warning": "Jika anda cuba untuk mengandung dalam masa terdekat (atau bahkan \"mungkin tahun ini\"), beritahu doktor sebelum memulakan rawatan.",
+    "preserving": "Terdapat pendekatan yang memelihara kesuburan dalam penjagaan pakar, tetapi pilihan yang tepat bergantung pada kes anda."
+  },
+  "trtVs": {
+    "card1Title": "TRT vs \"Penggalak Testosteron\" (Suplemen)",
+    "card1P1": "Ramai lelaki di Malaysia mencuba suplemen dahulu kerana ia terasa lebih mudah.",
+    "card1P2": "Tetapi banyak \"penggalak\" yang dijual bebas tidak dikawal selia seperti ubat preskripsi, dan keberkesanannya sering dipersoalkan.",
+    "card1P3": "Jika anda ingin meningkatkan testosteron secara semula jadi, asas seperti tidur yang cukup, latihan rintangan, pengurusan berat badan, dan pengurangan tekanan boleh membantu, walaupun sebelum anda mempertimbangkan TRT.",
+    "card2Title": "TRT vs Ubat ED (Ia Bukan Perkara yang Sama)",
+    "card2P1": "Ubat ED (seperti perencat PDE5) membantu aliran darah dan ereksi. TRT menyokong keseimbangan hormon.",
+    "card2P2": "Sesetengah lelaki memerlukan satu, sesetengah memerlukan yang lain, sesetengah memerlukan kedua-duanya. Penilaian yang betul mengelakkan pembaziran wang dan masa."
+  },
+  "cost": {
+    "title": "Kos Terapi Testosteron di Malaysia (Kuala Lumpur)",
+    "desc": "Harga sangat berbeza bergantung pada ujian asas anda, jenis rawatan anda, dan kekerapan anda memerlukan susulan.",
+    "injectionsTitle": "Suntikan",
+    "injectionsPrice": "RM 800-2,500",
+    "injectionsNote": "setiap sesi (bergantung pada jenis)",
+    "gelsTitle": "Gel/Tampalan",
+    "gelsPrice": "RM 300-700",
+    "gelsNote": "setiap bulan",
+    "tip": "Tip mudah: apabila anda membandingkan klinik, jangan bandingkan harga suntikan sahaja. Bandingkan keseluruhan pelan:",
+    "tipItem1": "panel makmal asas",
+    "tipItem2": "jadual makmal susulan",
+    "tipItem3": "kekerapan semakan doktor",
+    "tipItem4": "pemantauan keselamatan"
+  },
+  "competitor": {
+    "title": "Apa yang Kami Perhatikan Daripada Pesaing Teratas",
+    "card1Title": "Corak biasa pada halaman pesaing:",
+    "card1Item1": "Tumpuan kuat pada manfaat dan senarai simptom",
+    "card1Item2": "Bukti sosial dan pemesejan privasi (contoh: 'telah berkhidmat kepada lebih 46,000 pesakit antarabangsa')",
+    "card1Item3": "Banyak halaman menyebut 'penilaian + pemantauan,' tetapi sering meringkaskan proses langkah demi langkah yang sebenar",
+    "card2Title": "Bagaimana kandungan Nexus Clinic KL harus menang:",
+    "card2Item1": "Jelaskan standard diagnosis (simptom + ujian pagi berulang)",
+    "card2Item2": "Terangkan pemantauan dan keselamatan dalam bahasa yang mudah (hematokrit, tekanan darah, pemeriksaan prostat apabila sesuai)",
+    "card2Item3": "Berikan julat kos yang jujur dan apa yang menentukan harga",
+    "card2Item4": "Terangkan tentang kesuburan dengan jelas, awal, dan secara langsung"
+  },
+  "whyNexus": {
+    "title": "Mengapa Nexus Clinic Kuala Lumpur",
+    "desc": "Jika anda mempertimbangkan terapi testosteron di Kuala Lumpur, anda mahukan klinik yang merawat ini seperti penjagaan kesihatan, bukan seperti trend.",
+    "clinicName": "Nexus Clinic Kuala Lumpur",
+    "address": "LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur",
+    "phone1": "016-7025699",
+    "phone2": "03-21635699"
+  },
+  "faq": {
+    "q1": "Bagaimana saya tahu jika saya memerlukan terapi testosteron?",
+    "a1": "Jika anda mempunyai simptom seperti tenaga rendah, libido rendah, kabut otak, atau kekuatan berkurangan, langkah seterusnya ialah semakan perubatan dan ujian darah. Diagnosis biasanya memerlukan simptom serta keputusan rendah yang konsisten pada ujian pagi berulang.",
+    "q2": "Adakah terapi testosteron selamat?",
+    "a2": "Ia boleh menjadi selamat apabila dipreskripsi untuk kekurangan sebenar dan dipantau. Anda memerlukan susulan kerana kesan sampingan seperti peningkatan sel darah merah dan perubahan tekanan darah boleh berlaku.",
+    "q3": "Berapa lama TRT mengambil masa untuk berkesan?",
+    "a3": "Ramai lelaki menyedari perubahan dalam beberapa minggu, tetapi manfaat penuh boleh mengambil masa berbulan-bulan. Doktor sering menyemak tahap sekitar 30 hari selepas memulakan, dan perubahan fungsi seksual mungkin mengambil masa lebih lama.",
+    "q4": "Apakah kesan sampingan TRT?",
+    "a4": "Kesan sampingan yang mungkin termasuk jerawat, pengekalan cecair, kesakitan payudara, peningkatan kiraan sel darah merah, dan kemungkinan apnea tidur yang semakin teruk. Pemantauan adalah sebahagian daripada penjagaan yang selamat.",
+    "q5": "Bolehkah TRT menyebabkan ketidaksuburan?",
+    "a5": "Ya. TRT boleh mengurangkan kiraan sperma dan kesuburan. Jika anda mahu anak, berbincang dengan doktor anda sebelum memulakan, kerana alternatif mungkin dipertimbangkan dalam penjagaan pakar.",
+    "q6": "Bolehkah saya meningkatkan testosteron secara semula jadi?",
+    "a6": "Kadang-kadang, ya. Tidur, latihan kekuatan, berat badan yang sihat, dan pengurangan tekanan boleh menyokong testosteron. Suplemen adalah cerita yang berbeza dan banyak yang tidak dikawal selia dengan baik.",
+    "q7": "Berapakah kos terapi testosteron di Malaysia?",
+    "a7": "Julat harga yang diterbitkan berbeza mengikut kaedah. Suntikan sekitar RM 800-2,500 setiap sesi dan gel/serbuk sekitar RM 300-700 setiap bulan, tetapi jumlah keseluruhan anda bergantung pada ujian makmal dan susulan.",
+    "q8": "Adakah saya perlu ujian darah sebelum terapi testosteron?",
+    "a8": "Ya. Sentiasa. Ujian mengesahkan kekurangan dan menolak punca lain. Ini tidak boleh dirundingkan untuk penjagaan yang selamat.",
+    "q9": "Adakah TRT membantu dengan disfungsi ereksi?",
+    "a9": "TRT boleh membantu jika ED berkaitan dengan testosteron rendah, tetapi ED mempunyai banyak punca. Sesetengah lelaki mungkin memerlukan rawatan ED yang berasingan atau pelan gabungan selepas penilaian.",
+    "q10": "Bolehkah saya berhenti TRT setelah memulakan?",
+    "a10": "Sesetengah lelaki berhenti jika simptom tidak bertambah baik selepas tempoh percubaan, atau jika kesan sampingan muncul. Sentiasa berhenti hanya dengan bimbingan perubatan.",
+    "q11": "Adakah TRT meningkatkan risiko jantung?",
+    "a11": "Bukti ujian klinikal besar (TRAVERSE) mendapati terapi testosteron tidak lebih rendah berbanding plasebo untuk kejadian kardiovaskular utama. FDA mengemas kini pelabelan pada 2025 dengan amaran tekanan darah. Itulah sebabnya pemantauan penting.",
+    "q12": "Jenis TRT yang mana terbaik: suntikan atau gel?",
+    "a12": "Tiada yang 'terbaik' untuk semua orang. Suntikan mungkin lebih mudah untuk sesetengah orang. Gel mengelakkan jarum tetapi perlu digunakan setiap hari dan dikendalikan dengan berhati-hati untuk mengelakkan pemindahan kepada orang lain."
+  },
+  "cta": {
+    "title": "Mulakan dengan langkah yang kebanyakan lelaki langkau:",
+    "titleHighlight": "diagnosis yang betul.",
+    "desc": "Tempah konsultasi di Nexus Clinic Kuala Lumpur dan dapatkan pelan yang jelas berdasarkan simptom, ujian darah berulang, dan pemantauan yang selamat.",
+    "button": "Tempah Konsultasi Anda",
+    "address": "Nexus Clinic Kuala Lumpur, LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur"
+  }
+}

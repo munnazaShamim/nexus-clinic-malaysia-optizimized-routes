@@ -1,0 +1,127 @@
+{
+  "hero": {
+    "badge": "Nexus Clinic Kuala Lumpur",
+    "title1": "Redakan keinginan makan,",
+    "title2": "bukan gaya hidup Anda",
+    "description": "Turunkan berat badan dengan semaglutide yang dipantau dokter di Kuala Lumpur.",
+    "quote": "Merasa kenyang lebih cepat. Makan dengan kontrol kembali. Rencana medis yang sesuai dengan kehidupan nyata di Malaysia.",
+    "trust1": "Dipantau dokter",
+    "trust2": "Tindak lanjut mingguan",
+    "trust3": "Disaring keamanannya",
+    "trust4": "Hasil nyata",
+    "startButton": "Mulai Perjalanan Anda",
+    "learnMore": "Pelajari Lebih Lanjut",
+    "safetyTitle": "Keamanan Medis Utama",
+    "safetySubtitle": "Pasien yang tepat, rencana yang tepat",
+    "safetyItem1": "Penilaian penurunan berat badan yang dipantau dokter",
+    "safetyItem2": "Hanya dengan resep dan penyaringan keamanan",
+    "safetyItem3": "Ekspektasi yang jelas, tanpa sensasi berlebihan",
+    "safetyItem4": "Dukungan gaya hidup untuk rutinitas di KL"
+  },
+  "quickNote": {
+    "title": "Catatan singkat sebelum kita mulai",
+    "description": "Semaglutide adalah obat resep. Obat ini tidak cocok untuk semua orang, dan bukan solusi instan. Anda harus selalu menggunakannya di bawah pengawasan medis. Halaman ini bertujuan untuk edukasi dan membantu Anda membuat keputusan yang tepat."
+  },
+  "whatIs": {
+    "title1": "Apa itu suntikan semaglutide",
+    "title2": "untuk penurunan berat badan?",
+    "desc": "Semaglutide adalah obat yang bekerja pada sinyal nafsu makan dan rasa kenyang di tubuh Anda. Untuk manajemen berat badan, nama merek yang terkenal adalah Wegovy.",
+    "quote": "Banyak orang menggambarkan perubahannya seperti ini: Anda masih menikmati makanan, tetapi 'kebisingan makanan' menjadi lebih tenang. Porsi terasa lebih mudah. Ngemil menjadi tidak otomatis lagi.",
+    "onceWeekly": "Sekali seminggu",
+    "subcutaneous": "Suntikan subkutan",
+    "injectionSites": "4 area suntikan",
+    "injectionAreas": "Perut, paha, lengan atas",
+    "vsTitle": "Wegovy vs Ozempic",
+    "wegovyTitle": "Wegovy",
+    "wegovyDesc": "Dibuat dan didosis untuk manajemen berat badan kronis",
+    "ozempicTitle": "Ozempic",
+    "ozempicDesc": "Terutama untuk diabetes tipe 2, dapat digunakan di luar indikasi",
+    "offLabelNote": "Peresepan di luar indikasi harus diputuskan oleh dokter yang berkualifikasi berdasarkan profil kesehatan Anda."
+  },
+  "howItWorks": {
+    "title1": "Bagaimana semaglutide membantu",
+    "title2": "penurunan berat badan",
+    "description": "Semaglutide meniru hormon yang disebut GLP-1 yang terlibat dalam rasa lapar, kenyang, dan pencernaan.",
+    "step1Title": "Mengurangi nafsu makan",
+    "step1Desc": "Membantu meredakan pikiran tentang makanan yang terus-menerus",
+    "step2Title": "Merasa kenyang lebih lama",
+    "step2Desc": "Rasa puas yang lebih lama setelah makan",
+    "step3Title": "Memperlambat pencernaan",
+    "step3Desc": "Merasa puas dengan porsi yang lebih kecil"
+  },
+  "whoFor": {
+    "title1": "Untuk siapa suntikan penurunan",
+    "title2": "berat badan semaglutide",
+    "description": "Umumnya digunakan untuk orang dewasa dengan obesitas, atau kelebihan berat badan dengan risiko kesehatan terkait berat badan.",
+    "reason1": "Diet dan olahraga saja tidak berhasil dalam jangka panjang",
+    "reason2": "Nafsu makan dan keinginan makan terus menggagalkan kemajuan",
+    "reason3": "Berat badan memengaruhi energi, kepercayaan diri, atau indikator kesehatan",
+    "whoShouldNotTitle": "Siapa yang tidak boleh menggunakan semaglutide",
+    "shouldNot1": "Riwayat pribadi atau keluarga dengan karsinoma tiroid meduler (MTC)",
+    "shouldNot2": "Riwayat pankreatitis atau penyakit kandung empedu",
+    "shouldNot3": "Masalah ginjal terkait risiko dehidrasi",
+    "shouldNot4": "Hamil atau merencanakan kehamilan",
+    "extraCareTitle": "Perlu perhatian ekstra jika Anda memiliki:",
+    "extraCareDesc": "Kondisi gastrointestinal yang signifikan, atau jika Anda sedang menyusui. Hentikan jauh sebelum kehamilan yang direncanakan karena waktu paruh yang panjang."
+  },
+  "results": {
+    "title1": "Hasil apa yang bisa Anda",
+    "title2": "harapkan secara realistis?",
+    "subtitle": "Mari kita jujur.",
+    "stat1Value": "68 minggu",
+    "stat1Label": "Durasi uji klinis",
+    "stat1Desc": "Uji coba STEP 1 dengan penurunan berat badan rata-rata yang signifikan",
+    "stat2Value": "4-8 minggu",
+    "stat2Label": "Perubahan awal",
+    "stat2Desc": "Perubahan nafsu makan yang terlihat mulai terjadi",
+    "stat3Value": "6-12 bulan",
+    "stat3Label": "Hasil puncak",
+    "stat3Desc": "Hasil penurunan berat badan terkuat",
+    "noticeQuote": "Banyak orang merasakan perubahan lebih awal dari \"momen timbangan\": berkurangnya keinginan ngemil di malam hari, kontrol yang lebih baik terhadap nasi, roti, makanan manis, dan makan malam larut, lebih sedikit keinginan makan di antara waktu makan."
+  },
+  "stopSection": {
+    "title": "Apa yang terjadi jika Anda berhenti?",
+    "description": "Dalam perpanjangan STEP 1, setelah menghentikan semaglutide, peserta mengalami kenaikan berat badan kembali yang signifikan selama tahun berikutnya, meskipun dengan saran gaya hidup.",
+    "note": "Ini mendukung gagasan bahwa obesitas bersifat kronis dan perencanaan pemeliharaan itu penting."
+  },
+  "nexusApproach": {
+    "title": "Pendekatan Nexus Clinic Kuala Lumpur",
+    "subtitle": "Penurunan berat badan yang dipantau dokter, bukan sekadar \"satu suntikan\"",
+    "step1Title": "Pemeriksaan kesesuaian nyata",
+    "step1Desc": "Tujuan, riwayat, obat saat ini, pola diet sebelumnya, dan faktor risiko",
+    "step2Title": "Rencana untuk kehidupan di KL",
+    "step2Desc": "Hari kerja sibuk, makan malam keluarga, akhir pekan sosial - rutinitas nyata",
+    "step3Title": "Tindak lanjut & penyesuaian",
+    "step3Desc": "Efek samping, plateau, minggu perjalanan, makan karena stres - kami memantau"
+  },
+  "prosCons": {
+    "prosTitle": "Kelebihan",
+    "pro1": "Bukti kuat untuk penurunan berat badan yang bermakna",
+    "pro2": "Membantu kontrol nafsu makan tanpa kemauan keras yang konstan",
+    "pro3": "Dapat meningkatkan indikator kesehatan terkait berat badan",
+    "consTitle": "Kekurangan",
+    "con1": "Efek samping gastrointestinal mungkin terjadi",
+    "con2": "Hasil membutuhkan waktu berbulan-bulan, bukan berhari-hari",
+    "con3": "Kenaikan berat badan kembali mungkin terjadi tanpa pemeliharaan",
+    "con4": "Obat resep, tidak cocok untuk semua orang"
+  },
+  "faq": {
+    "q1": "Bagaimana semaglutide membantu penurunan berat badan?",
+    "a1": "Obat ini meniru GLP-1, hormon yang membantu mengatur nafsu makan dan rasa kenyang, mengurangi rasa lapar dan memperlambat pencernaan.",
+    "q2": "Berapa lama untuk melihat hasil penurunan berat badan?",
+    "a2": "Perubahan nafsu makan dalam bulan pertama, penurunan yang terlihat sekitar 4-8 minggu, hasil yang lebih kuat selama 6-12 bulan.",
+    "q3": "Apa saja efek samping yang umum?",
+    "a3": "Masalah pencernaan seperti mual, diare, sembelit. Sebagian besar membaik seiring waktu dengan peningkatan dosis bertahap.",
+    "q4": "Apakah semaglutide sama dengan Wegovy atau Ozempic?",
+    "a4": "Bahan aktif yang sama tetapi indikasi berbeda. Wegovy untuk manajemen berat badan, Ozempic terutama untuk diabetes.",
+    "q5": "Apakah berat badan akan naik kembali jika saya berhenti?",
+    "a5": "Kenaikan berat badan kembali bisa terjadi. Perencanaan pemeliharaan dan dukungan kebiasaan sangat penting untuk keberhasilan jangka panjang.",
+    "q6": "Apakah saya masih perlu diet dan olahraga?",
+    "a6": "Ya. Wegovy diindikasikan dengan diet rendah kalori dan peningkatan aktivitas fisik untuk hasil terbaik."
+  },
+  "cta": {
+    "title": "Siap untuk mengeksplorasi semaglutide di Kuala Lumpur?",
+    "description": "Jika Anda menginginkan rencana yang terasa aman, terstruktur, dan realistis untuk kehidupan di Malaysia, Nexus Clinic Kuala Lumpur dapat membimbing Anda melalui setiap langkah.",
+    "button": "Jadwalkan Konsultasi Anda"
+  }
+}

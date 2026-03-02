@@ -1,0 +1,112 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "weightLoss": "Penurunan Berat Badan",
+    "aestheticTreatments": "Perawatan Estetika",
+    "products": "Produk",
+    "blogs": "Blog",
+    "bookNow": "Booking Sekarang",
+    "bookConsultation": "Booking Konsultasi Anda",
+    "selectLanguage": "Pilih Bahasa"
+  },
+  "search": {
+    "placeholder": "Cari perawatan..."
+  },
+  "submenu": {
+    "weightLoss": {
+      "ozempic": "Ozempic Malaysia",
+      "wegovy": "Wegovy Malaysia",
+      "mounjaro": "Mounjaro Malaysia",
+      "duromine": "Duromine Malaysia",
+      "doctorMonitored": "Dokter Terawasi Malaysia",
+      "hcgWeightLoss": "HCG Penurunan Berat Badan Malaysia",
+      "fatFreezing": "Pembekuan Lemak Malaysia",
+      "coolSculpting": "CoolSculpting Malaysia",
+      "glp1": "Program GLP-1 Malaysia",
+      "zepbound": "ZepBound Malaysia",
+      "semaglutide": "Semaglutide Malaysia",
+      "tirzepatide": "Tirzepatide Malaysia"
+    },
+    "skin": {
+      "acneTreatment": "Perawatan Jerawat KL",
+      "acneScar": "Perawatan Bekas Jerawat KL",
+      "pigmentation": "Perawatan Pigmentasi KL",
+      "melasma": "Perawatan Melasma KL",
+      "moleRemoval": "Pengangkatan Tahi Lalat KL",
+      "hydrafacial": "HydraFacial KL",
+      "picoLaser": "Laser Pico KL",
+      "darkCircle": "Perawatan Lingkaran Hitam Mata KL",
+      "whitening": "Perawatan Pemutih Kulit KL",
+      "eczema": "Perawatan Eksim KL",
+      "keloid": "Perawatan Keloid Malaysia",
+      "rosacea": "Perawatan Rosacea Malaysia",
+      "stretchMark": "Penghilangan Stretch Mark Malaysia",
+      "laserHair": "Penghilangan Bulu Laser Malaysia",
+      "tattooRemoval": "Penghilangan Tato Malaysia"
+    },
+    "face": {
+      "dermalFiller": "Filler Dermal",
+      "lipFiller": "Filler Bibir",
+      "chinFiller": "Filler Dagu",
+      "jawlineFiller": "Filler Garis Rahang",
+      "noseThread": "Thread Lift Hidung",
+      "masseterBotox": "Botox Masseter"
+    },
+    "hair": {
+      "transplant": "Transplantasi Rambut",
+      "fue": "Transplantasi Rambut FUE",
+      "prp": "Perawatan Rambut PRP",
+      "lossTreatment": "Perawatan Kerontokan Rambut",
+      "beard": "Transplantasi Jenggot",
+      "mesotherapy": "Mesotherapy Rambut Rontok",
+      "exosome": "Perawatan Rambut Exosome",
+      "minoxidil": "Perawatan Minoxidil",
+      "finasteride": "Finasteride"
+    },
+    "regenerative": {
+      "testosterone": "Terapi Testosteron Malaysia",
+      "ed": "Perawatan ED Malaysia",
+      "hormoneReplacement": "Terapi Penggantian Hormon Malaysia",
+      "pcos": "Perawatan PCOS Malaysia",
+      "hypothyroidism": "Perawatan Hipotiroid Malaysia",
+      "stemCell": "Terapi Sel Punca Malaysia",
+      "antiAging": "Terapi Anti-Penuaan Malaysia",
+      "hormoneTest": "Tes Hormon Malaysia",
+      "menopause": "Penggantian Hormon Menopause Malaysia",
+      "pShot": "P Shot Malaysia",
+      "oShot": "O Shot Malaysia",
+      "shockwave": "Terapi Shockwave Malaysia"
+    }
+  },
+  "categories": {
+    "weightLoss": "Lemak & Penurunan Berat Badan",
+    "skin": "Kulit",
+    "face": "Wajah",
+    "hair": "Rambut",
+    "regenerative": "Regeneratif"
+  },
+  "footer": {
+    "description": "Klinik estetika lanjutan dan penurunan berat badan medis di Kuala Lumpur. Di mana sains bertemu dengan seni untuk kecantikan alami Anda.",
+    "quickLinks": "Tautan Cepat",
+    "aboutUs": "Tentang Kami",
+    "services": "Layanan",
+    "treatments": "Perawatan",
+    "blog": "Blog",
+    "contact": "Kontak",
+    "contactTitle": "Kontak",
+    "address": "Wisma UOA II, KL",
+    "phone": "016-702 5699",
+    "email": "info@nexusclinic.com",
+    "copyright": "© 2026 Nexus Clinic. Hak cipta dilindungi.",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfUse": "Ketentuan Penggunaan"
+  },
+  "common": {
+    "learnMore": "Pelajari Lebih Lanjut",
+    "getStarted": "Mulai",
+    "contactUs": "Hubungi Kami",
+    "readMore": "Baca Selengkapnya",
+    "startTransformation": "Mulai Transformasi Anda",
+    "loading": "Memuat..."
+  }
+}

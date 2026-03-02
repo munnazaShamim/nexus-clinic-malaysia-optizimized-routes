@@ -1,0 +1,107 @@
+{
+  "hero": {
+    "heading1": "重新定义您的",
+    "heading2": "自然之美",
+    "description": "我们专注于提升您的自然美感，以科学与艺术的完美融合，缔造恒久光彩。",
+    "cta1": "预约排期",
+    "cta2": "查看您的疗程",
+    "scanFace": "面部扫描",
+    "skinTreatment": "天然肌肤护理",
+    "viewRecommendations": "查看推荐方案",
+    "stat1Value": "35",
+    "stat1Label1": "传统与现代",
+    "stat1Label2": "美容疗程",
+    "stat2Value": "50+",
+    "stat2Label1": "专业资深",
+    "stat2Label2": "美容师",
+    "customersVisited": "位客户到访",
+    "scroll": "滚动浏览"
+  },
+  "beforeAfter": {
+    "badge": "真实效果",
+    "title1": "治疗前 &",
+    "title2": "治疗后",
+    "desc": "滑动查看我们客户通过 GLP-1 治疗实现的惊人蜕变",
+    "before": "治疗前",
+    "after": "治疗后",
+    "dragToCompare": "拖动以对比",
+    "failedToLoad": "图片加载失败",
+    "disclaimer": "效果因人而异，个人结果取决于多种因素。",
+    "cta": "开启您的蜕变之旅"
+  },
+  "services": {
+    "subtitle": "我们的专长",
+    "title": "专业",
+    "titleHighlight": "疗程",
+    "description": "探索我们全面的医学美容服务，每项疗程均根据您的独特需求量身定制。",
+    "explore": "了解更多",
+    "items": {
+      "facial": {
+        "title": "面部年轻化",
+        "subtitle": "抗衰老与轮廓塑造",
+        "description": "肉毒素、填充剂及先进提升疗程"
+      },
+      "weightLoss": {
+        "title": "医学减重",
+        "subtitle": "科学减重方案",
+        "description": "Ozempic、Mounjaro 及身体塑形"
+      },
+      "skin": {
+        "title": "肌肤疗程",
+        "subtitle": "痤疮与色素沉着",
+        "description": "激光治疗与化学焕肤"
+      },
+      "hair": {
+        "title": "毛发修复",
+        "subtitle": "PRP与中胚层疗法",
+        "description": "先进脱发解决方案"
+      }
+    }
+  },
+  "whyChoose": {
+    "subtitle": "为何选择 Nexus Clinic",
+    "title": "科学与",
+    "titleHighlight": "艺术",
+    "description": "在 Nexus Clinic，我们坚信通过循证医学疗程提升您的自然美。我们以医生主导的诊疗模式，确保安全、有效，带给您满意的效果。",
+    "yearsValue": "15+",
+    "yearsLabel1": "年卓越",
+    "yearsLabel2": "品质",
+    "features": {
+      "moh": { "title": "MOH 注册认证", "desc": "完全符合医疗标准" },
+      "doctor": { "title": "医生主导诊疗", "desc": "持证医疗专业团队" },
+      "personalized": { "title": "个性化方案", "desc": "根据您的独特需求量身定制" },
+      "premium": { "title": "优质产品", "desc": "FDA 批准的疗程产品" }
+    }
+  },
+  "testimonials": {
+    "subtitle": "客户评价",
+    "title": "听听",
+    "titleHighlight": "患者",
+    "titleEnd": "怎么说",
+    "reviews": "(500+ 条评价)",
+    "items": [
+      { "quote": "Nexus Clinic 不仅改变了我的外貌，更提升了我的自信。医生真正倾听需求，制定个性化方案。", "author": "Sarah Chen", "role": "企业高管" },
+      { "quote": "他们透明坦诚的态度令我印象深刻。他们从不推荐不必要的疗程。这是一家值得信赖的诊所。", "author": "Michael Tan", "role": "企业家" },
+      { "quote": "减重计划改变了我的生活。在专业医学指导下，我安全且持久地达成了目标。", "author": "Emily Wong", "role": "创意总监" }
+    ]
+  },
+  "contact": {
+    "subtitle": "联系我们",
+    "title": "莅临",
+    "titleHighlight": "Nexus Clinic",
+    "address": "LG 10, Wisma UOA II, Jalan Pinang, KL",
+    "phone": "016-702 5699 / 03-2163 5699",
+    "hours": "周一至周六：上午 9:00 - 下午 6:00",
+    "formTitle": "预约咨询",
+    "placeholderName": "您的姓名",
+    "placeholderEmail": "电子邮箱",
+    "placeholderPhone": "联系电话",
+    "selectTreatment": "选择感兴趣的疗程",
+    "optionFacial": "面部与抗衰老",
+    "optionWeightLoss": "减重计划",
+    "optionSkin": "肌肤疗程",
+    "optionHair": "毛发修复",
+    "placeholderMessage": "您的留言",
+    "submitButton": "提交咨询"
+  }
+}

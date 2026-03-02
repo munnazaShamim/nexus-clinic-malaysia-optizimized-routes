@@ -1,0 +1,90 @@
+{
+  "hero": {
+    "badge": "Minoxidil Treatment in Kuala Lumpur",
+    "title1": "Keep Your Hair",
+    "title2": "Longer, Thicker",
+    "desc": "Minoxidil is the most trusted solution for hair loss. Start early, get optimal results with specialist doctor guidance.",
+    "consultBtn": "Free Consultation",
+    "learnBtn": "Learn First"
+  },
+  "benefits": {
+    "b1Title": "Targeted Treatment",
+    "b1Desc": "Specialist doctor ensures accurate diagnosis before starting treatment",
+    "b2Title": "MOH Registered",
+    "b2Desc": "Officially registered clinic with strict safety protocols",
+    "b3Title": "Proven Results",
+    "b3Desc": "Thousands of patients have successfully maintained their hair",
+    "b4Title": "Holistic Care",
+    "b4Desc": "A comprehensive approach, not just selling products"
+  },
+  "quickAnswers": {
+    "title": "Quick Answers",
+    "desc": "The most frequently searched questions, answered directly",
+    "q1": "What is minoxidil?",
+    "a1": "Helps slow down hair loss and stimulates regrowth, especially in the early stages of balding.",
+    "q2": "How long for results?",
+    "a2": "Results start showing in 4-6 months, with optimal results after 6 months of consistent use.",
+    "q3": "Will there be shedding at first?",
+    "a3": "Yes, mild shedding in the first 2-8 weeks is normal as part of the regeneration cycle."
+  },
+  "whoFor": {
+    "title1": "Who is Minoxidil",
+    "title2": "Treatment For?",
+    "w1": "Men with male pattern baldness",
+    "w2": "Women with female pattern baldness (FDA approved)",
+    "w3": "Those with early-stage hair thinning",
+    "w4": "Combination with other treatments like PRP",
+    "stat1Value": "1,000+",
+    "stat1Label": "Male Patients",
+    "stat2Value": "800+",
+    "stat2Label": "Female Patients",
+    "stat3Value": "6+ Years Experience",
+    "stat3Desc": "Specialized in hair restoration"
+  },
+  "types": {
+    "title": "Types of Minoxidil",
+    "topicalTitle": "Topical Minoxidil",
+    "topicalDesc": "Solution or foam for direct application",
+    "topicalF1": "Men: 5% once/day",
+    "topicalF2": "Women: 2% or 5% foam",
+    "oralTitle": "Oral Minoxidil",
+    "oralDesc": "Low-dose, doctor-supervised",
+    "oralF1": "Doctor's prescription required",
+    "oralF2": "Blood pressure monitoring"
+  },
+  "timeline": {
+    "title": "Realistic Timeline",
+    "desc": "Your treatment journey step by step",
+    "t1Time": "First 2-8 weeks",
+    "t1Desc": "Shedding phase - normal, don't panic",
+    "t2Time": "2-4 months",
+    "t2Desc": "Early signs start showing",
+    "t3Time": "6 months+",
+    "t3Desc": "Optimal results start showing"
+  },
+  "journey": {
+    "title": "Your Journey at Nexus Clinic",
+    "s1Title": "Accurate Diagnosis",
+    "s1Desc": "Comprehensive consultation to determine the type of hair loss",
+    "s2Title": "Personal Plan",
+    "s2Desc": "Dosage and method tailored to your lifestyle",
+    "s3Title": "Regular Monitoring",
+    "s3Desc": "Periodic evaluation with progress photos and adjustments"
+  },
+  "faq": {
+    "q1": "Is minoxidil safe for women?",
+    "a1": "Yes, FDA approves minoxidil 2% and 5% for women. Nexus Clinic adjusts dosage based on skin sensitivity.",
+    "q2": "What's the difference between foam and solution?",
+    "a2": "Foam is lighter and dries faster, solution is more economical. The doctor will recommend based on your scalp type.",
+    "q3": "What about side effects?",
+    "a3": "Mild irritation can occur. Our doctor team will monitor and adjust treatment if needed."
+  },
+  "cta": {
+    "title": "Ready to Start Your Journey?",
+    "desc": "Get a free assessment with our specialist doctors. Accurate diagnosis, personalized treatment, optimal results.",
+    "bookBtn": "Book Consultation Now"
+  },
+  "petSafety": {
+    "notice": "Important: Topical minoxidil can be highly toxic to pets, especially cats. Always wash hands after use and keep away from animals."
+  }
+}

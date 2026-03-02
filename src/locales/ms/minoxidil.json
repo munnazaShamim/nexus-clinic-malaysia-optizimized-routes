@@ -1,0 +1,90 @@
+{
+  "hero": {
+    "badge": "Rawatan Minoxidil di Kuala Lumpur",
+    "title1": "Kekalkan Rambut Anda",
+    "title2": "Lebih Panjang, Lebih Tebal",
+    "desc": "Minoxidil adalah penyelesaian paling dipercayai untuk keguguran rambut. Mula awal, dapatkan hasil optimum dengan bimbingan doktor pakar.",
+    "consultBtn": "Konsultasi Percuma",
+    "learnBtn": "Ketahui Dahulu"
+  },
+  "benefits": {
+    "b1Title": "Rawatan Bersasar",
+    "b1Desc": "Doktor pakar memastikan diagnosis tepat sebelum memulakan rawatan",
+    "b2Title": "Berdaftar MOH",
+    "b2Desc": "Klinik berdaftar rasmi dengan protokol keselamatan yang ketat",
+    "b3Title": "Hasil Terbukti",
+    "b3Desc": "Ribuan pesakit telah berjaya mengekalkan rambut mereka",
+    "b4Title": "Penjagaan Holistik",
+    "b4Desc": "Pendekatan menyeluruh, bukan sekadar menjual produk"
+  },
+  "quickAnswers": {
+    "title": "Jawapan Pantas",
+    "desc": "Soalan yang paling kerap dicari, dijawab secara terus",
+    "q1": "Apa itu minoxidil?",
+    "a1": "Membantu melambatkan keguguran rambut dan merangsang pertumbuhan semula, terutamanya pada peringkat awal kebotakan.",
+    "q2": "Berapa lama untuk nampak hasil?",
+    "a2": "Hasil mula kelihatan dalam 4-6 bulan, dengan hasil optimum selepas 6 bulan penggunaan konsisten.",
+    "q3": "Adakah rambut akan gugur pada awalnya?",
+    "a3": "Ya, keguguran ringan dalam 2-8 minggu pertama adalah normal sebagai sebahagian daripada kitaran pertumbuhan semula."
+  },
+  "whoFor": {
+    "title1": "Rawatan Minoxidil",
+    "title2": "Untuk Siapa?",
+    "w1": "Lelaki dengan kebotakan corak lelaki",
+    "w2": "Wanita dengan kebotakan corak wanita (diluluskan FDA)",
+    "w3": "Mereka yang mengalami penipisan rambut peringkat awal",
+    "w4": "Gabungan dengan rawatan lain seperti PRP",
+    "stat1Value": "1,000+",
+    "stat1Label": "Pesakit Lelaki",
+    "stat2Value": "800+",
+    "stat2Label": "Pesakit Wanita",
+    "stat3Value": "6+ Tahun Pengalaman",
+    "stat3Desc": "Pakar dalam pemulihan rambut"
+  },
+  "types": {
+    "title": "Jenis-jenis Minoxidil",
+    "topicalTitle": "Minoxidil Topikal",
+    "topicalDesc": "Larutan atau busa untuk sapuan terus",
+    "topicalF1": "Lelaki: 5% sekali/hari",
+    "topicalF2": "Wanita: 2% atau 5% busa",
+    "oralTitle": "Minoxidil Oral",
+    "oralDesc": "Dos rendah, di bawah pengawasan doktor",
+    "oralF1": "Memerlukan preskripsi doktor",
+    "oralF2": "Pemantauan tekanan darah"
+  },
+  "timeline": {
+    "title": "Garis Masa Realistik",
+    "desc": "Perjalanan rawatan anda langkah demi langkah",
+    "t1Time": "2-8 minggu pertama",
+    "t1Desc": "Fasa keguguran - normal, jangan panik",
+    "t2Time": "2-4 bulan",
+    "t2Desc": "Tanda-tanda awal mula kelihatan",
+    "t3Time": "6 bulan+",
+    "t3Desc": "Hasil optimum mula kelihatan"
+  },
+  "journey": {
+    "title": "Perjalanan Anda di Nexus Clinic",
+    "s1Title": "Diagnosis Tepat",
+    "s1Desc": "Konsultasi menyeluruh untuk menentukan jenis keguguran rambut",
+    "s2Title": "Pelan Peribadi",
+    "s2Desc": "Dos dan kaedah disesuaikan dengan gaya hidup anda",
+    "s3Title": "Pemantauan Berkala",
+    "s3Desc": "Penilaian berkala dengan foto kemajuan dan pelarasan"
+  },
+  "faq": {
+    "q1": "Adakah minoxidil selamat untuk wanita?",
+    "a1": "Ya, FDA meluluskan minoxidil 2% dan 5% untuk wanita. Nexus Clinic menyesuaikan dos berdasarkan sensitiviti kulit.",
+    "q2": "Apa beza antara busa dan larutan?",
+    "a2": "Busa lebih ringan dan cepat kering, larutan lebih menjimatkan. Doktor akan mencadangkan berdasarkan jenis kulit kepala anda.",
+    "q3": "Bagaimana dengan kesan sampingan?",
+    "a3": "Kerengsaan ringan boleh berlaku. Pasukan doktor kami akan memantau dan menyesuaikan rawatan jika perlu."
+  },
+  "cta": {
+    "title": "Bersedia Memulakan Perjalanan Anda?",
+    "desc": "Dapatkan penilaian percuma dengan doktor pakar kami. Diagnosis tepat, rawatan diperibadikan, hasil optimum.",
+    "bookBtn": "Tempah Konsultasi Sekarang"
+  },
+  "petSafety": {
+    "notice": "Penting: Minoxidil topikal boleh menjadi sangat toksik kepada haiwan peliharaan, terutamanya kucing. Sentiasa basuh tangan selepas penggunaan dan jauhkan daripada haiwan."
+  }
+}

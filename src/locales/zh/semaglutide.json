@@ -1,0 +1,127 @@
+{
+  "hero": {
+    "badge": "Nexus Clinic Kuala Lumpur",
+    "title1": "平息食欲，",
+    "title2": "不影响你的生活方式",
+    "description": "在Kuala Lumpur通过医生监督的semaglutide减重。",
+    "quote": "更快感到饱腹。重新掌控饮食。一个适合马来西亚真实生活的医疗计划。",
+    "trust1": "医生监督",
+    "trust2": "每周跟进",
+    "trust3": "安全筛查",
+    "trust4": "真实效果",
+    "startButton": "开始您的旅程",
+    "learnMore": "了解更多",
+    "safetyTitle": "医疗安全第一",
+    "safetySubtitle": "合适的患者，合适的方案",
+    "safetyItem1": "医生监督的减重评估",
+    "safetyItem2": "处方药物并配合安全筛查",
+    "safetyItem3": "明确预期，不夸大宣传",
+    "safetyItem4": "针对KL日常生活的支持"
+  },
+  "quickNote": {
+    "title": "开始之前的温馨提示",
+    "description": "Semaglutide是一种处方药物。它并非适合所有人，也不是速效方案。您应始终在医疗监督下使用。本页面仅供教育用途，帮助您做出明智的决定。"
+  },
+  "whatIs": {
+    "title1": "什么是semaglutide",
+    "title2": "减重注射？",
+    "desc": "Semaglutide是一种作用于体内食欲和饱腹信号的药物。在体重管理方面，知名品牌名称是Wegovy。",
+    "quote": "许多人这样描述这种变化：你仍然享受食物，但\u300c食物噪音\u300d变得更安静了。控制份量变得更容易。零食不再是自动行为。",
+    "onceWeekly": "每周一次",
+    "subcutaneous": "皮下注射",
+    "injectionSites": "4个注射部位",
+    "injectionAreas": "腹部、大腿、上臂",
+    "vsTitle": "Wegovy vs Ozempic",
+    "wegovyTitle": "Wegovy",
+    "wegovyDesc": "专为慢性体重管理设计和剂量调整",
+    "ozempicTitle": "Ozempic",
+    "ozempicDesc": "主要用于2型糖尿病，可能被超适应症使用",
+    "offLabelNote": "超适应症处方必须由合格医生根据您的健康状况决定。"
+  },
+  "howItWorks": {
+    "title1": "Semaglutide如何",
+    "title2": "帮助减重",
+    "description": "Semaglutide模拟一种叫做GLP-1的激素，该激素参与调节饥饿感、饱腹感和消化过程。",
+    "step1Title": "减少食欲",
+    "step1Desc": "帮助平息持续不断的食物念头",
+    "step2Title": "饱腹感更持久",
+    "step2Desc": "餐后满足感延长",
+    "step3Title": "减缓消化",
+    "step3Desc": "用更少的份量就能感到满足"
+  },
+  "whoFor": {
+    "title1": "Semaglutide减重注射",
+    "title2": "适合哪些人",
+    "description": "通常适用于患有肥胖症的成年人，或超重且伴有与体重相关健康风险的成年人。",
+    "reason1": "单靠饮食和运动无法长期有效",
+    "reason2": "食欲和渴望不断破坏减重成果",
+    "reason3": "体重影响精力、自信或健康指标",
+    "whoShouldNotTitle": "哪些人不应使用semaglutide",
+    "shouldNot1": "个人或家族有甲状腺髓样癌（MTC）病史",
+    "shouldNot2": "有胰腺炎或胆囊疾病病史",
+    "shouldNot3": "与脱水风险相关的肾脏问题",
+    "shouldNot4": "怀孕或计划怀孕",
+    "extraCareTitle": "如果您有以下情况需特别注意：",
+    "extraCareDesc": "严重的胃肠道疾病，或正在哺乳期。由于药物半衰期较长，应在计划怀孕前提前停药。"
+  },
+  "results": {
+    "title1": "您可以实际期待",
+    "title2": "怎样的效果？",
+    "subtitle": "让我们实话实说。",
+    "stat1Value": "68周",
+    "stat1Label": "临床试验持续时间",
+    "stat1Desc": "STEP 1试验中平均体重显著下降",
+    "stat2Value": "4-8周",
+    "stat2Label": "初步变化",
+    "stat2Desc": "食欲开始出现明显变化",
+    "stat3Value": "6-12个月",
+    "stat3Label": "最佳效果",
+    "stat3Desc": "减重效果最为显著",
+    "noticeQuote": "许多人在\u300c体重秤时刻\u300d之前就注意到变化：夜间零食冲动减少，对米饭、印度煎饼、甜食和夜宵的控制力增强，两餐之间的渴望减少。"
+  },
+  "stopSection": {
+    "title": "停药后会怎样？",
+    "description": "在STEP 1延伸研究中，停用semaglutide后，参与者在接下来的一年里恢复了相当一部分减去的体重，即使有生活方式指导也是如此。",
+    "note": "这支持了肥胖是慢性疾病、维持计划非常重要的观点。"
+  },
+  "nexusApproach": {
+    "title": "Nexus Clinic Kuala Lumpur的方法",
+    "subtitle": "医生监督的减重，不仅仅是\u300c打一针\u300d",
+    "step1Title": "真正的适合性评估",
+    "step1Desc": "目标、病史、当前用药、过去的饮食模式和风险因素",
+    "step2Title": "为KL生活量身定制",
+    "step2Desc": "忙碌的工作日、家庭聚餐、社交周末——真实的日常安排",
+    "step3Title": "跟进与调整",
+    "step3Desc": "副作用、平台期、出差周、压力性饮食——我们持续监控"
+  },
+  "prosCons": {
+    "prosTitle": "优势",
+    "pro1": "有强有力的证据支持显著减重",
+    "pro2": "无需持续靠意志力即可控制食欲",
+    "pro3": "可能改善与体重相关的健康指标",
+    "consTitle": "劣势",
+    "con1": "可能出现胃肠道副作用",
+    "con2": "效果需要数月，而非数天",
+    "con3": "不进行维持治疗可能导致体重反弹",
+    "con4": "处方药物，并非适合所有人"
+  },
+  "faq": {
+    "q1": "Semaglutide如何帮助减重？",
+    "a1": "它模拟GLP-1激素，帮助调节食欲和饱腹感，减少饥饿感并减缓消化。",
+    "q2": "多久能看到减重效果？",
+    "a2": "第一个月内食欲变化明显，4-8周左右体重开始可见下降，6-12个月效果更为显著。",
+    "q3": "常见的副作用有哪些？",
+    "a3": "消化系统问题如恶心、腹泻、便秘。大多数情况下随着逐步增加剂量会改善。",
+    "q4": "Semaglutide和Wegovy或Ozempic一样吗？",
+    "a4": "活性成分相同但适应症不同。Wegovy用于体重管理，Ozempic主要用于糖尿病。",
+    "q5": "停药后体重会反弹吗？",
+    "a5": "体重反弹是可能的。维持计划和习惯培养对长期成功至关重要。",
+    "q6": "我还需要控制饮食和运动吗？",
+    "a6": "需要。Wegovy的适应症是配合低热量饮食和增加体力活动以获得最佳效果。"
+  },
+  "cta": {
+    "title": "准备好在Kuala Lumpur了解semaglutide了吗？",
+    "description": "如果您想要一个在马来西亚生活中感觉安全、有条理且切合实际的计划，Nexus Clinic Kuala Lumpur可以引导您完成每一步。",
+    "button": "预约咨询"
+  }
+}

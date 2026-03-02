@@ -1,0 +1,230 @@
+{
+  "hero": {
+    "badge": "Nexus Clinic Kuala Lumpur",
+    "title1": "Ia bukan \"dalam fikiran anda.\"",
+    "title2": "ED selalunya isyarat kesihatan, dan ia boleh dirawat.",
+    "desc": "Jika ereksi terasa tidak menentu, lemah, atau tidak bertahan cukup lama, ia boleh menjejaskan keyakinan dan hubungan anda. Di Nexus Clinic Kuala Lumpur, kami memastikan ia sulit, perubatan, dan praktikal, supaya anda boleh mendapat jawapan tanpa rasa canggung.",
+    "cta1": "Tempah Konsultasi Sulit",
+    "cta2": "Ketahui Lebih Lanjut",
+    "trust1": "Konsultasi sulit, tanpa penghakiman",
+    "trust2": "Pendekatan berfokus punca sebenar",
+    "trust3": "Pilihan rawatan yang jelas",
+    "trust4": "Pemeriksaan keselamatan sebelum anda mula",
+    "location": "LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur",
+    "realityTitle": "Semakan Realiti Pantas: Apa Sebenarnya Maksud ED",
+    "realityDesc": "Disfungsi erektil (ED) bermaksud anda sering mengalami kesukaran untuk mendapat atau mengekalkan ereksi yang cukup keras untuk hubungan seks. Satu malam yang kurang baik tidak bermakna anda menghidap ED. Tetapi jika ia terus berlaku dan menyebabkan tekanan, ia patut diperiksa.",
+    "realityWarning": "Inilah bahagian yang kebanyakan lelaki tidak dengar cukup awal: ED boleh menjadi tanda awal masalah kesihatan lain, terutamanya masalah aliran darah dan berkaitan jantung. Itulah sebabnya penilaian perubatan yang betul boleh melindungi lebih daripada sekadar kehidupan seks anda."
+  },
+  "whoFor": {
+    "title": "Untuk Siapa Rawatan ED",
+    "item1": "Kesukaran mendapat ereksi",
+    "item2": "Kehilangan kekuatan semasa hubungan seks",
+    "item3": "Keyakinan seksual berkurang atau mengelak",
+    "item4": "Kebimbangan prestasi selepas berulang kali 'gagal'",
+    "driversNote": "Masalah ereksi selepas diabetes, tekanan darah tinggi, merokok, tekanan, atau kenaikan berat badan (ini adalah penyebab biasa)",
+    "ageNote": "ED bukan hanya masalah \"lelaki tua.\" Ia boleh berlaku pada mana-mana umur, terutamanya dengan tekanan, faktor gaya hidup, dan kesihatan metabolik."
+  },
+  "whyHappens": {
+    "title": "Mengapa ED Berlaku",
+    "titleHighlight": "(Dalam Kata Mudah)",
+    "desc": "Ereksi bergantung kepada aliran darah, saraf, hormon, dan minda anda yang berfungsi bersama.",
+    "cause1Title": "1) Masalah aliran darah (paling biasa)",
+    "cause1Desc": "Jika saluran darah tidak berfungsi dengan baik, ereksi menjadi lemah. Inilah juga sebabnya ED boleh muncul sebelum gejala jantung yang lebih serius.",
+    "cause2Title": "2) Keadaan perubatan dan ubat-ubatan",
+    "cause2Desc": "Diabetes, tekanan darah tinggi, masalah kolesterol, dan sesetengah ubat boleh menjejaskan ereksi.",
+    "cause3Title": "3) Hormon (terutamanya testosteron rendah)",
+    "cause3Desc": "Testosteron rendah boleh menjejaskan keinginan dan menyumbang kepada ED. Garis panduan membincangkan pemeriksaan hormon jika relevan dan menyesuaikan penjagaan.",
+    "cause4Title": "4) Tekanan, kebimbangan, kemurungan, ketegangan hubungan",
+    "cause4Desc": "Otak anda ialah 'motor permulaan.' Jika anda tertekan atau bimbang, badan boleh menyekat rangsangan walaupun anda mahukan keintiman.",
+    "seeDocTitle": "Bila Anda Perlu Berjumpa Doktor (Bukan Google)",
+    "seeDoc1": "Masalah ini berterusan lebih daripada beberapa minggu",
+    "seeDoc2": "Ia menjejaskan hubungan atau keyakinan anda",
+    "seeDoc3": "Anda juga mengalami sakit dada, sesak nafas, diabetes, atau tekanan darah tinggi",
+    "seeDoc4": "Anda tergoda untuk membeli pil ED dalam talian",
+    "onlineWarning": "Mengapa amaran dalam talian? Ubat ED palsu adalah masalah global yang serius, dan ia boleh mengandungi dos yang salah, bahan tersembunyi, atau tiada bahan aktif langsung. Sentiasa gunakan laluan doktor dan farmasi berlesen."
+  },
+  "assessment": {
+    "title": "Bagaimana ED Dinilai di Klinik yang Baik",
+    "desc": "Penilaian ED yang betul biasanya termasuk:",
+    "step1": "Simptom anda, garis masa, dan dalam situasi apa ia berlaku",
+    "step2": "Sejarah perubatan (diabetes, tekanan darah, tidur, merokok, ubat-ubatan)",
+    "step3": "Pemeriksaan fizikal asas",
+    "step4": "Ujian darah yang disasarkan (selalunya testosteron dan penanda kesihatan umum)",
+    "wholePicture": "Pendekatan \"gambaran keseluruhan\" ini disyorkan dalam panduan urologi dan sumber pendidikan pesakit.",
+    "nexusGoal": "Di Nexus Clinic Kuala Lumpur, matlamatnya mudah: cari punca, kemudian padankan rawatan dengan badan dan gaya hidup anda, bukan pelan orang lain."
+  },
+  "treatmentOptions": {
+    "title": "Pilihan Rawatan ED di Malaysia",
+    "titleHighlight": "(Dari Mudah ke Lanjutan)"
+  },
+  "lifestyle": {
+    "title": "1) Perubahan Gaya Hidup yang Benar-Benar Berkesan (Terutamanya untuk ED Ringan)",
+    "desc": "Ini bukan ceramah. Ini adalah asas yang menjadikan setiap rawatan lain lebih berkesan.",
+    "item1": "Tidur yang lebih baik (tidur yang kurang baik boleh merosakkan hormon dan rangsangan)",
+    "item2": "Berhenti merokok dan kurangkan alkohol berlebihan",
+    "item3": "Gerakkan badan anda kebanyakan hari (jalan pantas pun membantu peredaran darah)",
+    "item4": "Pengurusan berat badan dan kawalan gula darah jika perlu",
+    "note": "Jika ED anda disebabkan oleh aliran darah dan faktor gaya hidup, perubahan ini boleh membuat perbezaan."
+  },
+  "anxiety": {
+    "title": "2) Kebimbangan Prestasi dan Sokongan Hubungan",
+    "desc": "Jika ED bermula selepas tekanan, satu pengalaman buruk, atau tekanan untuk \"berprestasi,\" anda mungkin terperangkap dalam kitaran: Bimbang → kurang rangsangan → ereksi lemah → lebih bimbang. Kadang-kadang \"rawatan\" terbaik adalah menghilangkan rasa malu dan membina pelan dengan pasangan anda. Klinik yang menormalkan perbualan ini membantu."
+  },
+  "tablets": {
+    "title": "3) Tablet ED Preskripsi (Perencat PDE5)",
+    "desc1": "Ini adalah rawatan perubatan barisan pertama yang paling biasa untuk ED, disyorkan dalam garis panduan utama.",
+    "desc2": "Contohnya termasuk sildenafil dan tadalafil (anda mungkin mengenalinya dengan nama jenama seperti Viagra atau Cialis). Ia membantu aliran darah ke zakar, tetapi ia masih memerlukan rangsangan seksual. Ia tidak mencipta keinginan serta-merta.",
+    "useTitle": "Cara menggunakannya dengan betul (butiran kecil penting)",
+    "use1": "Ambil seperti yang diarahkan oleh doktor anda",
+    "use2": "Masa pengambilan penting",
+    "use3": "Makanan berlemak tinggi boleh melambatkan kesan sesetengah pilihan (sebab biasa lelaki fikir \"ia tidak berkesan\")",
+    "sideEffectsTitle": "Kesan sampingan biasa",
+    "sideEffectsDesc": "Sakit kepala, kemerahan muka, hidung tersumbat, ketidakhadaman. Ini disenaraikan secara meluas dalam panduan preskripsi.",
+    "contraTitle": "Siapa yang TIDAK boleh mengambilnya",
+    "contraDesc": "Jika anda mengambil nitrat untuk sakit dada (angina), anda tidak boleh menggunakan sildenafil atau ubat ED yang serupa kerana ia boleh menyebabkan penurunan tekanan darah yang berbahaya."
+  },
+  "testosterone": {
+    "title": "4) Sokongan Testosteron (Hanya Jika Anda Benar-Benar Rendah)",
+    "desc": "Jika ujian darah menunjukkan testosteron rendah dan simptom sepadan, rawatan hormon mungkin dipertimbangkan sebagai sebahagian daripada pelan yang lebih luas, terutamanya jika pil tidak berkesan dan hipogonadisme hadir. Ini bukan untuk semua orang. Jika dilakukan dengan betul, ia adalah perubatan yang teliti, bukan \"peningkatan pantas.\""
+  },
+  "vacuum": {
+    "title": "5) Peranti Ereksi Vakum (Pam Zakar)",
+    "desc": "Pam zakar menarik darah ke dalam zakar dan cincin membantu mengekalkan ereksi. Ia adalah pilihan tanpa ubat dan boleh berguna apabila tablet tidak sesuai.",
+    "bestForTitle": "Terbaik untuk:",
+    "bestFor1": "Lelaki yang tidak boleh mengambil tablet ED",
+    "bestFor2": "Lelaki yang mahukan pendekatan tanpa ubat",
+    "bestFor3": "Sesetengah situasi selepas pembedahan (panduan doktor penting)"
+  },
+  "injections": {
+    "title": "6) Suntikan Zakar atau Ubat Uretra (Alprostadil)",
+    "desc": "Jika tablet gagal atau tidak selamat untuk anda, doktor mungkin menawarkan pilihan alprostadil. Mayo Clinic menggariskan ubat intraurethral dan menyatakan kesan sampingan yang mungkin seperti rasa terbakar dan pendarahan kecil. Sesetengah klinik Malaysia juga membincangkan alprostadil (contohnya, Caverject) sebagai pilihan rawatan ED."
+  },
+  "shockwave": {
+    "title": "7) Terapi Gelombang Kejut (Li-ESWT / ESWT) di Kuala Lumpur",
+    "desc": "Terapi gelombang kejut untuk ED dipasarkan secara meluas di klinik Malaysia dan KL. Halaman pesaing biasanya meletakkannya sebagai tidak invasif dan bebas ubat.",
+    "note": "Yang penting ialah untuk siapa ia sesuai dan apakah hasil yang realistik.",
+    "point1": "Ia sering dibincangkan untuk lelaki dengan ED vaskulogenik ringan hingga sederhana, di mana aliran darah adalah masalah utama.",
+    "point2": "Bukti wujud, tetapi hasil berbeza-beza, dan ia bukan suis ajaib.",
+    "questionsTitle": "Jika anda mempertimbangkan terapi gelombang kejut di Kuala Lumpur, tanyakan soalan ini:",
+    "q1": "\"Jenis ED apa yang anda fikir saya ada dan mengapa?\"",
+    "q2": "\"Berapa sesi yang anda syorkan dan apakah pelan jika ia tidak berkesan?\"",
+    "q3": "\"Adakah anda masih akan memeriksa risiko jantung dan kesihatan metabolik?\"",
+    "questionsNote": "Klinik sepatutnya membimbing anda melalui kesesuaian dan bukannya menolak pakej."
+  },
+  "prp": {
+    "title": "8) PRP (P-Shot) di Nexus Clinic Kuala Lumpur",
+    "desc": "Nexus Clinic menawarkan halaman P-Shot yang menerangkannya sebagai PRP yang diperoleh daripada darah anda sendiri, disuntik dengan matlamat menyokong aliran darah dan sensitiviti, sambil menyatakan hasil boleh berbeza.",
+    "thinkingTitle": "Jika anda berfikir tentang PRP:",
+    "think1": "Anggap ia sebagai pilihan untuk dibincangkan, bukan penawar yang dijamin",
+    "think2": "Tanya tentang hasil yang dijangka untuk jenis ED anda",
+    "think3": "Tanya apakah bukti yang klinik bergantung untuk kes anda"
+  },
+  "stemCell": {
+    "title": "9) Pendekatan Berasaskan Sel Stem (Baru Muncul)",
+    "desc": "Nexus Clinic juga menerangkan terapi sel stem untuk ED sebagai bidang yang baru muncul dan menyatakan hasil boleh berbeza.",
+    "protectionTitle": "Kerana bidang ini boleh dipasarkan secara besar-besaran, perlindungan terbaik anda ialah:",
+    "protect1": "Penjelasan jelas tentang apa yang terbukti berbanding apa yang masih berkembang",
+    "protect2": "Risiko, kos, dan jangkaan realistik yang telus",
+    "protect3": "Pelan perubatan yang bermula dengan diagnosis terlebih dahulu"
+  },
+  "surgery": {
+    "title": "10) Pembedahan (Implan Zakar)",
+    "desc": "Untuk ED teruk yang tidak bertindak balas terhadap rawatan lain, implan zakar adalah pilihan yang diiktiraf. Mayo Clinic menyenaraikan implan sebagai laluan rawatan apabila kaedah lain gagal. Ini biasanya diuruskan oleh pakar urologi, dan klinik boleh merujuk jika perlu."
+  },
+  "locationBanner": {
+    "text": "Nexus Clinic Kuala Lumpur — LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang"
+  },
+  "proscons": {
+    "title": "Kebaikan dan Keburukan",
+    "titleHighlight": "(Perbandingan Mudah)",
+    "tabletsTitle": "Tablet (sildenafil, tadalafil)",
+    "tabletsPros": "Kebaikan: mudah, terbukti barisan pertama, bertindak pantas untuk ramai lelaki",
+    "tabletsCons": "Keburukan: tidak selamat dengan nitrat, mungkin menyebabkan kesan sampingan, mungkin tidak membantu kes teruk",
+    "shockwaveTitle": "Terapi gelombang kejut",
+    "shockwavePros": "Kebaikan: tidak invasif, tiada ubat harian, popular di klinik KL",
+    "shockwaveCons": "Keburukan: bukan untuk semua orang, perlu sesi, hasil berbeza-beza",
+    "vacuumTitle": "Peranti vakum",
+    "vacuumPros": "Kebaikan: pilihan tanpa ubat, berguna apabila ubat dikontraindikasikan",
+    "vacuumCons": "Keburukan: sesetengah lelaki rasa janggal; ada keluk pembelajaran",
+    "injectionsTitle": "Suntikan / ubat intraurethral",
+    "injectionsPros": "Kebaikan: berkesan apabila tablet gagal, tindakan disasarkan",
+    "injectionsCons": "Keburukan: ketidakselesaan, teknik penting, kesan sampingan mungkin",
+    "prpStemTitle": "PRP (P-Shot) dan pendekatan sel stem",
+    "prpStemPros": "Kebaikan: niat regeneratif; sesetengah lelaki menerokainya apabila pilihan standard terhad",
+    "prpStemCons": "Keburukan: bukti dan hasil berbeza-beza; perlu perbincangan perubatan yang teliti"
+  },
+  "cost": {
+    "title": "Kos Rawatan ED di Malaysia",
+    "titleHighlight": "(Kuala Lumpur)",
+    "desc": "Kos berbeza berdasarkan punca, ujian yang diperlukan, dan pilihan rawatan.",
+    "consultTitle": "Konsultasi",
+    "consultPrice": "RM 150-300",
+    "sildenafTitle": "Tablet Sildenafil",
+    "sildenafPrice": "RM 30-50 per pill",
+    "sildenafNote": "jenama, lebih murah untuk generik",
+    "shockwaveTitle": "Terapi gelombang kejut",
+    "shockwavePrice": "RM 1,000-3,000",
+    "shockwaveNote": "setiap sesi",
+    "implantsTitle": "Implan zakar",
+    "implantsPrice": "RM 30,000-60,000",
+    "implantsNote": "laluan pembedahan",
+    "disclaimer": "Gunakan ini sebagai rujukan kasar, bukan senarai harga yang dijamin. Kos sebenar anda bergantung pada pelan anda dan berapa banyak sesi atau susulan yang anda perlukan."
+  },
+  "process": {
+    "title": "Perjalanan Anda di Nexus Clinic",
+    "step1Title": "Konsultasi sulit",
+    "step1Desc": "semakan simptom",
+    "step2Title": "Saringan risiko pantas",
+    "step2Desc": "tekanan darah, gaya hidup, keadaan perubatan",
+    "step3Title": "Ujian jika perlu",
+    "step3Desc": "hormon, diabetes, risiko kardiovaskular",
+    "step4Title": "Pelan langkah demi langkah",
+    "step4Desc": "pilihan dan garis masa",
+    "step5Title": "Susulan",
+    "step5Desc": "untuk menyesuaikan rawatan",
+    "privacyNote": "Dan ya, privasi penting. Lokasi dan butiran hubungan Nexus Clinic Kuala Lumpur disenaraikan di halaman KL mereka."
+  },
+  "competitor": {
+    "title": "Gambaran Pesaing: Apa yang Ditekankan Klinik Teratas di Malaysia",
+    "titleHighlight": "(dan Cara Mengatasinya)",
+    "desc": "Apabila anda melihat halaman kedudukan biasa untuk \"ED treatment Malaysia\" dan \"erectile dysfunction treatment Kuala Lumpur,\" anda akan nampak corak:",
+    "item1": "Halaman ujian dan rawatan ED yang sulit (PULSE Clinic)",
+    "item2": "Kedudukan \"doktor kesihatan lelaki\" serta pakej suntikan dan gelombang kejut (Universal Clinic, Alpha Clinic)",
+    "item3": "Dorongan kuat pada gelombang kejut sebagai penyelesaian tidak invasif (Alpha, HE Medical, Universal)"
+  },
+  "faq": {
+    "title": "Soalan Lazim",
+    "q1": "Apakah rawatan terbaik untuk ED di Malaysia?",
+    "a1": "Tiada satu pilihan terbaik. Garis panduan biasanya bermula dengan peningkatan gaya hidup dan tablet preskripsi (perencat PDE5) apabila selamat, kemudian beralih kepada peranti, suntikan, terapi gelombang kejut, atau pembedahan bergantung pada punca dan keterukan.",
+    "q2": "Bolehkah ED disembuhkan secara kekal?",
+    "a2": "Kadang-kadang ED bertambah baik apabila punca utama dirawat, seperti kawalan gula darah yang lebih baik, penurunan berat badan, berhenti merokok, atau menyelesaikan masalah ubat. Kes lain memerlukan sokongan berterusan. Banyak halaman hospital menyatakan ED boleh menandakan keadaan asas, jadi merawatnya penting.",
+    "q3": "Adakah ED bahagian biasa penuaan?",
+    "a3": "ED menjadi lebih biasa dengan usia, tetapi ia sering dikaitkan dengan faktor kesihatan seperti aliran darah dan kesihatan jantung. Ia patut diperiksa dan bukannya menganggap ia 'biasa.'",
+    "q4": "Bagaimana saya tahu jika ED saya bersifat fizikal atau psikologi?",
+    "a4": "Jika ia berlaku dalam setiap situasi dan ereksi pagi sudah tiada, punca fizikal lebih berkemungkinan. Jika ia berlaku terutamanya dalam situasi tekanan tinggi, kebimbangan boleh memainkan peranan besar. Ramai lelaki mempunyai campuran kedua-duanya, itulah sebabnya penilaian yang betul membantu.",
+    "q5": "Adakah sildenafil atau tadalafil selamat?",
+    "a5": "Ia boleh selamat untuk ramai lelaki apabila dipreskripsi dengan betul. Tetapi ia tidak selamat dengan ubat jantung nitrat kerana penurunan tekanan darah yang berbahaya. Sentiasa berjumpa doktor terlebih dahulu.",
+    "q6": "Berapa cepat pil ED berkesan?",
+    "a6": "Masa bergantung pada ubat dan cara anda mengambilnya. Mayo Clinic menyatakan ubat ED oral meningkatkan aliran darah dan kesan boleh bermula dalam beberapa minit untuk sesetengah orang, tetapi penggunaan yang betul penting.",
+    "q7": "Bagaimana jika pil ED tidak berkesan?",
+    "a7": "Langkah seterusnya boleh termasuk menyemak penggunaan yang betul, menyesuaikan dos, merawat punca asas, kemudian mempertimbangkan peranti vakum, suntikan alprostadil atau pilihan uretra, atau terapi gelombang kejut bergantung pada kesesuaian.",
+    "q8": "Adakah terapi gelombang kejut berkesan untuk ED?",
+    "a8": "Ia mungkin membantu sesetengah lelaki, terutamanya apabila aliran darah adalah masalah utama, dan banyak klinik KL menawarkannya. Hasil berbeza-beza, jadi saringan kesesuaian adalah kunci.",
+    "q9": "Berapakah kos rawatan ED di Kuala Lumpur?",
+    "a9": "Kos berbeza-beza. Sesetengah anggaran klinik swasta termasuk konsultasi sekitar RM 150-300 dan sesi gelombang kejut sekitar RM 1,000-3,000 setiap sesi, dengan kos ubat bergantung pada jenama dan dos.",
+    "q10": "Bolehkah ED menjadi tanda penyakit jantung?",
+    "a10": "Ya, ED sering dikaitkan dengan masalah aliran darah dan boleh dikaitkan dengan risiko penyakit kardiovaskular. Itulah sebabnya penilaian perubatan adalah penting.",
+    "q11": "Patutkah saya membeli ubat ED dalam talian?",
+    "a11": "Berhati-hati. Pil ED palsu dirampas secara meluas di peringkat antarabangsa dan boleh tidak selamat. Gunakan laluan doktor dan farmasi berlesen.",
+    "q12": "Adakah PRP (P-Shot) membantu ED?",
+    "a12": "Nexus Clinic menerangkan P-Shot sebagai PRP daripada darah anda sendiri yang mungkin menyokong aliran darah dan sensitiviti, dan menyatakan hasil boleh berbeza. Ia paling baik dibincangkan selepas diagnosis supaya anda faham jika ia sesuai untuk jenis ED anda."
+  },
+  "cta": {
+    "title": "Mulakan dengan Konsultasi Sulit dan Diagnosis Sebenar",
+    "desc": "Jika anda mencari rawatan ED di Kuala Lumpur atau rawatan disfungsi erektil di Malaysia, mulakan dengan konsultasi sulit dan diagnosis sebenar.",
+    "button": "Tempah Konsultasi Sulit Anda",
+    "phone1": "016-7025699",
+    "phone2": "03-21635699",
+    "address": "LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur"
+  }
+}

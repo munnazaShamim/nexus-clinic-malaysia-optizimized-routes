@@ -1,0 +1,110 @@
+{
+  "hero": {
+    "badge": "医学减重方案",
+    "title1": "以此改变您的生活",
+    "title2": "Ozempic",
+    "description": "在 Kuala Lumpur Nexus Clinic 体验经临床验证的体重管理方案。我们的 GLP-1 Liraglutide 疗法帮助您实现可持续的减重效果，且不会让您感到饥饿或被剥夺感。",
+    "bookConsultation": "预约咨询",
+    "chatWithUs": "在线咨询",
+    "satisfiedPatients": "500+ 位满意患者",
+    "averageResult": "-15kg",
+    "averageResultLabel": "平均效果",
+    "fdaApproved": "FDA 认证",
+    "safeEffective": "安全有效",
+    "weightLossAlt": "减重疗程"
+  },
+  "treatments": {
+    "treatedArea": "治疗部位",
+    "treatedAreaValue": "腹部、大腿或上臂",
+    "duration": "时长",
+    "durationValue": "数分钟",
+    "frequency": "频率",
+    "frequencyValue": "每日一次注射",
+    "downtime": "恢复时间",
+    "downtimeValue": "极短"
+  },
+  "about": {
+    "badge": "关于疗程",
+    "title1": "什么是",
+    "title2": "GLP-1 Liraglutide？",
+    "description": "GLP-1 Liraglutide 最初用于糖尿病管理，现已被证实在体重管理方面具有显著疗效。它模拟人体激素，帮助调节食欲和饱腹感，使您能够在不感到饥饿或被剥夺的情况下轻松减重。",
+    "benefit1Title": "减少饥饿感",
+    "benefit1Desc": "自然抑制食欲，更轻松地抵抗食物渴望",
+    "benefit2Title": "增强饱腹感",
+    "benefit2Desc": "持久的满足感，让健康饮食变得毫不费力",
+    "benefit3Title": "持久效果",
+    "benefit3Desc": "循序渐进地减重，避免体重反弹的风险"
+  },
+  "howItWorks": {
+    "badge": "我们的流程",
+    "title": "疗程如何进行",
+    "step1": "01",
+    "step1Title": "专业咨询",
+    "step1Desc": "由专家评估您的病史、目标和面临的挑战，为您制定个性化方案。",
+    "step2": "02",
+    "step2Title": "定制疗程",
+    "step2Desc": "每日 GLP-1 注射，结合为您量身定制的饮食和生活方式建议。",
+    "step3": "03",
+    "step3Title": "持续支持",
+    "step3Desc": "定期监测与调整，确保您在整个疗程中获得最佳效果。"
+  },
+  "benefits": {
+    "badge": "为何选择我们",
+    "title1": "您可以",
+    "title2": "期待的效果",
+    "item1Title": "循序渐进的减重",
+    "item1Desc": "稳定持久的效果，无需剧烈改变生活方式",
+    "item2Title": "食欲控制",
+    "item2Desc": "轻松管理饥饿感和食物渴望",
+    "item3Title": "改善健康",
+    "item3Desc": "精力更充沛，降低与体重相关的健康风险",
+    "item4Title": "临床验证",
+    "item4Desc": "在医学监督下安全有效"
+  },
+  "doctors": {
+    "badge": "我们的专家",
+    "title1": "认识我们的",
+    "title2": "医生团队",
+    "dr1Name": "Dr. Aris",
+    "dr1Specialty": "代谢健康专家",
+    "dr2Name": "Dr. Preetha",
+    "dr2Specialty": "整体健康管理",
+    "dr3Name": "Dr. Ashvinia",
+    "dr3Specialty": "循证医学方案",
+    "dr4Name": "Dr. Charmaine",
+    "dr4Specialty": "医学美容与体重管理"
+  },
+  "testimonials": {
+    "badge": "成功案例",
+    "title1": "客户",
+    "title2": "评价",
+    "review1Name": "Hana Aisya",
+    "review1Text": "我很快就减掉了15磅。这是效果最好的减重疗程，几周内就能看到成效！",
+    "review2Name": "Liya Lee",
+    "review2Text": "我减掉了25公斤，如果没有 GLP-1 注射，这是不可能实现的。快速且无创！",
+    "review3Name": "Nina Patel",
+    "review3Text": "我的整体体验远超预期。疗程过程顺利且无痛。"
+  },
+  "faq": {
+    "badge": "常见问题",
+    "title1": "常见",
+    "title2": "问题解答",
+    "q1": "什么是最有效的减重注射？",
+    "a1": "GLP-1 受体激动剂注射是最有效的选择之一，能够显著减轻体重并实现长期管理。",
+    "q2": "是否有副作用？",
+    "a2": "副作用可能包括恶心、呕吐、腹泻和腹痛。请在开始治疗前咨询您的医疗保健提供者。",
+    "q3": "多长时间能看到效果？",
+    "a3": "通常在接受 GLP-1 受体激动剂治疗后的4至6周内开始看到明显效果。",
+    "q4": "哪些人不适合此疗程？",
+    "a4": "GLP-1 受体激动剂不建议用于18岁以下的未成年人、孕妇或患有饮食障碍的人群。"
+  },
+  "cta": {
+    "title1": "准备好开始您的",
+    "title2": "蜕变之旅？",
+    "description": "迈出迈向更健康自己的第一步。立即预约咨询，了解 GLP-1 疗法如何帮助您实现减重目标。",
+    "bookAppointment": "预约挂号",
+    "callUsNow": "立即致电",
+    "address": "Wisma UOA II, Kuala Lumpur",
+    "phone": "+60 16-702 5699"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "hero": {
+    "badge": "Nexus Clinic Kuala Lumpur",
+    "title1": "Rasakan diri Anda kembali,",
+    "title2": "tanpa harus menebak-nebak",
+    "title3": "apa yang terjadi pada hormon Anda.",
+    "desc": "Gejala menopause, energi rendah, tidur tidak nyenyak, sulit berkonsentrasi, dan libido menurun dapat membuat kehidupan sehari-hari terasa lebih berat dari seharusnya.",
+    "highlight": "Di Nexus Clinic Kuala Lumpur, kami menjaga HRT tetap sederhana, medis, dan dipersonalisasi, sehingga Anda mendapatkan rencana perawatan yang benar-benar dapat Anda percaya.",
+    "cta1": "Buat Janji Konsultasi",
+    "cta2": "Pelajari Lebih Lanjut",
+    "trustTitle": "15+ Tahun",
+    "trustDesc": "Keunggulan"
+  },
+  "whatIs": {
+    "badge": "MEMAHAMI HRT",
+    "title": "Apa Itu Terapi Penggantian Hormon (HRT)?",
+    "desc1": "Terapi Penggantian Hormon (HRT) adalah perawatan medis yang menggantikan hormon yang menurun, paling umum selama menopause. Bagi banyak wanita, ini berarti menggantikan estrogen, dan pada wanita yang masih memiliki rahim, menambahkan progestogen untuk melindungi lapisan rahim.",
+    "desc2": "Di Malaysia, beberapa klinik juga menggunakan istilah HRT secara lebih luas untuk menggambarkan penyeimbangan hormon bagi wanita maupun pria. Nexus Clinic memposisikan HRT sebagai dukungan untuk ketidakseimbangan hormon pada kedua jenis kelamin, yang bertujuan meningkatkan kualitas hidup.",
+    "statsNumber": "5000+",
+    "statsLabel": "Pasien Puas"
+  },
+  "symptoms": {
+    "badge": "KENALI TANDA-TANDANYA",
+    "title": "Gejala yang Membuat Orang Mencari HRT di Kuala Lumpur",
+    "s1": "\"Saya bangun tetap lelah meskipun sudah tidur.\"",
+    "s2": "\"Suasana hati saya terasa tidak stabil dan saya tidak tahu mengapa.\"",
+    "s3": "\"Hot flush saya sangat memalukan.\"",
+    "s4": "\"Saya merasa kering, iritasi, dan hubungan intim terasa sakit.\"",
+    "s5": "\"Libido saya menghilang.\"",
+    "s6": "\"Berat badan saya terus bertambah di area perut.\"",
+    "note": "Rumah sakit di Malaysia menggambarkan gejala menopause umum seperti hot flush, keringat malam, gangguan tidur, perubahan berat badan, berkurangnya minat terhadap hubungan seksual atau rasa sakit saat berhubungan, serta masalah saluran kemih.",
+    "floatingCard1": "Hot Flush",
+    "floatingCard2": "Keringat Malam"
+  },
+  "comfort": {
+    "title1": "Kenyamanan Anda",
+    "title2": "Adalah Prioritas Kami",
+    "desc": "Perjalanan HRT yang baik terasa tenang dan terstruktur. Di klinik kami yang berlokasi strategis dekat KLCC, kami telah menciptakan lingkungan di mana Anda dapat merasa nyaman membahas masalah kesehatan Anda.",
+    "item1": "Privat & Rahasia",
+    "item2": "Perawatan Penuh Empati",
+    "item3": "Jam Layanan Fleksibel",
+    "item4": "Tim Ahli",
+    "address": "LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur",
+    "phone": "016-7025699 / 03-21635699",
+    "locationTitle": "Area KLCC",
+    "locationDesc": "5 menit berjalan kaki"
+  },
+  "consultation": {
+    "title1": "Apa yang Diharapkan",
+    "title2": "pada Konsultasi Anda",
+    "desc": "Rencana perawatan yang umum meliputi:",
+    "step1Title": "Konsultasi pribadi",
+    "step1Desc": "gejala, tujuan, riwayat medis, riwayat keluarga",
+    "step2Title": "Pemeriksaan awal",
+    "step2Desc": "jika diperlukan, terutama ketika skrining risiko penting dilakukan",
+    "step3Title": "Rekomendasi yang dipersonalisasi",
+    "step3Desc": "jenis HRT, metode pemberian, dan jadwal yang realistis",
+    "step4Title": "Tindak lanjut dan pemantauan",
+    "step4Desc": "bagaimana perasaan Anda, efek samping, dan apakah penyesuaian diperlukan"
+  },
+  "benefits": {
+    "title1": "Manfaat HRT",
+    "title2": "(Apa yang Sebenarnya Dapat Dibantu)",
+    "desc": "Perhimpunan menopause utama dan sumber klinis secara konsisten menyatakan bahwa terapi hormon adalah pilihan paling efektif untuk:",
+    "b1": "Gejala vasomotor – hot flush dan keringat malam",
+    "b2": "Sindrom genitourinari menopause seperti kekeringan dan ketidaknyamanan pada vagina",
+    "b3": "Terapi ini juga dapat membantu mencegah pengeroposan tulang dan patah tulang pada pasien yang sesuai.",
+    "stat1Number": "80%",
+    "stat1Label": "Pengurangan hot flush",
+    "stat2Number": "90%",
+    "stat2Label": "Peningkatan kualitas tidur"
+  },
+  "faq": {
+    "title1": "Pertanyaan yang",
+    "title2": "Sering Diajukan",
+    "desc": "Dapatkan jawaban atas pertanyaan umum tentang HRT dan apa yang dapat Anda harapkan.",
+    "moreQuestions": "Punya pertanyaan lain? Dokter kami siap membantu.",
+    "q1": "Apa itu HRT dan mengapa digunakan?",
+    "a1": "HRT menggantikan hormon yang menurun, terutama estrogen dan terkadang progestogen, untuk meredakan gejala menopause seperti hot flush, keringat malam, perubahan suasana hati, dan kekeringan pada vagina.",
+    "q2": "Apa dua jenis utama HRT?",
+    "a2": "HRT estrogen saja biasanya untuk wanita setelah histerektomi. HRT kombinasi untuk wanita yang masih memiliki rahim guna melindungi lapisan rahim.",
+    "q3": "Apakah HRT aman?",
+    "a3": "Bagi banyak wanita, terutama di bawah usia 60 tahun atau dalam kurun waktu sekitar 10 tahun setelah menopause, HRT dapat aman jika diresepkan dengan tepat dan ditinjau secara berkala. Risiko bervariasi tergantung jenis dan riwayat kesehatan pribadi.",
+    "q4": "Apakah HRT menyebabkan kenaikan berat badan?",
+    "a4": "Sebagian besar bukti dan panduan NHS menunjukkan bahwa HRT tidak berkaitan erat dengan kenaikan berat badan. Menopause itu sendiri dapat memengaruhi berat badan dan distribusi lemak.",
+    "q5": "Seberapa cepat HRT mulai bekerja?",
+    "a5": "Beberapa orang merasakan perbaikan dalam hitungan minggu, tetapi waktunya bervariasi tergantung gejala dan formulasi obat."
+  },
+  "cta": {
+    "title": "Siap Memulai Perjalanan Anda?",
+    "desc": "Jika Anda mencari terapi penggantian hormon di Kuala Lumpur atau HRT di Malaysia, mulailah dengan konsultasi pribadi dan rencana perawatan yang jelas.",
+    "clinicName": "Nexus Clinic Kuala Lumpur",
+    "address": "LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur",
+    "phone": "016-7025699 / 03-21635699",
+    "button": "Buat Janji Konsultasi Anda"
+  }
+}

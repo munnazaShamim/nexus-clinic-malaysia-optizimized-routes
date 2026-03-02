@@ -1,0 +1,91 @@
+{
+  "hero": {
+    "title": "HCG Weight Loss Treatment",
+    "subtitle": "in Kuala Lumpur, Malaysia",
+    "tagline": "The honest guide to what it is, what research says, and safer doctor monitored options",
+    "warningTitle": "Thinking about the HCG diet in Malaysia? Read this before you commit.",
+    "warningDesc": "If you have tried dieting and workouts but the scale barely moves, it is normal to feel frustrated. At Nexus Clinic Kuala Lumpur, we help you understand what is hype, what is evidence, and what is actually safe.",
+    "trust1": "Doctor-led medical screening & personalised plans",
+    "trust2": "Safety-first with realistic targets",
+    "trust3": "Discreet KL clinic with clear guidance"
+  },
+  "truth": {
+    "badge": "First, a quick truth",
+    "title": "Because you deserve it",
+    "desc1": "HCG is a real hormone with real medical uses. But most medical sources agree that HCG is not approved for weight loss and the classic \"HCG diet\" often involves a very low-calorie diet that can be risky.",
+    "desc2": "So if you are searching \"HCG weight loss Malaysia\" or \"HCG injection for slimming in KL\", the key question is not \"can it make me lose weight fast?\"",
+    "betterQuestion": "The better question is: is it safe, and will it last?"
+  },
+  "whatIs": {
+    "title": "What is HCG?",
+    "desc": "HCG stands for human chorionic gonadotropin. Your body makes it during pregnancy. Doctors also use lab-made HCG for specific medical reasons, mainly related to fertility and certain hormone conditions.",
+    "mohNote": "In Malaysia, the Ministry of Health formulary lists HCG injections for fertility-related indications such as ovulation induction and luteal support, not as a weight loss drug.",
+    "meaningTitle": "What people mean by \"HCG weight loss\"",
+    "meaningDesc": "A plan that combines HCG products with a very low-calorie diet (often 500-800 calories a day).",
+    "promisedBenefits": "Promised benefits:",
+    "promisedDesc": "faster fat loss, less hunger, keeping muscle while losing weight. The problem? The evidence doesn't support it.",
+    "evidenceTitle": "Does HCG actually cause weight loss?",
+    "evidenceDesc": "Most high-quality reviews say no. If you cut calories to extremely low levels, you will likely lose weight. But studies show HCG itself does not add meaningful weight loss beyond the calorie restriction."
+  },
+  "safety": {
+    "title": "Safety: The Biggest Concern",
+    "subtitle": "Two risks usually show up together",
+    "hormoneTitle": "The Hormone Problem",
+    "hormoneDesc": "Using hormones without a strong medical reason can cause unpredictable effects. Even when HCG is used correctly for approved indications, it has known side effects.",
+    "vlcdTitle": "The VLCD Problem",
+    "vlcdDesc": "Very low-calorie diets increase risk for gallstones, electrolyte imbalance, heart rhythm problems, fatigue, dehydration, and malnutrition.",
+    "fdaTitle": "FDA Warning",
+    "fdaDesc": "The FDA has warned that \"HCG diet\" instructions tied to very low-calorie diets increase risk for serious side effects. Cleveland Clinic also highlights extreme restriction can lead to fatigue, dehydration, headaches, malnutrition, anemia, and hypoglycemia."
+  },
+  "risks": {
+    "title": "Understanding the Risks",
+    "risk1Title": "Hormonal Imbalance",
+    "risk1Desc": "Unpredictable effects from unapproved hormone use",
+    "risk2Title": "Gallstones Risk",
+    "risk2Desc": "Very low-calorie diets increase gallstone formation",
+    "risk3Title": "Electrolyte Issues",
+    "risk3Desc": "Can lead to dangerous heart rhythm problems",
+    "risk4Title": "Malnutrition",
+    "risk4Desc": "Extreme restriction causes nutrient deficiencies",
+    "dropsTitle": "\"Drops\", \"pellets\", \"sprays\": what you should know",
+    "dropsDesc": "Many \"homeopathic HCG\" products are marketed online. The FDA notes these products are sold as drops, pellets, and sprays, and they are not evaluated for safety or effectiveness for weight loss. If you are in Malaysia and considering anything bought online, be extra cautious."
+  },
+  "exclusions": {
+    "title": "Who is NOT a good candidate?",
+    "subtitle": "Even clinics that market HCG often list these exclusions",
+    "item1": "Pregnant, trying to conceive, or breastfeeding",
+    "item2": "Hormone-sensitive cancer risk or history",
+    "item3": "Heart rhythm problems or clotting history",
+    "item4": "Severe depression or eating disorder history",
+    "note": "If you feel desperate enough to try extreme restriction, take that as a sign to seek a safer medical plan with support."
+  },
+  "safer": {
+    "badge": "Safer Alternative",
+    "title": "Doctor Monitored Weight Loss in KL",
+    "approach1": "Realistic calorie deficit, not extreme starvation",
+    "approach2": "Protein and strength training to protect muscle",
+    "approach3": "Sleep and stress support",
+    "approach4": "Medical options only when appropriate",
+    "paceTitle": "A common safe pace",
+    "paceValue": "0.5 to 1 kg per week",
+    "paceNote": "not \"a kilo a day\""
+  },
+  "faq": {
+    "q1": "Is the HCG diet safe?",
+    "a1": "Major medical sources say the HCG diet is not safe, mainly due to the very low-calorie diet and unapproved weight loss claims.",
+    "q2": "Does HCG help lose weight without dieting?",
+    "a2": "No strong evidence shows HCG causes weight loss alone. Weight change comes from calorie restriction.",
+    "q3": "Are HCG drops or sprays real?",
+    "a3": "Many 'homeopathic HCG' products are unapproved for weight loss and not evaluated for safety or effectiveness.",
+    "q4": "Is HCG approved for weight loss?",
+    "a4": "In Malaysia, HCG is listed for fertility indications in the MOH formulary, not as a slimming drug.",
+    "q5": "What's a safer alternative to HCG?",
+    "a5": "A doctor-monitored program with health screening, realistic targets, and proper follow-up is safer and more sustainable."
+  },
+  "cta": {
+    "title": "Ready for a Safer Approach?",
+    "description": "If you are considering HCG weight loss in Malaysia, do not guess your way through it. Book a consultation at Nexus Clinic Kuala Lumpur and let a doctor review your goals, your health, and your safest path forward.",
+    "bookButton": "Book Your Consultation",
+    "note": "You will leave with a plan you can follow, not a quick fix you fear."
+  }
+}

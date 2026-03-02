@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "badge": "Nexus Clinic Kuala Lumpur",
+    "title": "Angkat bentuk hidung Anda",
+    "titleHighlight": "tanpa operasi",
+    "desc": "Batang hidung lebih tinggi. Ujung lebih tajam. Profil samping lebih bersih. Perawatan cepat, waktu pemulihan singkat, dan penyempurnaan yang terlihat alami.",
+    "cta1": "Jadwalkan Konsultasi",
+    "cta2": "Lihat Galeri",
+    "trust1": "Penilaian oleh dokter",
+    "trust2": "Keahlian hidung Asia",
+    "trust3": "Lokasi pusat KL",
+    "priceLabel": "Panduan harga mulai",
+    "priceFrom": "RM 1,500",
+    "priceTo": "RM 3,000",
+    "floatTitle": "Proporsi alami",
+    "floatDesc": "Bukan hasil \"copy paste\""
+  },
+  "what": {
+    "title": "Apa itu",
+    "titleHighlight": "Nose Thread Lift?",
+    "desc": "Perawatan invasif minimal yang menggunakan benang yang dapat diserap untuk memperbaiki tampilan batang dan ujung hidung Anda. Benang bertindak seperti perancah di bawah kulit untuk menopang bentuk baru.",
+    "idealTitle": "Ideal untuk:",
+    "ideal1": "Batang hidung datar yang terlihat rendah di foto",
+    "ideal2": "Ujung hidung yang terlihat lembut atau sedikit turun",
+    "ideal3": "Asimetri ringan",
+    "ideal4": "Profil yang membutuhkan definisi lebih tajam",
+    "stat1Value": "20-30 menit",
+    "stat1Label": "Prosedur cepat",
+    "stat2Value": "12-18 bulan",
+    "stat2Label": "Hasil bertahan",
+    "stat3Value": "4-8 benang",
+    "stat3Label": "Rata-rata per sesi",
+    "stat4Value": "PDO / PCL",
+    "stat4Label": "Jenis benang"
+  },
+  "results": {
+    "title": "Hasil realistis,",
+    "titleHighlight": "ekspektasi jujur",
+    "desc": "Jujurlah pada diri sendiri di sini. Benang hidung bukan sihir, tapi bisa menciptakan perbaikan halus yang indah.",
+    "canTitle": "Bisa dilakukan",
+    "can1": "Menciptakan garis batang hidung yang lebih terdefinisi",
+    "can2": "Memberikan tampilan batang hidung yang sedikit lebih tinggi",
+    "can3": "Membantu ujung hidung terlihat lebih terangkat dan menonjol",
+    "can4": "Memperbaiki kontur di foto samping",
+    "cannotTitle": "Tidak bisa dilakukan",
+    "cannot1": "Membuat hidung yang sangat lebar menjadi sempit",
+    "cannot2": "Mengurangi lebar tulang",
+    "cannot3": "Memperbaiki masalah struktural utama",
+    "cannot4": "Menggantikan hasil rhinoplasty bedah"
+  },
+  "timeline": {
+    "title": "Perjalanan Anda,",
+    "titleHighlight": "hari demi hari",
+    "desc": "Apa yang Anda lihat, dan kapan Anda melihatnya - timeline yang tenang dan nyata dari hari ke-1 hingga hari ke-14",
+    "day1Label": "Hari ke-1",
+    "day1Title": "Hasil langsung",
+    "day1Desc": "Batang hidung terlihat lebih tajam langsung. Beberapa pembengkakan diharapkan.",
+    "day2Label": "Hari ke 3-7",
+    "day2Title": "Periode penyesuaian",
+    "day2Desc": "Pembengkakan umum terjadi. Memar ringan bisa terjadi. Kebanyakan kembali ke aktivitas harian dalam 1-2 hari.",
+    "day3Label": "Minggu ke 2-4",
+    "day3Title": "Hasil akhir",
+    "day3Desc": "Hidung terlihat lebih stabil. Hasilnya terlihat lebih 'milik Anda'."
+  },
+  "faq": {
+    "q1": "Apa yang dilakukan nose thread lift?",
+    "a1": "Menyempurnakan batang dan ujung hidung menggunakan benang yang dapat diserap untuk memperbaiki kontur tanpa operasi.",
+    "q2": "Berapa lama hasil bertahan?",
+    "a2": "Banyak klinik menyatakan hasil biasanya bertahan antara 12 dan 18 bulan, tergantung pada jenis benang dan faktor individu.",
+    "q3": "Apakah sakit?",
+    "a3": "Ketidaknyamanan biasanya minimal karena menggunakan anestesi lokal.",
+    "q4": "Bisakah siapa saja mendapatkan benang hidung?",
+    "a4": "Tidak selalu. Beberapa hidung tidak bisa dengan aman menerima banyak benang, dan penilaian penting untuk menghindari komplikasi."
+  },
+  "cta": {
+    "title": "Siap untuk penyempurnaan yang terlihat alami?",
+    "desc": "Jadwalkan penilaian oleh dokter di Nexus Clinic Kuala Lumpur. Mari buat rencana yang menghormati proporsi wajah unik Anda.",
+    "button1": "Jadwalkan Konsultasi",
+    "button2": "Lihat Harga",
+    "quote": "Karena ini bukan \"perawatan tren.\" Ini adalah keputusan keseimbangan wajah."
+  }
+}

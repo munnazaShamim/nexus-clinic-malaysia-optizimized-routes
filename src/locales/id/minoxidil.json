@@ -1,0 +1,90 @@
+{
+  "hero": {
+    "badge": "Rawatan Minoxidil di Kuala Lumpur",
+    "title1": "Pertahankan Rambut Anda",
+    "title2": "Lebih Panjang, Lebih Tebal",
+    "desc": "Minoxidil adalah solusi paling terpercaya untuk kerontokan rambut. Mulai lebih awal, dapatkan hasil optimal dengan bimbingan dokter spesialis.",
+    "consultBtn": "Konsultasi Gratis",
+    "learnBtn": "Pelajari Dulu"
+  },
+  "benefits": {
+    "b1Title": "Perawatan Tepat Sasaran",
+    "b1Desc": "Dokter spesialis memastikan diagnosis yang akurat sebelum memulai perawatan",
+    "b2Title": "Terdaftar MOH",
+    "b2Desc": "Klinik terdaftar resmi dengan protokol keselamatan yang ketat",
+    "b3Title": "Hasil Terbukti",
+    "b3Desc": "Ribuan pasien telah berhasil mempertahankan rambut mereka",
+    "b4Title": "Perawatan Holistik",
+    "b4Desc": "Pendekatan menyeluruh, bukan sekadar menjual produk"
+  },
+  "quickAnswers": {
+    "title": "Jawaban Cepat",
+    "desc": "Pertanyaan yang paling sering dicari, dijawab langsung",
+    "q1": "Apa itu minoxidil?",
+    "a1": "Membantu memperlambat kerontokan rambut dan merangsang pertumbuhan kembali, terutama pada tahap awal kebotakan.",
+    "q2": "Berapa lama untuk melihat hasil?",
+    "a2": "Hasil mulai terlihat dalam 4-6 bulan, dengan hasil optimal setelah 6 bulan penggunaan konsisten.",
+    "q3": "Apakah akan ada kerontokan di awal?",
+    "a3": "Ya, kerontokan ringan dalam 2-8 minggu pertama adalah normal sebagai bagian dari siklus regenerasi."
+  },
+  "whoFor": {
+    "title1": "Untuk Siapa Perawatan",
+    "title2": "Minoxidil?",
+    "w1": "Pria dengan kebotakan pola pria",
+    "w2": "Wanita dengan kebotakan pola wanita (disetujui FDA)",
+    "w3": "Mereka yang mengalami penipisan rambut tahap awal",
+    "w4": "Kombinasi dengan perawatan lain seperti PRP",
+    "stat1Value": "1,000+",
+    "stat1Label": "Pasien Pria",
+    "stat2Value": "800+",
+    "stat2Label": "Pasien Wanita",
+    "stat3Value": "6+ Tahun Pengalaman",
+    "stat3Desc": "Spesialis dalam restorasi rambut"
+  },
+  "types": {
+    "title": "Jenis-Jenis Minoxidil",
+    "topicalTitle": "Minoxidil Topikal",
+    "topicalDesc": "Larutan atau busa untuk aplikasi langsung",
+    "topicalF1": "Pria: 5% sekali/hari",
+    "topicalF2": "Wanita: 2% atau 5% busa",
+    "oralTitle": "Minoxidil Oral",
+    "oralDesc": "Dosis rendah, di bawah pengawasan dokter",
+    "oralF1": "Memerlukan resep dokter",
+    "oralF2": "Pemantauan tekanan darah"
+  },
+  "timeline": {
+    "title": "Garis Waktu Realistis",
+    "desc": "Perjalanan perawatan Anda langkah demi langkah",
+    "t1Time": "2-8 minggu pertama",
+    "t1Desc": "Fase kerontokan - normal, jangan panik",
+    "t2Time": "2-4 bulan",
+    "t2Desc": "Tanda-tanda awal mulai terlihat",
+    "t3Time": "6 bulan+",
+    "t3Desc": "Hasil optimal mulai terlihat"
+  },
+  "journey": {
+    "title": "Perjalanan Anda di Nexus Clinic",
+    "s1Title": "Diagnosis Akurat",
+    "s1Desc": "Konsultasi menyeluruh untuk menentukan jenis kerontokan rambut",
+    "s2Title": "Rencana Pribadi",
+    "s2Desc": "Dosis dan metode disesuaikan dengan gaya hidup Anda",
+    "s3Title": "Pemantauan Berkala",
+    "s3Desc": "Evaluasi berkala dengan foto perkembangan dan penyesuaian"
+  },
+  "faq": {
+    "q1": "Apakah minoxidil aman untuk wanita?",
+    "a1": "Ya, FDA menyetujui minoxidil 2% dan 5% untuk wanita. Nexus Clinic menyesuaikan dosis berdasarkan sensitivitas kulit.",
+    "q2": "Apa perbedaan antara busa dan larutan?",
+    "a2": "Busa lebih ringan dan cepat kering, larutan lebih ekonomis. Dokter akan merekomendasikan berdasarkan jenis kulit kepala Anda.",
+    "q3": "Bagaimana dengan efek samping?",
+    "a3": "Iritasi ringan bisa terjadi. Tim dokter kami akan memantau dan menyesuaikan perawatan jika diperlukan."
+  },
+  "cta": {
+    "title": "Siap Memulai Perjalanan Anda?",
+    "desc": "Dapatkan penilaian gratis dengan dokter spesialis kami. Diagnosis akurat, perawatan yang dipersonalisasi, hasil optimal.",
+    "bookBtn": "Tempah Konsultasi Sekarang"
+  },
+  "petSafety": {
+    "notice": "Penting: Minoxidil topikal bisa sangat beracun bagi hewan peliharaan, terutama kucing. Selalu cuci tangan setelah penggunaan dan jauhkan dari hewan."
+  }
+}

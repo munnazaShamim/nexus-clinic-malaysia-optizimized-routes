@@ -1,0 +1,95 @@
+{
+  "hero": {
+    "badge": "Nexus Clinic Kuala Lumpur",
+    "title1": "Eczema relief",
+    "title2": "that feels real.",
+    "desc": "Calm your skin, sleep better, and stop the flare cycle in Kuala Lumpur.",
+    "sleepTitle": "Sleep better",
+    "sleepDesc": "When eczema flares, it steals sleep, confidence, and comfort.",
+    "doctorTitle": "Doctor-led approach",
+    "doctorDesc": "MOH-registered clinic with diagnosis-first approach in KLCC.",
+    "btn": "Start your calm journey",
+    "floatingLabel": "KL Climate Impact",
+    "floatingValue": "Heat + Sweat Triggers"
+  },
+  "trust": {
+    "t1Title": "MOH-Registered",
+    "t1Desc": "Doctor-led with diagnosis-first approach",
+    "t2Title": "Near KLCC",
+    "t2Desc": "LG 10, Wisma UOA II, Jalan Pinang",
+    "t3Title": "Trigger Mapping",
+    "t3Desc": "Assessment before treatment"
+  },
+  "whyKL": {
+    "title1": "Why eczema feels worse in",
+    "title2": "Kuala Lumpur",
+    "desc": "Malaysia's climate and lifestyle create a perfect storm for eczema",
+    "trigger1Title": "Heat + Sweat",
+    "trigger1Desc": "Sweat can sting cracked skin and trigger itching",
+    "trigger2Title": "Air Conditioning",
+    "trigger2Desc": "Temperature swings stress your skin barrier",
+    "trigger3Title": "Frequent Showers",
+    "trigger3Desc": "Hot water strips natural protective oils",
+    "trigger4Title": "Stress & Pollution",
+    "trigger4Desc": "Both increase inflammation and scratching"
+  },
+  "symptoms": {
+    "title1": "Common eczema",
+    "title2": "symptoms",
+    "s1": "Intense itching, often before you see a rash",
+    "s2": "Dry, rough, flaky skin",
+    "s3": "Red or darker patches (brown, purple, or grey)",
+    "s4": "Small bumps, oozing, or crusting during flares",
+    "area1": "Skin folds",
+    "area2": "Behind knees",
+    "area3": "Neck",
+    "area4": "Wrists"
+  },
+  "treatments": {
+    "title1": "Treatment options that",
+    "title2": "actually work",
+    "desc": "Evidence-based care tailored to your skin's needs",
+    "t1Title": "Moisturisers & Barrier Repair",
+    "t1Desc": "The foundation of eczema care. Moisturise every day, even when skin looks calm.",
+    "t1Note": "Fragrance-free, daily routine",
+    "t2Title": "Anti-inflammatory Creams",
+    "t2Desc": "For active flares. Topical corticosteroids and calcineurin inhibitors when needed.",
+    "t2Note": "Doctor-guided strength and duration",
+    "t3Title": "Itch Control & Sleep Support",
+    "t3Desc": "Cold compresses, night routine adjustments, and habit strategies.",
+    "t3Note": "Better sleep, calmer skin"
+  },
+  "routine": {
+    "title1": "Practical routine for",
+    "title2": "KL life",
+    "desc": "Simple, sustainable steps that fit your daily rhythm",
+    "morningTitle": "Morning",
+    "morning1": "Quick rinse or gentle cleanse",
+    "morning2": "Moisturiser",
+    "morning3": "Sensitive-skin friendly sunscreen",
+    "middayTitle": "Midday",
+    "midday1": "Rinse sweat if possible",
+    "midday2": "Reapply moisturiser if skin feels tight",
+    "midday3": "Avoid fragranced wipes",
+    "nightTitle": "Night",
+    "night1": "Lukewarm shower",
+    "night2": "Pat dry, moisturise",
+    "night3": "Medicated creams as advised"
+  },
+  "faq": {
+    "q1": "Will eczema go away without treatment?",
+    "a1": "Some mild cases improve, but eczema often flares and returns. Management and prevention are key.",
+    "q2": "Is eczema contagious?",
+    "a2": "No. Atopic dermatitis is not contagious. You cannot spread it by touch.",
+    "q3": "Why is eczema worse at night?",
+    "a3": "Many people feel itch more at night due to routine changes, body temperature shifts, and subconscious scratching.",
+    "q4": "Are steroid creams safe for eczema?",
+    "a4": "They are widely used and safe when used correctly with proper medical guidance on strength, area, and duration."
+  },
+  "cta": {
+    "title": "Stop guessing with random creams",
+    "desc": "Visit Nexus Clinic Kuala Lumpur for a doctor-led skin assessment and a plan that fits real KL life",
+    "bookBtn": "Wisma UOA II, Jalan Pinang, near KLCC",
+    "note": "MOH-registered • Doctor-led • Diagnosis-first approach"
+  }
+}

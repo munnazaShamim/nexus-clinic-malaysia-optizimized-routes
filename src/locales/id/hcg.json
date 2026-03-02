@@ -1,0 +1,91 @@
+{
+  "hero": {
+    "title": "Perawatan Penurunan Berat Badan HCG",
+    "subtitle": "di Kuala Lumpur, Malaysia",
+    "tagline": "Panduan jujur tentang apa itu HCG, apa kata penelitian, dan pilihan lebih aman yang dipantau dokter",
+    "warningTitle": "Sedang mempertimbangkan diet HCG di Malaysia? Baca ini sebelum Anda memutuskan.",
+    "warningDesc": "Jika Anda sudah mencoba diet dan olahraga namun timbangan hampir tidak bergerak, wajar untuk merasa frustrasi. Di Nexus Clinic Kuala Lumpur, kami membantu Anda memahami mana yang sekadar hype, mana yang berbasis bukti, dan mana yang benar-benar aman.",
+    "trust1": "Pemeriksaan medis dipimpin dokter & rencana yang dipersonalisasi",
+    "trust2": "Mengutamakan keselamatan dengan target yang realistis",
+    "trust3": "Klinik KL yang terpercaya dengan panduan yang jelas"
+  },
+  "truth": {
+    "badge": "Pertama, fakta singkat",
+    "title": "Karena Anda layak mengetahuinya",
+    "desc1": "HCG adalah hormon nyata dengan kegunaan medis yang nyata. Namun sebagian besar sumber medis sepakat bahwa HCG tidak disetujui untuk penurunan berat badan, dan \"diet HCG\" klasik sering melibatkan diet sangat rendah kalori yang bisa berbahaya.",
+    "desc2": "Jadi jika Anda mencari \"HCG weight loss Malaysia\" atau \"suntikan HCG untuk langsing di KL\", pertanyaan utamanya bukan \"bisakah ini membuat saya cepat kurus?\"",
+    "betterQuestion": "Pertanyaan yang lebih tepat adalah: apakah ini aman, dan apakah hasilnya bertahan lama?"
+  },
+  "whatIs": {
+    "title": "Apa itu HCG?",
+    "desc": "HCG adalah singkatan dari human chorionic gonadotropin. Tubuh Anda memproduksinya selama kehamilan. Dokter juga menggunakan HCG buatan laboratorium untuk alasan medis tertentu, terutama yang berkaitan dengan kesuburan dan kondisi hormon tertentu.",
+    "mohNote": "Di Malaysia, formularium Kementerian Kesehatan mencantumkan suntikan HCG untuk indikasi terkait kesuburan seperti induksi ovulasi dan dukungan luteal, bukan sebagai obat penurun berat badan.",
+    "meaningTitle": "Yang dimaksud orang dengan \"penurunan berat badan HCG\"",
+    "meaningDesc": "Sebuah program yang menggabungkan produk HCG dengan diet sangat rendah kalori (sering kali 500-800 kalori per hari).",
+    "promisedBenefits": "Manfaat yang dijanjikan:",
+    "promisedDesc": "penurunan lemak lebih cepat, rasa lapar berkurang, mempertahankan otot sambil menurunkan berat badan. Masalahnya? Bukti tidak mendukung klaim tersebut.",
+    "evidenceTitle": "Apakah HCG benar-benar menyebabkan penurunan berat badan?",
+    "evidenceDesc": "Sebagian besar ulasan berkualitas tinggi menyatakan tidak. Jika Anda memangkas kalori ke tingkat yang sangat rendah, Anda kemungkinan akan kehilangan berat badan. Namun penelitian menunjukkan HCG itu sendiri tidak menambahkan penurunan berat badan yang berarti di luar pembatasan kalori."
+  },
+  "safety": {
+    "title": "Keamanan: Perhatian Terbesar",
+    "subtitle": "Dua risiko biasanya muncul bersamaan",
+    "hormoneTitle": "Masalah Hormon",
+    "hormoneDesc": "Menggunakan hormon tanpa alasan medis yang kuat dapat menyebabkan efek yang tidak dapat diprediksi. Bahkan ketika HCG digunakan dengan benar untuk indikasi yang disetujui, ada efek samping yang sudah diketahui.",
+    "vlcdTitle": "Masalah VLCD",
+    "vlcdDesc": "Diet sangat rendah kalori meningkatkan risiko batu empedu, ketidakseimbangan elektrolit, gangguan irama jantung, kelelahan, dehidrasi, dan malnutrisi.",
+    "fdaTitle": "Peringatan FDA",
+    "fdaDesc": "FDA telah memperingatkan bahwa instruksi \"diet HCG\" yang dikaitkan dengan diet sangat rendah kalori meningkatkan risiko efek samping serius. Cleveland Clinic juga menyoroti bahwa pembatasan ekstrem dapat menyebabkan kelelahan, dehidrasi, sakit kepala, malnutrisi, anemia, dan hipoglikemia."
+  },
+  "risks": {
+    "title": "Memahami Risikonya",
+    "risk1Title": "Ketidakseimbangan Hormon",
+    "risk1Desc": "Efek tidak terduga akibat penggunaan hormon yang tidak disetujui",
+    "risk2Title": "Risiko Batu Empedu",
+    "risk2Desc": "Diet sangat rendah kalori meningkatkan pembentukan batu empedu",
+    "risk3Title": "Gangguan Elektrolit",
+    "risk3Desc": "Dapat menyebabkan gangguan irama jantung yang berbahaya",
+    "risk4Title": "Malnutrisi",
+    "risk4Desc": "Pembatasan ekstrem menyebabkan kekurangan nutrisi",
+    "dropsTitle": "\"Tetes\", \"pelet\", \"semprotan\": yang perlu Anda ketahui",
+    "dropsDesc": "Banyak produk \"HCG homeopati\" dipasarkan secara online. FDA mencatat produk-produk ini dijual dalam bentuk tetes, pelet, dan semprotan, dan tidak dievaluasi untuk keamanan atau efektivitasnya dalam penurunan berat badan. Jika Anda berada di Malaysia dan mempertimbangkan produk yang dibeli secara online, berhati-hatilah."
+  },
+  "exclusions": {
+    "title": "Siapa yang TIDAK cocok sebagai kandidat?",
+    "subtitle": "Bahkan klinik yang memasarkan HCG pun sering mencantumkan pengecualian ini",
+    "item1": "Sedang hamil, mencoba untuk hamil, atau menyusui",
+    "item2": "Risiko atau riwayat kanker yang sensitif terhadap hormon",
+    "item3": "Gangguan irama jantung atau riwayat pembekuan darah",
+    "item4": "Riwayat depresi berat atau gangguan makan",
+    "note": "Jika Anda merasa cukup putus asa untuk mencoba pembatasan ekstrem, jadikan itu tanda untuk mencari rencana medis yang lebih aman dengan dukungan profesional."
+  },
+  "safer": {
+    "badge": "Alternatif yang Lebih Aman",
+    "title": "Penurunan Berat Badan Dipantau Dokter di KL",
+    "approach1": "Defisit kalori yang realistis, bukan kelaparan ekstrem",
+    "approach2": "Protein dan latihan kekuatan untuk menjaga massa otot",
+    "approach3": "Dukungan tidur dan manajemen stres",
+    "approach4": "Pilihan medis hanya bila sesuai",
+    "paceTitle": "Laju aman yang umum",
+    "paceValue": "0,5 hingga 1 kg per minggu",
+    "paceNote": "bukan \"satu kilo per hari\""
+  },
+  "faq": {
+    "q1": "Apakah diet HCG aman?",
+    "a1": "Sumber medis utama menyatakan bahwa diet HCG tidak aman, terutama karena diet sangat rendah kalori dan klaim penurunan berat badan yang tidak disetujui.",
+    "q2": "Apakah HCG membantu menurunkan berat badan tanpa diet?",
+    "a2": "Tidak ada bukti kuat yang menunjukkan HCG menyebabkan penurunan berat badan sendiri. Perubahan berat badan berasal dari pembatasan kalori.",
+    "q3": "Apakah tetes atau semprotan HCG itu nyata?",
+    "a3": "Banyak produk 'HCG homeopati' tidak disetujui untuk penurunan berat badan dan tidak dievaluasi untuk keamanan atau efektivitasnya.",
+    "q4": "Apakah HCG disetujui untuk penurunan berat badan?",
+    "a4": "Di Malaysia, HCG tercantum untuk indikasi kesuburan dalam formularium KKM, bukan sebagai obat pelangsing.",
+    "q5": "Apa alternatif yang lebih aman dibandingkan HCG?",
+    "a5": "Program yang dipantau dokter dengan pemeriksaan kesehatan, target yang realistis, dan tindak lanjut yang tepat lebih aman dan lebih berkelanjutan."
+  },
+  "cta": {
+    "title": "Siap untuk Pendekatan yang Lebih Aman?",
+    "description": "Jika Anda sedang mempertimbangkan penurunan berat badan dengan HCG di Malaysia, jangan tebak-tebakan sendiri. Buat konsultasi di Nexus Clinic Kuala Lumpur dan biarkan dokter meninjau tujuan Anda, kesehatan Anda, dan jalur paling aman ke depan.",
+    "bookButton": "Buat Konsultasi Anda",
+    "note": "Anda akan pulang dengan rencana yang bisa Anda ikuti, bukan solusi instan yang membuat Anda khawatir."
+  }
+}

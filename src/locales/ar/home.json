@@ -1,0 +1,107 @@
+{
+  "hero": {
+    "heading1": "أعيدي تعريف",
+    "heading2": "جمالك الطبيعي",
+    "description": "نحن متخصصون في إبراز جمالك الطبيعي، نصنع إشراقة خالدة بتناغم بين العلم والفن.",
+    "cta1": "حجز موعد",
+    "cta2": "عرض علاجك",
+    "scanFace": "امسح وجهك",
+    "skinTreatment": "علاج طبيعي للبشرة",
+    "viewRecommendations": "عرض التوصيات",
+    "stat1Value": "35",
+    "stat1Label1": "علاجات تجميل",
+    "stat1Label2": "تقليدية وحديثة",
+    "stat2Value": "50+",
+    "stat2Label1": "خبراء تجميل",
+    "stat2Label2": "محترفون",
+    "customersVisited": "عملاء زارونا",
+    "scroll": "مرّر"
+  },
+  "beforeAfter": {
+    "badge": "نتائج حقيقية",
+    "title1": "قبل و",
+    "title2": "بعد",
+    "desc": "اسحب لرؤية التحولات المذهلة التي حققها عملاؤنا مع علاج GLP-1",
+    "before": "قبل",
+    "after": "بعد",
+    "dragToCompare": "اسحب للمقارنة",
+    "failedToLoad": "فشل تحميل الصور",
+    "disclaimer": "قد تختلف النتائج. تعتمد النتائج الفردية على عوامل مختلفة.",
+    "cta": "ابدأ تحولك"
+  },
+  "services": {
+    "subtitle": "خبراتنا",
+    "title": "علاجات",
+    "titleHighlight": "متخصصة",
+    "description": "اكتشفي مجموعتنا الشاملة من خدمات التجميل الطبي، كل منها مصمم خصيصاً لاحتياجاتك الفريدة.",
+    "explore": "استكشاف",
+    "items": {
+      "facial": {
+        "title": "تجديد شباب الوجه",
+        "subtitle": "مكافحة الشيخوخة ونحت الوجه",
+        "description": "البوتوكس والفيلر وعلاجات الشد المتقدمة"
+      },
+      "weightLoss": {
+        "title": "إنقاص الوزن الطبي",
+        "subtitle": "برامج قائمة على العلم",
+        "description": "Ozempic و Mounjaro ونحت الجسم"
+      },
+      "skin": {
+        "title": "علاجات البشرة",
+        "subtitle": "حب الشباب والتصبغات",
+        "description": "العلاج بالليزر والتقشير الكيميائي"
+      },
+      "hair": {
+        "title": "استعادة الشعر",
+        "subtitle": "البلازما الغنية بالصفائح الدموية والميزوثيرابي",
+        "description": "حلول متقدمة لتساقط الشعر"
+      }
+    }
+  },
+  "whyChoose": {
+    "subtitle": "لماذا Nexus Clinic",
+    "title": "حيث يلتقي العلم",
+    "titleHighlight": "بالفن",
+    "description": "في Nexus Clinic، نؤمن بإبراز جمالك الطبيعي من خلال علاجات قائمة على الأدلة العلمية. نهجنا بإشراف الأطباء يضمن السلامة والفعالية ونتائج ستحبينها.",
+    "yearsValue": "15+",
+    "yearsLabel1": "سنوات من",
+    "yearsLabel2": "التميّز",
+    "features": {
+      "moh": { "title": "مسجّل لدى MOH", "desc": "متوافق بالكامل مع المعايير الطبية" },
+      "doctor": { "title": "رعاية بإشراف طبي", "desc": "أطباء مرخّصون ومتخصصون" },
+      "personalized": { "title": "خطط مخصصة", "desc": "مصممة وفقاً لاحتياجاتك الفريدة" },
+      "premium": { "title": "منتجات فاخرة", "desc": "علاجات معتمدة من FDA" }
+    }
+  },
+  "testimonials": {
+    "subtitle": "آراء العملاء",
+    "title": "ماذا يقول",
+    "titleHighlight": "مرضانا",
+    "titleEnd": "",
+    "reviews": "(أكثر من 500 تقييم)",
+    "items": [
+      { "quote": "Nexus Clinic لم تغيّر مظهري فحسب، بل غيّرت ثقتي بنفسي. الأطباء يستمعون حقاً ويقدمون حلولاً مخصصة.", "author": "Sarah Chen", "role": "مديرة أعمال" },
+      { "quote": "أعجبني نهجهم الشفاف. لا يقترحون أبداً علاجات غير ضرورية. عيادة يمكنك الوثوق بها حقاً.", "author": "Michael Tan", "role": "رائد أعمال" },
+      { "quote": "برنامج إنقاص الوزن غيّر حياتي. بفضل الإرشاد الطبي السليم، حققت أهدافي بأمان واستدامة.", "author": "Emily Wong", "role": "مديرة إبداعية" }
+    ]
+  },
+  "contact": {
+    "subtitle": "تواصل معنا",
+    "title": "زوروا",
+    "titleHighlight": "Nexus Clinic",
+    "address": "LG 10, Wisma UOA II, Jalan Pinang, KL",
+    "phone": "016-702 5699 / 03-2163 5699",
+    "hours": "الإثنين - السبت: 9:00 صباحاً - 6:00 مساءً",
+    "formTitle": "احجز استشارتك",
+    "placeholderName": "الاسم الكامل",
+    "placeholderEmail": "البريد الإلكتروني",
+    "placeholderPhone": "رقم الهاتف",
+    "selectTreatment": "اختر العلاج المطلوب",
+    "optionFacial": "الوجه ومكافحة الشيخوخة",
+    "optionWeightLoss": "برنامج إنقاص الوزن",
+    "optionSkin": "علاجات البشرة",
+    "optionHair": "استعادة الشعر",
+    "placeholderMessage": "رسالتك",
+    "submitButton": "إرسال الاستفسار"
+  }
+}

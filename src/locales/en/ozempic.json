@@ -1,0 +1,110 @@
+{
+  "hero": {
+    "badge": "Medical Weight Loss Solution",
+    "title1": "Transform Your Life with",
+    "title2": "Ozempic",
+    "description": "Experience clinically proven weight management at Nexus Clinic Kuala Lumpur. Our GLP-1 Liraglutide treatment helps you achieve sustainable weight loss without feeling deprived.",
+    "bookConsultation": "Book Consultation",
+    "chatWithUs": "Chat with Us",
+    "satisfiedPatients": "500+ satisfied patients",
+    "averageResult": "-15kg",
+    "averageResultLabel": "Average Result",
+    "fdaApproved": "FDA Approved",
+    "safeEffective": "Safe & Effective",
+    "weightLossAlt": "Weight Loss Treatment"
+  },
+  "treatments": {
+    "treatedArea": "Treated Area",
+    "treatedAreaValue": "Stomach, thighs, or upper arms",
+    "duration": "Duration",
+    "durationValue": "A few minutes",
+    "frequency": "Frequency",
+    "frequencyValue": "1 injection per day",
+    "downtime": "Downtime",
+    "downtimeValue": "Minimal"
+  },
+  "about": {
+    "badge": "About The Treatment",
+    "title1": "What is",
+    "title2": "GLP-1 Liraglutide?",
+    "description": "Originally developed to manage diabetes, GLP-1 Liraglutide has been proven highly effective for weight management. It mimics a hormone that helps regulate appetite and satiety, making it easier to lose weight without feeling deprived or constantly hungry.",
+    "benefit1Title": "Reduces Hunger",
+    "benefit1Desc": "Suppresses appetite naturally, making it easier to resist cravings",
+    "benefit2Title": "Increases Fullness",
+    "benefit2Desc": "Feel satisfied longer, making healthy eating effortless",
+    "benefit3Title": "Sustainable Results",
+    "benefit3Desc": "Gradual weight loss without the risk of rebound weight gain"
+  },
+  "howItWorks": {
+    "badge": "Our Process",
+    "title": "How Treatment Works",
+    "step1": "01",
+    "step1Title": "Consultation",
+    "step1Desc": "Expert assessment of your medical history, goals, and challenges to create a personalized plan.",
+    "step2": "02",
+    "step2Title": "Custom Treatment",
+    "step2Desc": "Daily GLP-1 injections combined with dietary and lifestyle recommendations tailored to you.",
+    "step3": "03",
+    "step3Title": "Ongoing Support",
+    "step3Desc": "Regular monitoring and adjustments to ensure optimal results throughout your journey."
+  },
+  "benefits": {
+    "badge": "Why Choose Us",
+    "title1": "What You Can",
+    "title2": "Expect",
+    "item1Title": "Gradual Weight Loss",
+    "item1Desc": "Steady, long-lasting results without drastic lifestyle changes",
+    "item2Title": "Appetite Control",
+    "item2Desc": "Manage hunger and cravings effortlessly",
+    "item3Title": "Improved Health",
+    "item3Desc": "More energy and reduced weight-related health risks",
+    "item4Title": "Clinically Proven",
+    "item4Desc": "Safe and effective with medical supervision"
+  },
+  "doctors": {
+    "badge": "Our Experts",
+    "title1": "Meet Our",
+    "title2": "Doctors",
+    "dr1Name": "Dr. Aris",
+    "dr1Specialty": "Metabolic Health Expert",
+    "dr2Name": "Dr. Preetha",
+    "dr2Specialty": "Holistic Wellness",
+    "dr3Name": "Dr. Ashvinia",
+    "dr3Specialty": "Evidence-Based Solutions",
+    "dr4Name": "Dr. Charmaine",
+    "dr4Specialty": "Aesthetic & Weight Management"
+  },
+  "testimonials": {
+    "badge": "Success Stories",
+    "title1": "Client",
+    "title2": "Reviews",
+    "review1Name": "Hana Aisya",
+    "review1Text": "I lost 15 pounds very quickly. This is the best treatment for weight loss to see results within weeks!",
+    "review2Name": "Liya Lee",
+    "review2Text": "I lost 25 kg, which wouldn't have been possible without the GLP-1 injections. Quick and non-invasive!",
+    "review3Name": "Nina Patel",
+    "review3Text": "My overall experience was beyond expectations. The treatment was smooth and pain-free."
+  },
+  "faq": {
+    "badge": "Got Questions?",
+    "title1": "Frequently Asked",
+    "title2": "Questions",
+    "q1": "What is the best injection for weight loss?",
+    "a1": "GLP-1 receptor agonist injections are among the most effective options, supporting significant weight reduction and long-term management.",
+    "q2": "Are there any side effects?",
+    "a2": "Side effects may include nausea, vomiting, diarrhea, and abdominal pain. Always consult your healthcare provider before beginning treatment.",
+    "q3": "How long does it take to show results?",
+    "a3": "It typically takes 4 to 6 weeks to begin noticing visible results from GLP-1 receptor agonist treatment.",
+    "q4": "Who is not suitable for the treatment?",
+    "a4": "GLP-1 receptor agonists are not recommended for children under 18, pregnant women, or individuals with eating disorders."
+  },
+  "cta": {
+    "title1": "Ready to Start Your",
+    "title2": "Transformation?",
+    "description": "Take the first step towards a healthier you. Book your consultation today and discover how GLP-1 treatment can help you achieve your weight loss goals.",
+    "bookAppointment": "Book Appointment",
+    "callUsNow": "Call Us Now",
+    "address": "Wisma UOA II, Kuala Lumpur",
+    "phone": "+60 16-702 5699"
+  }
+}

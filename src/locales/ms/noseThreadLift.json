@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "badge": "Nexus Clinic Kuala Lumpur",
+    "title": "Angkat bentuk hidung anda",
+    "titleHighlight": "tanpa pembedahan",
+    "desc": "Batang hidung lebih tinggi. Hujung lebih tajam. Profil sisi lebih bersih. Rawatan pantas, masa pemulihan singkat, dan penambahbaikan yang kelihatan semula jadi.",
+    "cta1": "Tempah Konsultasi",
+    "cta2": "Lihat Galeri",
+    "trust1": "Penilaian oleh doktor",
+    "trust2": "Kepakaran hidung Asia",
+    "trust3": "Lokasi pusat KL",
+    "priceLabel": "Panduan harga bermula",
+    "priceFrom": "RM 1,500",
+    "priceTo": "RM 3,000",
+    "floatTitle": "Perkadaran semula jadi",
+    "floatDesc": "Bukan hasil \"copy paste\""
+  },
+  "what": {
+    "title": "Apa itu",
+    "titleHighlight": "Nose Thread Lift?",
+    "desc": "Rawatan invasif minimum yang menggunakan benang boleh serap untuk memperbaiki rupa batang dan hujung hidung anda. Benang bertindak seperti perancah di bawah kulit untuk menyokong bentuk baharu.",
+    "idealTitle": "Sesuai untuk:",
+    "ideal1": "Batang hidung rata yang kelihatan rendah dalam foto",
+    "ideal2": "Hujung hidung yang kelihatan lembut atau sedikit jatuh",
+    "ideal3": "Asimetri ringan",
+    "ideal4": "Profil yang memerlukan definisi lebih tajam",
+    "stat1Value": "20-30 minit",
+    "stat1Label": "Prosedur pantas",
+    "stat2Value": "12-18 bulan",
+    "stat2Label": "Hasil bertahan",
+    "stat3Value": "4-8 benang",
+    "stat3Label": "Purata setiap sesi",
+    "stat4Value": "PDO / PCL",
+    "stat4Label": "Jenis benang"
+  },
+  "results": {
+    "title": "Hasil realistik,",
+    "titleHighlight": "jangkaan jujur",
+    "desc": "Jujurlah dengan diri sendiri di sini. Benang hidung bukan sihir, tetapi ia boleh mencipta peningkatan halus yang cantik.",
+    "canTitle": "Boleh dilakukan",
+    "can1": "Mencipta garisan batang hidung yang lebih jelas",
+    "can2": "Memberikan rupa batang hidung yang sedikit lebih tinggi",
+    "can3": "Membantu hujung hidung kelihatan lebih terangkat dan menonjol",
+    "can4": "Memperbaiki kontur dalam foto sisi",
+    "cannotTitle": "Tidak boleh dilakukan",
+    "cannot1": "Menjadikan hidung yang sangat lebar menjadi sempit",
+    "cannot2": "Mengurangkan lebar tulang",
+    "cannot3": "Membetulkan masalah struktur utama",
+    "cannot4": "Menggantikan hasil rhinoplasty pembedahan"
+  },
+  "timeline": {
+    "title": "Perjalanan anda,",
+    "titleHighlight": "hari demi hari",
+    "desc": "Apa yang anda lihat, dan bila anda melihatnya - garis masa yang tenang dan nyata dari hari ke-1 hingga hari ke-14",
+    "day1Label": "Hari ke-1",
+    "day1Title": "Hasil serta-merta",
+    "day1Desc": "Batang hidung kelihatan lebih tajam serta-merta. Beberapa bengkak dijangka.",
+    "day2Label": "Hari ke 3-7",
+    "day2Title": "Tempoh penyesuaian",
+    "day2Desc": "Bengkak adalah biasa. Lebam ringan boleh berlaku. Kebanyakan kembali ke aktiviti harian dalam 1-2 hari.",
+    "day3Label": "Minggu ke 2-4",
+    "day3Title": "Hasil akhir",
+    "day3Desc": "Hidung kelihatan lebih stabil. Hasilnya kelihatan lebih 'milik anda'."
+  },
+  "faq": {
+    "q1": "Apa yang nose thread lift lakukan?",
+    "a1": "Ia mempertingkatkan batang dan hujung hidung menggunakan benang boleh serap untuk memperbaiki kontur tanpa pembedahan.",
+    "q2": "Berapa lama hasil bertahan?",
+    "a2": "Banyak klinik menyatakan hasil biasanya bertahan antara 12 dan 18 bulan, bergantung pada jenis benang dan faktor individu.",
+    "q3": "Adakah ia sakit?",
+    "a3": "Ketidakselesaan biasanya minimum kerana bius tempatan digunakan.",
+    "q4": "Bolehkah sesiapa mendapatkan benang hidung?",
+    "a4": "Tidak semestinya. Sesetengah hidung tidak boleh menerima banyak benang dengan selamat, dan penilaian penting untuk mengelakkan komplikasi."
+  },
+  "cta": {
+    "title": "Bersedia untuk penambahbaikan yang kelihatan semula jadi?",
+    "desc": "Tempah penilaian oleh doktor di Nexus Clinic Kuala Lumpur. Mari buat pelan yang menghormati perkadaran wajah unik anda.",
+    "button1": "Jadualkan Konsultasi",
+    "button2": "Lihat Harga",
+    "quote": "Kerana ini bukan \"rawatan trend.\" Ia adalah keputusan keseimbangan wajah."
+  }
+}

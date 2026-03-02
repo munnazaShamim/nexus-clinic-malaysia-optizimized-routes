@@ -1,0 +1,141 @@
+{
+  "hero": {
+    "badge": "Regenerative Medicine Excellence in KLCC",
+    "title1": "When your body feels \"stuck,\"",
+    "title2": "regenerative care",
+    "title3": "can feel like hope.",
+    "subtitle": "It should also feel safe.",
+    "cta1": "Schedule Private Consultation",
+    "cta2": "Understand Your Options",
+    "clinicLabel": "Nexus Clinic Kuala Lumpur",
+    "clinicAddress": "— LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur",
+    "clinicPhone": "016-7025699 / 03-21635699"
+  },
+  "trust": {
+    "title": "Patient-First, Safety-Focused",
+    "desc": "Where Malaysia's MOH guidelines meet international standards of care",
+    "imageTitle": "Expert Team",
+    "imageDesc": "Specialized in regenerative medicine",
+    "t1Title": "Central KL Location",
+    "t1Desc": "KLCC area — Wisma UOA II, Jalan Pinang",
+    "t2Title": "Private Consultations",
+    "t2Desc": "Patient-first approach with complete privacy",
+    "t3Title": "MOH-Aligned",
+    "t3Desc": "Following Malaysia's guidelines for stem cell therapy",
+    "mohQuote": "Malaysia's MOH guideline notes that hematopoietic and cord blood stem cell transplant are the most established forms of stem cell therapy, while many other stem cell applications are considered experimental and require proper oversight."
+  },
+  "whatIs": {
+    "badge": "Foundation Knowledge",
+    "title": "What Is Stem Cell Therapy?",
+    "desc": "Stem cells are special cells that can self-renew and can mature into other cell types. Stem cell therapy is any treatment that uses stem cells, or cells derived from them, to repair or replace damaged cells or tissues.",
+    "note": "That sounds powerful, and it can be. But it is also why stem cell treatment needs stricter rules than most \"wellness\" services.",
+    "truthTitle": "The Most Important Truth",
+    "truthDesc": "Not all \"stem cell therapy\" is the same.",
+    "truth1": "HSC transplant is most established",
+    "truth2": "Other uses are experimental",
+    "truth3": "Xenotransplantation prohibited"
+  },
+  "types": {
+    "title": "Types of Stem Cells in Malaysia",
+    "desc": "Understanding the terminology clinics use",
+    "hscTitle": "Hematopoietic Stem Cells (HSCs)",
+    "hscDesc": "\"Blood-forming\" stem cells used in bone marrow or blood stem cell transplantation. This is the best-established form globally.",
+    "hscBadge": "Established by ISSCR & Malaysian guidance",
+    "mscTitle": "Mesenchymal Stem Cells (MSCs)",
+    "mscDesc": "Often discussed for inflammation and tissue repair. Many KL providers focus on MSC therapy, frequently from umbilical cord Wharton's Jelly.",
+    "mscBadge": "Evolving area — ISSCR warns against routine commercial use",
+    "ipsTitle": "Embryonic & iPS Cells",
+    "ipsDesc": "Exist in scientific research and some clinical trials globally. Not \"routine clinic services.\"",
+    "ipsBadge": "Malaysia treats embryonic stem cell therapy as experimental"
+  },
+  "proven": {
+    "provenTitle": "What's Proven Today",
+    "provenQuote": "Best-established stem cell treatments are blood and immune disorders and loss of bone marrow function, treated with blood stem cell transplantation.",
+    "provenNote": "Malaysia's guideline aligns: hematopoietic and cord blood stem cell transplantation are the most established.",
+    "studiedTitle": "Being Studied (Mixed Evidence)",
+    "studiedDesc": "Joints, autoimmune, neuro, metabolic — areas of active research",
+    "studiedNote": "ISSCR warns: unproven interventions need well-regulated trials"
+  },
+  "approach": {
+    "title": "The Nexus Clinic Approach",
+    "desc": "Patient-safe mindset, structured journey, MOH-aligned procedures",
+    "badge": "Private & Confidential",
+    "step1Title": "Consultation & Screening",
+    "step1Desc": "We start with what you feel, what you've tried, and your actual diagnosis.",
+    "step2Title": "Clear Classification",
+    "step2Desc": "Established indication? Investigational? Or redirect to standard care.",
+    "step3Title": "Informed Consent",
+    "step3Desc": "Clearly state if treatment is unproven, explain risks and alternatives.",
+    "step4Title": "Delivery & Monitoring",
+    "step4Desc": "IV infusion or local injection with proper follow-up plan."
+  },
+  "safety": {
+    "title": "Your Safety Is Our Priority",
+    "desc": "Every patient journey is unique, structured, and evidence-based.",
+    "stat1": "1000+",
+    "stat1Label": "Patients Treated",
+    "stat2": "15+",
+    "stat2Label": "Years Experience",
+    "stat3": "100%",
+    "stat3Label": "MOH Compliant"
+  },
+  "benefits": {
+    "title": "Benefits People Hope For",
+    "b1": "Less pain",
+    "b2": "Better movement",
+    "b3": "Better energy",
+    "b4": "Improved function",
+    "b5": "Slower progression of chronic condition",
+    "note": "Look for measurable outcomes (pain score, walking distance, blood markers). Set realistic timeline, plan follow-up, not \"one shot and done.\""
+  },
+  "risks": {
+    "title": "Risks & Why Safety Matters",
+    "intro": "Stem cells are not vitamins. They are living materials. That brings real risk.",
+    "r1": "Infection",
+    "r2": "Immune reactions",
+    "r3": "Fever and inflammatory reactions",
+    "r4": "Clotting risk",
+    "r5": "Unknown long-term effects",
+    "r6": "Financial harm from repeated unproven sessions"
+  },
+  "location": {
+    "title": "Visit Us at KLCC",
+    "address": "Wisma UOA II, Jalan Pinang",
+    "phone": "016-7025699",
+    "unit": "LG 10"
+  },
+  "faq": {
+    "q1": "What is stem cell therapy?",
+    "a1": "A treatment that uses stem cells, or cells derived from them, to repair or replace damaged cells or tissues.",
+    "q2": "What conditions are stem cell treatments proven for?",
+    "a2": "Blood and immune disorders, loss of bone marrow function via blood stem cell transplantation (most established).",
+    "q3": "Is stem cell therapy approved in Malaysia?",
+    "a3": "MOH notes hematopoietic and cord blood stem cell transplantation are most established; other uses are experimental.",
+    "q4": "Why do some clinics offer stem cells for many diseases?",
+    "a4": "ISSCR warns that unproven interventions are widely commercialised without sufficient evidence.",
+    "q5": "Is stem cell therapy safe?",
+    "a5": "No medical treatment is risk-free. Long-term safety can be uncertain; follow-up is important.",
+    "q6": "What are the side effects or risks?",
+    "a6": "Infection, immune reactions, unknown long-term effects. FDA reports serious harms from unapproved products.",
+    "q7": "How many sessions do I need?",
+    "a7": "Depends on condition and protocol. Be cautious if someone promises a fixed number for everyone.",
+    "q8": "How long does it take to see results?",
+    "a8": "Timelines vary. A good clinic defines measurable goals and follow-up points.",
+    "q9": "How much does stem cell therapy cost in Kuala Lumpur?",
+    "a9": "Some clinics start around RM6,000+. Higher ranges for complexity. Always request itemised quote.",
+    "q10": "Where do the stem cells come from?",
+    "a10": "Common sources: cord tissue (Wharton's Jelly), adipose tissue, bone marrow.",
+    "q11": "What should I ask a clinic before I book?",
+    "a11": "Ask for scientific evidence, ethics oversight, regulatory compliance. Be cautious of testimonial-based claims.",
+    "q12": "Are exosome treatments the same as stem cell therapy?",
+    "a12": "No. FDA includes exosomes among unapproved regenerative products broadly marketed."
+  },
+  "cta": {
+    "title": "Start with Clarity",
+    "desc": "If you're searching for stem cell therapy in Malaysia or regenerative medicine in Kuala Lumpur, start with a private consult focused on your diagnosis, your risks, and what is realistically achievable.",
+    "clinicName": "Nexus Clinic Kuala Lumpur",
+    "clinicAddress": "LG 10, Lower Ground Floor, Wisma UOA II, Jalan Pinang, 50450 Kuala Lumpur",
+    "clinicPhone": "016-7025699 / 03-21635699",
+    "button": "Schedule Your Private Consultation"
+  }
+}
