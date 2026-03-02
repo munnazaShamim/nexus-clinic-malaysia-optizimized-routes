@@ -36,13 +36,13 @@ export async function generateMetadata({
     }
     
     const post = adaptWordPressPost(wordPressPost, 0);
-    
+     const baseUrl = process.env.BASE_URL;
     if (post.seo) {
       return {
         title: post.seo.title,
         description: post.seo.description,
         alternates: {
-          canonical: post.seo.canonical || `https://nexus-clinic-malaysia.vercel.app/blogs/${slug}`,
+          canonical: post.seo.canonical || `${baseUrl}/blogs/${slug}`,
         },
         openGraph: {
           title: post.seo.ogTitle,
@@ -51,7 +51,7 @@ export async function generateMetadata({
           type: 'article',
           publishedTime: wordPressPost.date,
           modifiedTime: wordPressPost.modified,
-          url: `https://nexus-clinic-malaysia.vercel.app/blogs/${slug}`,
+          url: `${baseUrl}/blogs/${slug}`,
         },
         twitter: {
           card: 'summary_large_image',
@@ -113,7 +113,7 @@ export default async function Page({
     }
 
     const post = adaptWordPressPost(wordPressPost, 0);
-
+    const baseUrl = process.env.BASE_URL;
     const faqSchema = post.faqs && post.faqs.length > 0 ? {
       "@context": "https://schema.org",
       "@type": "FAQPage",
@@ -125,7 +125,7 @@ export default async function Page({
           "text": faq.answer
         }
       })),
-      "url": `https://nexus-clinic-malaysia.vercel.app/blogs/${slug}`
+      "url": `${baseUrl}/blogs/${slug}`
     } : null;
     return (
       <>

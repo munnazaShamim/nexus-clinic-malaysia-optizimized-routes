@@ -46,7 +46,7 @@ function formatDate(dateString: string): string {
 
 export function adaptWordPressPost(post: WordPressPost, index: number): Post {
   const featuredImage = post._embedded?.['wp:featuredmedia']?.[0]?.source_url ||  post.jetpack_featured_media_url || '/images/blog-default.png';
-  
+  const baseUrl = process.env.BASE_URL;
 
   const seo = post.yoast_head_json ? {
     title: post.yoast_head_json.title || post.title.rendered.replace(/<[^>]*>/g, ''),
@@ -70,7 +70,7 @@ export function adaptWordPressPost(post: WordPressPost, index: number): Post {
     date: formatDate(post.date),
     readTime: getReadTime(post.content.rendered),
     image: featuredImage,
-    href: `https://nexus-clinic-malaysia.vercel.app/${post.slug}/`,
+    href: `${baseUrl}/${post.slug}/`,
     featured: index === 0,
     seo,
     faqs: faqs.length > 0 ? faqs : undefined
