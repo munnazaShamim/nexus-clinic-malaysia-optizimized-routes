@@ -45,7 +45,7 @@ const ErrorMessage = ({ message, onRetry }: ErrorMessageProps) => {
   );
 }
 // Data & Constants
-import { categories } from '../../constants/blog';
+import { categories } from '../../data/blog';
 import type { CategoryValue } from "../../types/blog";
 import { useBlogData } from "../../hooks/useBlogData";
 

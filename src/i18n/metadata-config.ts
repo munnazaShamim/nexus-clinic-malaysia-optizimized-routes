@@ -1,86 +1,178 @@
-import { Metadata } from 'next';
+import type { Metadata } from "next";
 
-// Define all possible locales
-export type Locale = 'en' | 'ms' | 'zh' | 'ar' | 'id';
+export type Locale = "en" | "ms" | "zh" | "ar" | "id";
 
-// Home page metadata for each locale
+const BASE_URL = process.env.BASE_URL!;
+
 export const homeMetadata: Record<Locale, Metadata> = {
   en: {
-    title: 'Nexus Clinic Malaysia - Premium Aesthetic & Medical Clinic',
-    description: 'Leading aesthetic clinic in Malaysia offering weight loss, hair transplant, skin treatments & regenerative medicine. Book consultation today.',
+    title: "Nexus Clinic Kuala Lumpur | Aesthetic and Weight Loss Clinic",
+    description:
+      "Discover Nexus Clinic in Kuala Lumpur for personalised aesthetic and weight loss treatments. Book injectables, skin and hair care, body and general health plans.",
+
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: {
+        index: true,
+        follow: true,
+        "max-snippet": -1,
+        "max-image-preview": "large",
+        "max-video-preview": -1,
+      },
+    },
+
+    alternates: {
+      canonical: `${BASE_URL}/en`,
+      languages: {
+        en: `${BASE_URL}/en`,
+        ms: `${BASE_URL}/ms`,
+        zh: `${BASE_URL}/zh`,
+        ar: `${BASE_URL}/ar`,
+        id: `${BASE_URL}/id`,
+      },
+    },
+
     openGraph: {
-      title: 'Nexus Clinic Malaysia - Premium Aesthetic & Medical Clinic',
-      description: 'Leading aesthetic clinic in Malaysia offering weight loss, hair transplant, skin treatments & regenerative medicine.',
-      images: ['/images/og-image.jpg'],
+      type: "website",
+      url: `${BASE_URL}/en`,
+      siteName: "Nexus Clinic Kuala Lumpur",
+      title: "Nexus Clinic Kuala Lumpur | Aesthetic and Weight Loss Clinic",
+      description:
+        "Discover Nexus Clinic in Kuala Lumpur for personalised aesthetic and weight loss treatments. Book injectables, skin and hair care, body and general health plans.",
+      images: [
+        {
+          url: "/images/treatment/face-scan.png",
+          width: 1200,
+          height: 630,
+          alt: "Nexus Clinic Aesthetic & Weight Loss Treatments",
+        },
+      ],
+    },
+
+    twitter: {
+      card: "summary_large_image",
+      title: "Nexus Clinic Kuala Lumpur | Aesthetic and Weight Loss Clinic",
+      description:
+        "Personalised aesthetic and weight loss treatments in Kuala Lumpur.",
+      images: ["/images/treatment/face-scan.png"],
     },
   },
+
   ms: {
-    title: 'Nexus Clinic Malaysia - Klinik Estetik & Perubatan Premium',
-    description: 'Klinik estetik terkemuka di Malaysia menawarkan rawatan penurunan berat badan, transplantasi rambut, kulit & perubatan regeneratif. Tempah konsultasi hari ini.',
+    title: "Nexus Clinic Kuala Lumpur | Klinik Estetik & Penurunan Berat Badan",
+    description:
+      "Temui Nexus Clinic di Kuala Lumpur untuk rawatan estetik dan penurunan berat badan yang diperibadikan.",
+
+    robots: { index: true, follow: true },
+
+    alternates: {
+      canonical: `${BASE_URL}/ms`,
+      languages: {
+        en: `${BASE_URL}/en`,
+        ms: `${BASE_URL}/ms`,
+        zh: `${BASE_URL}/zh`,
+        ar: `${BASE_URL}/ar`,
+        id: `${BASE_URL}/id`,
+      },
+    },
+
     openGraph: {
-      title: 'Nexus Clinic Malaysia - Klinik Estetik & Perubatan Premium',
-      description: 'Klinik estetik terkemuka di Malaysia menawarkan rawatan penurunan berat badan, transplantasi rambut, kulit & perubatan regeneratif.',
-      images: ['/images/og-image.jpg'],
+      type: "website",
+      url: `${BASE_URL}/ms`,
+      siteName: "Nexus Clinic Kuala Lumpur",
+      title: "Nexus Clinic Kuala Lumpur | Klinik Estetik & Penurunan Berat Badan",
+      description:
+        "Rawatan estetik dan penurunan berat badan yang diperibadikan di Kuala Lumpur.",
+      images: ["/images/treatment/face-scan.png"],
     },
   },
+
   zh: {
-    title: 'Nexus Clinic Malaysia - 顶级美学与医疗诊所',
-    description: '马来西亚领先的美学诊所，提供减肥、植发、皮肤治疗和再生医学服务。立即预约咨询。',
+    title: "吉隆坡 Nexus 诊所 | 医美与减重诊所",
+    description:
+      "探索位于吉隆坡的 Nexus 诊所，提供个性化的医美与体重管理治疗。",
+
+    robots: { index: true, follow: true },
+
+    alternates: {
+      canonical: `${BASE_URL}/zh`,
+      languages: {
+        en: `${BASE_URL}/en`,
+        ms: `${BASE_URL}/ms`,
+        zh: `${BASE_URL}/zh`,
+        ar: `${BASE_URL}/ar`,
+        id: `${BASE_URL}/id`,
+      },
+    },
+
     openGraph: {
-      title: 'Nexus Clinic Malaysia - 顶级美学与医疗诊所',
-      description: '马来西亚领先的美学诊所，提供减肥、植发、皮肤治疗和再生医学服务。',
-      images: ['/images/og-image.jpg'],
+      type: "website",
+      url: `${BASE_URL}/zh`,
+      siteName: "Nexus Clinic Kuala Lumpur",
+      title: "吉隆坡 Nexus 诊所 | 医美与减重诊所",
+      description:
+        "吉隆坡专业的医美与体重管理诊所。",
+      images: ["/images/treatment/face-scan.png"],
     },
   },
+
   ar: {
-    title: 'عيادة نيكسوس ماليزيا - عيادة جمالية وطبية فاخرة',
-    description: 'عيادة تجميل رائدة في ماليزيا تقدم علاجات إنقاص الوزن وزراعة الشعر والعناية بالبشرة والطب التجديدي. احجز استشارة اليوم.',
+    title: "عيادة نيكسس كوالالمبور | عيادة التجميل وإنقاص الوزن",
+    description:
+      "اكتشف عيادة نيكسس في كوالالمبور لعلاجات التجميل وإنقاص الوزن المخصصة.",
+
+    robots: { index: true, follow: true },
+
+    alternates: {
+      canonical: `${BASE_URL}/ar`,
+      languages: {
+        en: `${BASE_URL}/en`,
+        ms: `${BASE_URL}/ms`,
+        zh: `${BASE_URL}/zh`,
+        ar: `${BASE_URL}/ar`,
+        id: `${BASE_URL}/id`,
+      },
+    },
+
     openGraph: {
-      title: 'عيادة نيكسوس ماليزيا - عيادة جمالية وطبية فاخرة',
-      description: 'عيادة تجميل رائدة في ماليزيا تقدم علاجات إنقاص الوزن وزراعة الشعر والعناية بالبشرة والطب التجديدي.',
-      images: ['/images/og-image.jpg'],
+      type: "website",
+      url: `${BASE_URL}/ar`,
+      siteName: "Nexus Clinic Kuala Lumpur",
+      title: "عيادة نيكسس كوالالمبور | عيادة التجميل وإنقاص الوزن",
+      description:
+        "علاجات تجميلية وإنقاص وزن متقدمة في كوالالمبور.",
+      images: ["/images/treatment/face-scan.png"],
     },
   },
+
   id: {
-    title: 'Nexus Clinic Malaysia - Klinik Estetika & Medis Premium',
-    description: 'Klinik estetika terkemuka di Malaysia menawarkan penurunan berat badan, transplantasi rambut, perawatan kulit & pengobatan regeneratif. Konsultasi sekarang.',
+    title: "Nexus Clinic Kuala Lumpur | Klinik Estetika & Penurunan Berat Badan",
+    description:
+      "Temukan Nexus Clinic di Kuala Lumpur untuk perawatan estetika dan penurunan berat badan.",
+
+    robots: { index: true, follow: true },
+
+    alternates: {
+      canonical: `${BASE_URL}/id`,
+      languages: {
+        en: `${BASE_URL}/en`,
+        ms: `${BASE_URL}/ms`,
+        zh: `${BASE_URL}/zh`,
+        ar: `${BASE_URL}/ar`,
+        id: `${BASE_URL}/id`,
+      },
+    },
+
     openGraph: {
-      title: 'Nexus Clinic Malaysia - Klinik Estetika & Medis Premium',
-      description: 'Klinik estetika terkemuka di Malaysia menawarkan penurunan berat badan, transplantasi rambut, perawatan kulit & pengobatan regeneratif.',
-      images: ['/images/og-image.jpg'],
+      type: "website",
+      url: `${BASE_URL}/id`,
+      siteName: "Nexus Clinic Kuala Lumpur",
+      title: "Nexus Clinic Kuala Lumpur | Klinik Estetika & Penurunan Berat Badan",
+      description:
+        "Perawatan estetika dan penurunan berat badan yang dipersonalisasi.",
+      images: ["/images/treatment/face-scan.png"],
     },
   },
 };
 
-// Treatment page metadata generator
-export const getTreatmentMetadata = (locale: Locale, treatment: string): Metadata => {
-  const treatmentName = treatment.split('-').map(word => 
-    word.charAt(0).toUpperCase() + word.slice(1)
-  ).join(' ');
-  
-  const titles: Record<Locale, string> = {
-    en: `${treatmentName} Treatment in Malaysia | Nexus Clinic`,
-    ms: `Rawatan ${treatmentName} di Malaysia | Nexus Clinic`,
-    zh: `马来西亚${treatmentName}治疗 | Nexus Clinic`,
-    ar: `علاج ${treatmentName} في ماليزيا | عيادة نيكسوس`,
-    id: `Perawatan ${treatmentName} di Malaysia | Nexus Clinic`,
-  };
-  
-  const descriptions: Record<Locale, string> = {
-    en: `Expert ${treatmentName.toLowerCase()} treatment in Malaysia. Book consultation with our specialist doctors at Nexus Clinic.`,
-    ms: `Rawatan ${treatmentName.toLowerCase()} pakar di Malaysia. Tempah konsultasi dengan doktor pakar kami di Nexus Clinic.`,
-    zh: `马来西亚专业的${treatmentName}治疗。立即预约Nexus Clinic的专家医生咨询。`,
-    ar: `علاج ${treatmentName.toLowerCase()} خبير في ماليزيا. احجز استشارة مع أطبائنا المتخصصين في عيادة نيكسوس.`,
-    id: `Perawatan ${treatmentName.toLowerCase()} ahli di Malaysia. Konsultasi dengan dokter spesialis kami di Nexus Clinic.`,
-  };
-
-  return {
-    title: titles[locale],
-    description: descriptions[locale],
-    openGraph: {
-      title: titles[locale],
-      description: descriptions[locale],
-      images: ['/images/og-image.jpg'],
-    },
-  };
-};

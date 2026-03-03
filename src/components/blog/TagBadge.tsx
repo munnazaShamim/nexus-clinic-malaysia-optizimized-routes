@@ -1,4 +1,4 @@
-import { tagColors, defaultTagColor } from '@/src/constants/blog'
+import { tagColors, defaultTagColor } from '@/src/data/blog'
 
 interface TagBadgeProps {
   tag: string;
